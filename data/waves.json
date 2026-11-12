@@ -40,27 +40,32 @@
  "men|imadepajarariyana|leonardoapreda|lukevanwyk": {
   "leonardoapreda": {
    "waves": [
-    3.5
+    3.5,
+    4.13
    ],
    "best_waves": [
-    3.5,
-    0.0
+    4.13,
+    3.5
    ]
   },
   "imadepajarariyana": {
    "waves": [
-    3.1
+    3.1,
+    5.73
    ],
    "best_waves": [
-    3.1,
-    0.0
+    5.73,
+    3.1
    ]
   },
   "lukevanwyk": {
-   "waves": [],
+   "waves": [
+    4.9,
+    3.4
+   ],
    "best_waves": [
-    0.0,
-    0.0
+    4.9,
+    3.4
    ]
   }
  }

@@ -4,48 +4,23 @@
  "heat": 10,
  "heat_id": "122",
  "status": "RUNNING",
- "minleft": 15,
- "secleft": 9,
+ "minleft": 3,
+ "secleft": 46,
  "end": "",
  "surfers": [
   {
-   "name": "Leonardo Apreda",
-   "country": "ITA",
-   "place": 1,
-   "total": 3.5,
-   "best_waves": [
-    3.5,
-    0.0
-   ],
-   "priority": null,
-   "waves": [
-    3.5
-   ],
-   "wave_detail": [
-    {
-     "score": 3.5,
-     "judges": [
-      3.5,
-      3.5,
-      3.5,
-      4.0,
-      3.5
-     ]
-    }
-   ]
-  },
-  {
    "name": "I Made Pajar Ariyana",
    "country": "INA",
-   "place": 2,
-   "total": 3.1,
+   "place": 1,
+   "total": 8.83,
    "best_waves": [
-    3.1,
-    0.0
+    5.73,
+    3.1
    ],
    "priority": null,
    "waves": [
-    3.1
+    3.1,
+    5.73
    ],
    "wave_detail": [
     {
@@ -57,22 +32,93 @@
       3.3,
       3.3
      ]
+    },
+    {
+     "score": 5.73,
+     "judges": [
+      6.0,
+      5.2,
+      6.0,
+      6.0,
+      5.0
+     ]
     }
    ]
   },
   {
    "name": "Luke van Wyk",
    "country": "RSA",
-   "place": 3,
-   "total": 0.0,
+   "place": 2,
+   "total": 8.3,
    "best_waves": [
-    0.0,
-    0.0
+    4.9,
+    3.4
+   ],
+   "priority": "P2",
+   "waves": [
+    4.9,
+    3.4
+   ],
+   "wave_detail": [
+    {
+     "score": 4.9,
+     "judges": [
+      4.5,
+      5.0,
+      5.0,
+      5.0,
+      4.7
+     ]
+    },
+    {
+     "score": 3.4,
+     "judges": [
+      3.3,
+      4.2,
+      3.3,
+      3.2,
+      3.6
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Leonardo Apreda",
+   "country": "ITA",
+   "place": 3,
+   "total": 7.63,
+   "best_waves": [
+    4.13,
+    3.5
    ],
    "priority": "P1",
-   "waves": [],
-   "wave_detail": []
+   "waves": [
+    3.5,
+    4.13
+   ],
+   "wave_detail": [
+    {
+     "score": 3.5,
+     "judges": [
+      3.5,
+      3.5,
+      3.5,
+      4.0,
+      3.5
+     ]
+    },
+    {
+     "score": 4.13,
+     "judges": [
+      4.2,
+      4.0,
+      4.0,
+      4.2,
+      4.5
+     ]
+    }
+   ]
   }
  ],
- "fetched_utc": "2026-11-12T15:19:44.408071Z"
+ "fetched_utc": "2026-11-12T15:31:07.864077Z"
 }

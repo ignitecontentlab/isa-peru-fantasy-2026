@@ -15,4 +15,4 @@ jobs:
       - run: python collector/collect_isa.py
       - run: |
           git config user.name "collector"; git config user.email "bot@users.noreply.github.com"
-          git add data; git diff --cached --quiet || (git commit -m "data update" && git push)
+          git add -A data; git diff --cached --quiet || (git commit -m "data update" && git push)

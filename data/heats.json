@@ -6787,17 +6787,17 @@
    {
     "name": "Leihani Zoric",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 7.8,
+    "place": 2
    },
    {
     "name": "Coral Jeanne Bonilla",
     "country": "MEX",
-    "total": null,
-    "place": null
+    "total": 10.4,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6807,17 +6807,17 @@
    {
     "name": "Stephanie Gilmore",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 5.43,
+    "place": 2
    },
    {
     "name": "Yang Siqi",
     "country": "CHN",
-    "total": null,
-    "place": null
+    "total": 10.0,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6928,17 +6928,17 @@
    {
     "name": "Lucia Indurain",
     "country": "ARG",
-    "total": null,
-    "place": null
+    "total": 4.8,
+    "place": 2
    },
    {
     "name": "Charlotte Mulley",
     "country": "GBR",
-    "total": null,
-    "place": null
+    "total": 9.5,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6974,8 +6974,8 @@
    {
     "name": "Isidora Bulto",
     "country": "CHI",
-    "total": null,
-    "place": null,
+    "total": 8.46,
+    "place": 2,
     "waves": [],
     "best_waves": [
      0.0,
@@ -6985,8 +6985,8 @@
    {
     "name": "Chelsea Tuach",
     "country": "BAR",
-    "total": null,
-    "place": null,
+    "total": 9.84,
+    "place": 1,
     "waves": [
      0.5
     ],
@@ -6998,8 +6998,8 @@
    {
     "name": "Hanasuri Jabrik",
     "country": "INA",
-    "total": null,
-    "place": null,
+    "total": 4.87,
+    "place": 3,
     "waves": [
      2.0
     ],
@@ -7009,7 +7009,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -7020,19 +7020,43 @@
     "name": "Jasmine Michelle Studer",
     "country": "INA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.93,
+     4.9
+    ],
+    "best_waves": [
+     4.9,
+     2.93
+    ]
    },
    {
     "name": "Diana Giorgi",
     "country": "ITA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.13,
+     1.67
+    ],
+    "best_waves": [
+     2.13,
+     1.67
+    ]
    },
    {
     "name": "Faviola Alcalá",
     "country": "PUR",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     4.1,
+     7.33
+    ],
+    "best_waves": [
+     7.33,
+     4.1
+    ]
    }
   ],
   "complete": false
@@ -7123,6 +7147,12 @@
     "country": "RSA",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7145,6 +7175,12 @@
     "place": null
    },
    {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Nilbie Blancada",
     "country": "PHI",
     "total": null,
@@ -7158,6 +7194,12 @@
   "round": "B12",
   "heat": 3,
   "surfers": [
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": null,
+    "place": null
+   },
    {
     "name": "Taina Hinckel",
     "country": "BRA",
@@ -7191,6 +7233,12 @@
     "place": null
    },
    {
+    "name": "Stephanie Gilmore",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Chiara Cuppone",
     "country": "ITA",
     "total": null,
@@ -7211,8 +7259,20 @@
   "heat": 5,
   "surfers": [
    {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Rachael Aguero",
     "country": "CRC",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Chelsea Tuach",
+    "country": "BAR",
     "total": null,
     "place": null
    }
@@ -7227,6 +7287,18 @@
    {
     "name": "Candelaria Resano",
     "country": "NCA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Lucia Indurain",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
     "total": null,
     "place": null
    }

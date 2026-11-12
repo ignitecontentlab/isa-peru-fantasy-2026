@@ -1,78 +1,124 @@
 {
  "division": "women",
  "round": "REPECHAGE 4",
- "heat": 11,
- "heat_id": "123",
- "status": "RUNNING",
- "minleft": 16,
- "secleft": 1,
- "end": "",
+ "heat": 12,
+ "heat_id": "124",
+ "status": "UNOFFICIAL",
+ "minleft": 0,
+ "secleft": 0,
+ "end": "00:00",
  "surfers": [
   {
-   "name": "Hanasuri Jabrik",
-   "country": "INA",
+   "name": "Faviola Alcalá",
+   "country": "PUR",
    "place": 1,
-   "total": 2.0,
+   "total": 11.43,
    "best_waves": [
-    2.0,
-    0.0
+    7.33,
+    4.1
    ],
    "priority": null,
    "waves": [
-    2.0
+    4.1,
+    7.33
    ],
    "wave_detail": [
     {
-     "score": 2.0,
+     "score": 4.1,
+     "judges": [
+      4.0,
+      4.5,
+      3.7,
+      4.5,
+      3.8
+     ]
+    },
+    {
+     "score": 7.33,
+     "judges": [
+      7.0,
+      7.5,
+      7.0,
+      7.5,
+      7.5
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jasmine Michelle Studer",
+   "country": "INA",
+   "place": 2,
+   "total": 7.83,
+   "best_waves": [
+    4.9,
+    2.93
+   ],
+   "priority": null,
+   "waves": [
+    2.93,
+    4.9
+   ],
+   "wave_detail": [
+    {
+     "score": 2.93,
      "judges": [
       2.5,
-      2.0,
-      1.5,
-      2.0,
-      2.0
+      3.0,
+      2.8,
+      3.0,
+      3.0
+     ]
+    },
+    {
+     "score": 4.9,
+     "judges": [
+      4.3,
+      5.0,
+      5.0,
+      5.0,
+      4.7
      ]
     }
    ]
   },
   {
-   "name": "Chelsea Tuach",
-   "country": "BAR",
-   "place": 2,
-   "total": 0.5,
+   "name": "Diana Giorgi",
+   "country": "ITA",
+   "place": 3,
+   "total": 3.8,
    "best_waves": [
-    0.5,
-    0.0
+    2.13,
+    1.67
    ],
-   "priority": "P1",
+   "priority": null,
    "waves": [
-    0.5
+    2.13,
+    1.67
    ],
    "wave_detail": [
     {
-     "score": 0.5,
+     "score": 2.13,
      "judges": [
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5
+      1.7,
+      2.5,
+      2.2,
+      1.7,
+      2.5
+     ]
+    },
+    {
+     "score": 1.67,
+     "judges": [
+      1.9,
+      1.7,
+      1.8,
+      1.5,
+      1.5
      ]
     }
    ]
-  },
-  {
-   "name": "Isidora Bulto",
-   "country": "CHI",
-   "place": 3,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T18:54:37.558483Z"
+ "fetched_utc": "2026-11-12T19:40:41.867402Z"
 }

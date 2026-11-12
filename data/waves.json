@@ -200,5 +200,37 @@
     0.0
    ]
   }
+ },
+ "women|dianagiorgi|faviolaalcala|jasminemichellestuder": {
+  "faviolaalcala": {
+   "waves": [
+    4.1,
+    7.33
+   ],
+   "best_waves": [
+    7.33,
+    4.1
+   ]
+  },
+  "jasminemichellestuder": {
+   "waves": [
+    2.93,
+    4.9
+   ],
+   "best_waves": [
+    4.9,
+    2.93
+   ]
+  },
+  "dianagiorgi": {
+   "waves": [
+    2.13,
+    1.67
+   ],
+   "best_waves": [
+    2.13,
+    1.67
+   ]
+  }
  }
 }

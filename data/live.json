@@ -1,63 +1,62 @@
 {
  "division": "women",
  "round": "REPECHAGE 4",
- "heat": 3,
- "heat_id": "115",
+ "heat": 7,
+ "heat_id": "119",
  "status": "RUNNING",
- "minleft": 6,
- "secleft": 10,
+ "minleft": 1,
+ "secleft": 12,
  "end": "",
  "surfers": [
   {
-   "name": "Nilbie Blancada",
-   "country": "PHI",
+   "name": "Ocea Green",
+   "country": "CAN",
    "place": 1,
-   "total": 8.43,
+   "total": 10.67,
    "best_waves": [
-    4.6,
-    3.83
+    6.0,
+    4.67
    ],
    "priority": null,
    "waves": [
-    3.83,
-    4.6
+    6.0,
+    4.67
    ],
    "wave_detail": [
     {
-     "score": 3.83,
+     "score": 6.0,
      "judges": [
-      4.0,
-      3.5,
-      4.0,
-      4.0,
-      3.5
+      6.0,
+      5.5,
+      6.0,
+      6.0,
+      6.0
      ]
     },
     {
-     "score": 4.6,
+     "score": 4.67,
      "judges": [
-      4.3,
-      4.8,
-      4.2,
-      4.7,
+      5.0,
+      4.5,
+      4.5,
+      4.5,
       5.0
      ]
     }
    ]
   },
   {
-   "name": "Kyra Wallis",
-   "country": "NZL",
+   "name": "Dominic Barona",
+   "country": "ECU",
    "place": 2,
-   "total": 8.07,
+   "total": 3.67,
    "best_waves": [
-    4.4,
-    3.67
-   ],
-   "priority": "P1",
-   "waves": [
     3.67,
-    4.4
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    3.67
    ],
    "wave_detail": [
     {
@@ -66,59 +65,49 @@
       3.5,
       4.0,
       3.5,
-      3.0,
-      4.0
-     ]
-    },
-    {
-     "score": 4.4,
-     "judges": [
-      4.2,
-      4.7,
-      4.3,
-      5.0,
-      4.2
+      4.0,
+      3.5
      ]
     }
    ]
   },
   {
-   "name": "Louise Lepront",
-   "country": "RSA",
+   "name": "Victoria Muñoz Larreta",
+   "country": "ARG",
    "place": 3,
-   "total": 4.73,
+   "total": 1.43,
    "best_waves": [
-    4.5,
-    0.23
+    1.0,
+    0.43
    ],
-   "priority": "P2",
+   "priority": "P1",
    "waves": [
-    0.23,
-    4.5
+    1.0,
+    0.43
    ],
    "wave_detail": [
     {
-     "score": 0.23,
+     "score": 1.0,
      "judges": [
-      0.2,
-      0.2,
-      0.3,
-      0.1,
-      0.3
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0
      ]
     },
     {
-     "score": 4.5,
+     "score": 0.43,
      "judges": [
-      4.5,
-      5.0,
-      4.5,
-      4.5,
-      4.5
+      0.3,
+      0.7,
+      0.3,
+      0.5,
+      0.5
      ]
     }
    ]
   }
  ],
- "fetched_utc": "2026-11-12T17:19:25.483687Z"
+ "fetched_utc": "2026-11-12T18:06:14.148740Z"
 }

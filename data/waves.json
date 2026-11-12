@@ -142,5 +142,36 @@
     0.23
    ]
   }
+ },
+ "women|dominicbarona|oceagreen|victoriamunozlarreta": {
+  "oceagreen": {
+   "waves": [
+    6.0,
+    4.67
+   ],
+   "best_waves": [
+    6.0,
+    4.67
+   ]
+  },
+  "dominicbarona": {
+   "waves": [
+    3.67
+   ],
+   "best_waves": [
+    3.67,
+    0.0
+   ]
+  },
+  "victoriamunozlarreta": {
+   "waves": [
+    1.0,
+    0.43
+   ],
+   "best_waves": [
+    1.0,
+    0.43
+   ]
+  }
  }
 }

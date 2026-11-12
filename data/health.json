@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-11-12T17:19:25.483687Z",
+ "run_utc": "2026-11-12T18:06:14.148740Z",
  "sources": {
   "men.php": {
    "status": 200,
@@ -8,14 +8,14 @@
   },
   "women.php": {
    "status": 200,
-   "heats_parsed": 120,
-   "completed": 101
+   "heats_parsed": 122,
+   "completed": 103
   },
   "getlive": {
    "status": 200,
-   "bytes": 2936,
+   "bytes": 3072,
    "parsed": true
   }
  },
- "last_success_utc": "2026-11-12T17:19:25.483687Z"
+ "last_success_utc": "2026-11-12T18:06:14.148740Z"
 }

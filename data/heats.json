@@ -6737,8 +6737,8 @@
    {
     "name": "Louise Lepront",
     "country": "RSA",
-    "total": null,
-    "place": null,
+    "total": 9.73,
+    "place": 1,
     "waves": [
      0.23,
      4.5
@@ -6751,8 +6751,8 @@
    {
     "name": "Nilbie Blancada",
     "country": "PHI",
-    "total": null,
-    "place": null,
+    "total": 8.43,
+    "place": 2,
     "waves": [
      3.83,
      4.6
@@ -6765,8 +6765,8 @@
    {
     "name": "Kyra Wallis",
     "country": "NZL",
-    "total": null,
-    "place": null,
+    "total": 8.17,
+    "place": 3,
     "waves": [
      3.67,
      4.4
@@ -6777,7 +6777,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6827,23 +6827,23 @@
    {
     "name": "Genesis Borja",
     "country": "ECU",
-    "total": null,
-    "place": null
+    "total": 11.5,
+    "place": 1
    },
    {
     "name": "Taina Hinckel",
     "country": "BRA",
-    "total": null,
-    "place": null
+    "total": 10.4,
+    "place": 2
    },
    {
     "name": "Enilda Alonso",
     "country": "PAN",
-    "total": null,
-    "place": null
+    "total": 5.1,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6854,19 +6854,42 @@
     "name": "Dominic Barona",
     "country": "ECU",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.67
+    ],
+    "best_waves": [
+     3.67,
+     0.0
+    ]
    },
    {
     "name": "Victoria Muñoz Larreta",
     "country": "ARG",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     1.0,
+     0.43
+    ],
+    "best_waves": [
+     1.0,
+     0.43
+    ]
    },
    {
     "name": "Ocea Green",
     "country": "CAN",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     6.0,
+     4.67
+    ],
+    "best_waves": [
+     6.0,
+     4.67
+    ]
    }
   ],
   "complete": false
@@ -7075,6 +7098,12 @@
     "country": "NED",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Louise Lepront",
+    "country": "RSA",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7093,6 +7122,40 @@
    {
     "name": "Jin Shuhan",
     "country": "CHN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Nilbie Blancada",
+    "country": "PHI",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
     "total": null,
     "place": null
    }

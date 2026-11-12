@@ -4,20 +4,98 @@
  "heat": 8,
  "heat_id": "120",
  "status": "RUNNING",
- "minleft": 17,
- "secleft": 36,
+ "minleft": 11,
+ "secleft": 52,
  "end": "",
  "surfers": [
   {
+   "name": "Miguel Pupo",
+   "country": "BRA",
+   "place": 1,
+   "total": 5.67,
+   "best_waves": [
+    5.67,
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    5.67
+   ],
+   "wave_detail": [
+    {
+     "score": 5.67,
+     "judges": [
+      6.0,
+      6.0,
+      5.5,
+      5.5,
+      5.5
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noah Storhaug",
+   "country": "NOR",
+   "place": 2,
+   "total": 4.33,
+   "best_waves": [
+    4.33,
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    4.33
+   ],
+   "wave_detail": [
+    {
+     "score": 4.33,
+     "judges": [
+      4.5,
+      4.0,
+      4.5,
+      4.7,
+      4.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jiang Shulou",
+   "country": "CHN",
+   "place": 3,
+   "total": 3.77,
+   "best_waves": [
+    3.77,
+    0.0
+   ],
+   "priority": "P2",
+   "waves": [
+    3.77
+   ],
+   "wave_detail": [
+    {
+     "score": 3.77,
+     "judges": [
+      4.0,
+      3.5,
+      3.8,
+      4.0,
+      3.0
+     ]
+    }
+   ]
+  },
+  {
    "name": "Francisco Bellorin",
    "country": "VEN",
-   "place": 1,
+   "place": 4,
    "total": 2.27,
    "best_waves": [
     2.27,
     0.0
    ],
-   "priority": null,
+   "priority": "P1",
    "waves": [
     2.27
    ],
@@ -33,46 +111,7 @@
      ]
     }
    ]
-  },
-  {
-   "name": "Noah Storhaug",
-   "country": "NOR",
-   "place": 2,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
-  },
-  {
-   "name": "Miguel Pupo",
-   "country": "BRA",
-   "place": 3,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
-  },
-  {
-   "name": "Jiang Shulou",
-   "country": "CHN",
-   "place": 4,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T14:33:26.947983Z"
+ "fetched_utc": "2026-11-12T14:39:11.601613Z"
 }

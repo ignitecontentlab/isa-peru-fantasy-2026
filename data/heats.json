@@ -3367,9 +3367,11 @@
     "country": "NOR",
     "total": null,
     "place": null,
-    "waves": [],
+    "waves": [
+     4.33
+    ],
     "best_waves": [
-     0.0,
+     4.33,
      0.0
     ]
    },
@@ -3378,9 +3380,11 @@
     "country": "BRA",
     "total": null,
     "place": null,
-    "waves": [],
+    "waves": [
+     5.67
+    ],
     "best_waves": [
-     0.0,
+     5.67,
      0.0
     ]
    },
@@ -3389,9 +3393,11 @@
     "country": "CHN",
     "total": null,
     "place": null,
-    "waves": [],
+    "waves": [
+     3.77
+    ],
     "best_waves": [
-     0.0,
+     3.77,
      0.0
     ]
    },

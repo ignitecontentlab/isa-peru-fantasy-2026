@@ -1,23 +1,29 @@
 {
  "men|franciscobellorin|jiangshulou|miguelpupo|noahstorhaug": {
   "noahstorhaug": {
-   "waves": [],
+   "waves": [
+    4.33
+   ],
    "best_waves": [
-    0.0,
+    4.33,
     0.0
    ]
   },
   "miguelpupo": {
-   "waves": [],
+   "waves": [
+    5.67
+   ],
    "best_waves": [
-    0.0,
+    5.67,
     0.0
    ]
   },
   "jiangshulou": {
-   "waves": [],
+   "waves": [
+    3.77
+   ],
    "best_waves": [
-    0.0,
+    3.77,
     0.0
    ]
   },

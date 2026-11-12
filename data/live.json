@@ -5,13 +5,39 @@
  "heat_id": "120",
  "status": "RUNNING",
  "minleft": 17,
- "secleft": 56,
+ "secleft": 36,
  "end": "",
  "surfers": [
   {
+   "name": "Francisco Bellorin",
+   "country": "VEN",
+   "place": 1,
+   "total": 2.27,
+   "best_waves": [
+    2.27,
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    2.27
+   ],
+   "wave_detail": [
+    {
+     "score": 2.27,
+     "judges": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.8
+     ]
+    }
+   ]
+  },
+  {
    "name": "Noah Storhaug",
    "country": "NOR",
-   "place": 1,
+   "place": 2,
    "total": 0.0,
    "best_waves": [
     0.0,
@@ -24,7 +50,7 @@
   {
    "name": "Miguel Pupo",
    "country": "BRA",
-   "place": 2,
+   "place": 3,
    "total": 0.0,
    "best_waves": [
     0.0,
@@ -37,19 +63,6 @@
   {
    "name": "Jiang Shulou",
    "country": "CHN",
-   "place": 3,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
-  },
-  {
-   "name": "Francisco Bellorin",
-   "country": "VEN",
    "place": 4,
    "total": 0.0,
    "best_waves": [
@@ -61,5 +74,5 @@
    "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T14:33:07.843032Z"
+ "fetched_utc": "2026-11-12T14:33:26.947983Z"
 }

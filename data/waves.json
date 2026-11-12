@@ -22,9 +22,11 @@
    ]
   },
   "franciscobellorin": {
-   "waves": [],
+   "waves": [
+    2.27
+   ],
    "best_waves": [
-    0.0,
+    2.27,
     0.0
    ]
   }

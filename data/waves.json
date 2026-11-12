@@ -110,5 +110,37 @@
     3.03
    ]
   }
+ },
+ "women|kyrawallis|louiselepront|nilbieblancada": {
+  "nilbieblancada": {
+   "waves": [
+    3.83,
+    4.6
+   ],
+   "best_waves": [
+    4.6,
+    3.83
+   ]
+  },
+  "kyrawallis": {
+   "waves": [
+    3.67,
+    4.4
+   ],
+   "best_waves": [
+    4.4,
+    3.67
+   ]
+  },
+  "louiselepront": {
+   "waves": [
+    0.23,
+    4.5
+   ],
+   "best_waves": [
+    4.5,
+    0.23
+   ]
+  }
  }
 }

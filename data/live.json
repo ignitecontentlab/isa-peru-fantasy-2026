@@ -1,161 +1,124 @@
 {
- "division": "men",
+ "division": "women",
  "round": "REPECHAGE 4",
- "heat": 12,
- "heat_id": "124",
+ "heat": 3,
+ "heat_id": "115",
  "status": "RUNNING",
- "minleft": 0,
- "secleft": 0,
- "end": "00:00",
+ "minleft": 6,
+ "secleft": 10,
+ "end": "",
  "surfers": [
   {
-   "name": "Cole Houshmand",
-   "country": "USA",
+   "name": "Nilbie Blancada",
+   "country": "PHI",
    "place": 1,
-   "total": 13.83,
+   "total": 8.43,
    "best_waves": [
-    7.0,
-    6.83
+    4.6,
+    3.83
    ],
    "priority": null,
    "waves": [
-    7.0,
-    6.83
+    3.83,
+    4.6
    ],
    "wave_detail": [
     {
-     "score": 7.0,
+     "score": 3.83,
      "judges": [
-      6.5,
-      6.2,
-      7.0,
-      7.5,
-      7.5
-     ]
-    },
-    {
-     "score": 6.83,
-     "judges": [
-      6.3,
-      6.8,
-      7.2,
-      6.5,
-      7.7
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Tiago Sorrentino",
-   "country": "MEX",
-   "place": 2,
-   "total": 10.26,
-   "best_waves": [
-    5.83,
-    4.43
-   ],
-   "priority": null,
-   "waves": [
-    4.43,
-    5.83
-   ],
-   "wave_detail": [
-    {
-     "score": 4.43,
-     "judges": [
-      4.5,
-      4.3,
-      4.5,
-      4.5,
-      3.8
-     ]
-    },
-    {
-     "score": 5.83,
-     "judges": [
-      5.2,
-      5.8,
-      5.7,
-      6.0,
-      6.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Oscar Guzman",
-   "country": "NCA",
-   "place": 3,
-   "total": 7.8,
-   "best_waves": [
-    4.2,
-    3.6
-   ],
-   "priority": null,
-   "waves": [
-    3.6,
-    4.2
-   ],
-   "wave_detail": [
-    {
-     "score": 3.6,
-     "judges": [
-      4.2,
-      3.3,
+      4.0,
       3.5,
-      3.8,
+      4.0,
+      4.0,
       3.5
      ]
     },
     {
-     "score": 4.2,
+     "score": 4.6,
+     "judges": [
+      4.3,
+      4.8,
+      4.2,
+      4.7,
+      5.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kyra Wallis",
+   "country": "NZL",
+   "place": 2,
+   "total": 8.07,
+   "best_waves": [
+    4.4,
+    3.67
+   ],
+   "priority": "P1",
+   "waves": [
+    3.67,
+    4.4
+   ],
+   "wave_detail": [
+    {
+     "score": 3.67,
      "judges": [
       3.5,
+      4.0,
+      3.5,
+      3.0,
+      4.0
+     ]
+    },
+    {
+     "score": 4.4,
+     "judges": [
       4.2,
-      4.2,
-      4.6,
+      4.7,
+      4.3,
+      5.0,
       4.2
      ]
     }
    ]
   },
   {
-   "name": "Alex Suarez",
-   "country": "ECU",
-   "place": 4,
-   "total": 7.73,
+   "name": "Louise Lepront",
+   "country": "RSA",
+   "place": 3,
+   "total": 4.73,
    "best_waves": [
-    4.7,
-    3.03
+    4.5,
+    0.23
    ],
-   "priority": null,
+   "priority": "P2",
    "waves": [
-    3.03,
-    4.7
+    0.23,
+    4.5
    ],
    "wave_detail": [
     {
-     "score": 3.03,
+     "score": 0.23,
      "judges": [
-      3.0,
-      3.5,
-      2.8,
-      3.3,
-      2.5
+      0.2,
+      0.2,
+      0.3,
+      0.1,
+      0.3
      ]
     },
     {
-     "score": 4.7,
+     "score": 4.5,
      "judges": [
-      4.8,
       4.5,
-      4.8,
-      3.9,
-      4.8
+      5.0,
+      4.5,
+      4.5,
+      4.5
      ]
     }
    ]
   }
  ],
- "fetched_utc": "2026-11-12T16:22:03.749845Z"
+ "fetched_utc": "2026-11-12T17:19:25.483687Z"
 }

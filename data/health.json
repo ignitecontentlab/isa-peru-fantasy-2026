@@ -1,21 +1,21 @@
 {
- "run_utc": "2026-11-12T16:22:03.749845Z",
+ "run_utc": "2026-11-12T17:19:25.483687Z",
  "sources": {
   "men.php": {
    "status": 200,
    "heats_parsed": 124,
-   "completed": 111
+   "completed": 112
   },
   "women.php": {
    "status": 200,
-   "heats_parsed": 118,
-   "completed": 99
+   "heats_parsed": 120,
+   "completed": 101
   },
   "getlive": {
    "status": 200,
-   "bytes": 5132,
+   "bytes": 2936,
    "parsed": true
   }
  },
- "last_success_utc": "2026-11-12T16:22:03.749845Z"
+ "last_success_utc": "2026-11-12T17:19:25.483687Z"
 }

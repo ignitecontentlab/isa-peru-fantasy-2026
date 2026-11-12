@@ -3527,8 +3527,8 @@
    {
     "name": "Tiago Sorrentino",
     "country": "MEX",
-    "total": null,
-    "place": null,
+    "total": 10.53,
+    "place": 2,
     "waves": [
      4.43,
      5.83
@@ -3541,8 +3541,8 @@
    {
     "name": "Cole Houshmand",
     "country": "USA",
-    "total": null,
-    "place": null,
+    "total": 13.83,
+    "place": 1,
     "waves": [
      7.0,
      6.83
@@ -3555,8 +3555,8 @@
    {
     "name": "Alex Suarez",
     "country": "ECU",
-    "total": null,
-    "place": null,
+    "total": 7.73,
+    "place": 4,
     "waves": [
      3.03,
      4.7
@@ -3569,8 +3569,8 @@
    {
     "name": "Oscar Guzman",
     "country": "NCA",
-    "total": null,
-    "place": null,
+    "total": 7.97,
+    "place": 3,
     "waves": [
      3.6,
      4.2
@@ -3581,7 +3581,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -6685,23 +6685,23 @@
    {
     "name": "Jin Shuhan",
     "country": "CHN",
-    "total": null,
-    "place": null
+    "total": 8.83,
+    "place": 2
    },
    {
     "name": "Bethany Zelasko",
     "country": "CAN",
-    "total": null,
-    "place": null
+    "total": 5.03,
+    "place": 3
    },
    {
     "name": "Natasha van Greunen",
     "country": "RSA",
-    "total": null,
-    "place": null
+    "total": 10.37,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6711,23 +6711,23 @@
    {
     "name": "Mirna Boelsma",
     "country": "NED",
-    "total": null,
-    "place": null
+    "total": 7.33,
+    "place": 2
    },
    {
     "name": "Camilla Kemp",
     "country": "GER",
-    "total": null,
-    "place": null
+    "total": 13.03,
+    "place": 1
    },
    {
     "name": "Maya Mateja",
     "country": "MEX",
-    "total": null,
-    "place": null
+    "total": 6.93,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6738,19 +6738,43 @@
     "name": "Louise Lepront",
     "country": "RSA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.23,
+     4.5
+    ],
+    "best_waves": [
+     4.5,
+     0.23
+    ]
    },
    {
     "name": "Nilbie Blancada",
     "country": "PHI",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.83,
+     4.6
+    ],
+    "best_waves": [
+     4.6,
+     3.83
+    ]
    },
    {
     "name": "Kyra Wallis",
     "country": "NZL",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.67,
+     4.4
+    ],
+    "best_waves": [
+     4.4,
+     3.67
+    ]
    }
   ],
   "complete": false
@@ -6993,6 +7017,12 @@
     "country": "PAN",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Tiago Sorrentino",
+    "country": "MEX",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7015,8 +7045,54 @@
     "place": null
    },
    {
+    "name": "Cole Houshmand",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Samuel Reidy",
     "country": "CRC",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Mirna Boelsma",
+    "country": "NED",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Jin Shuhan",
+    "country": "CHN",
     "total": null,
     "place": null
    }

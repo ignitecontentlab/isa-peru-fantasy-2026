@@ -6853,8 +6853,8 @@
    {
     "name": "Dominic Barona",
     "country": "ECU",
-    "total": null,
-    "place": null,
+    "total": 10.0,
+    "place": 2,
     "waves": [
      3.67
     ],
@@ -6866,8 +6866,8 @@
    {
     "name": "Victoria Muñoz Larreta",
     "country": "ARG",
-    "total": null,
-    "place": null,
+    "total": 1.43,
+    "place": 3,
     "waves": [
      1.0,
      0.43
@@ -6880,8 +6880,8 @@
    {
     "name": "Ocea Green",
     "country": "CAN",
-    "total": null,
-    "place": null,
+    "total": 10.67,
+    "place": 1,
     "waves": [
      6.0,
      4.67
@@ -6892,7 +6892,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6902,23 +6902,23 @@
    {
     "name": "Chiara Cuppone",
     "country": "ITA",
-    "total": null,
-    "place": null
+    "total": 10.83,
+    "place": 1
    },
    {
     "name": "Mia Calderón",
     "country": "PUR",
-    "total": null,
-    "place": null
+    "total": 6.67,
+    "place": 3
    },
    {
     "name": "Elin Tawharu",
     "country": "SWE",
-    "total": null,
-    "place": null
+    "total": 7.3,
+    "place": 2
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6948,23 +6948,23 @@
    {
     "name": "Rachael Aguero",
     "country": "CRC",
-    "total": null,
-    "place": null
+    "total": 10.34,
+    "place": 2
    },
    {
     "name": "Anri Matsuno",
     "country": "JPN",
-    "total": null,
-    "place": null
+    "total": 9.53,
+    "place": 3
    },
    {
     "name": "Candelaria Resano",
     "country": "NCA",
-    "total": null,
-    "place": null
+    "total": 11.06,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -6975,19 +6975,38 @@
     "name": "Isidora Bulto",
     "country": "CHI",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Chelsea Tuach",
     "country": "BAR",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.5
+    ],
+    "best_waves": [
+     0.5,
+     0.0
+    ]
    },
    {
     "name": "Hanasuri Jabrik",
     "country": "INA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.0
+    ],
+    "best_waves": [
+     2.0,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -7144,6 +7163,18 @@
     "country": "BRA",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7156,6 +7187,46 @@
    {
     "name": "Genesis Borja",
     "country": "ECU",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Chiara Cuppone",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Dominic Barona",
+    "country": "ECU",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B12",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
     "total": null,
     "place": null
    }

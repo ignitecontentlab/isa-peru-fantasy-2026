@@ -1,113 +1,78 @@
 {
  "division": "women",
  "round": "REPECHAGE 4",
- "heat": 7,
- "heat_id": "119",
+ "heat": 11,
+ "heat_id": "123",
  "status": "RUNNING",
- "minleft": 1,
- "secleft": 12,
+ "minleft": 16,
+ "secleft": 1,
  "end": "",
  "surfers": [
   {
-   "name": "Ocea Green",
-   "country": "CAN",
+   "name": "Hanasuri Jabrik",
+   "country": "INA",
    "place": 1,
-   "total": 10.67,
+   "total": 2.0,
    "best_waves": [
-    6.0,
-    4.67
-   ],
-   "priority": null,
-   "waves": [
-    6.0,
-    4.67
-   ],
-   "wave_detail": [
-    {
-     "score": 6.0,
-     "judges": [
-      6.0,
-      5.5,
-      6.0,
-      6.0,
-      6.0
-     ]
-    },
-    {
-     "score": 4.67,
-     "judges": [
-      5.0,
-      4.5,
-      4.5,
-      4.5,
-      5.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Dominic Barona",
-   "country": "ECU",
-   "place": 2,
-   "total": 3.67,
-   "best_waves": [
-    3.67,
+    2.0,
     0.0
    ],
    "priority": null,
    "waves": [
-    3.67
+    2.0
    ],
    "wave_detail": [
     {
-     "score": 3.67,
+     "score": 2.0,
      "judges": [
-      3.5,
-      4.0,
-      3.5,
-      4.0,
-      3.5
+      2.5,
+      2.0,
+      1.5,
+      2.0,
+      2.0
      ]
     }
    ]
   },
   {
-   "name": "Victoria Muñoz Larreta",
-   "country": "ARG",
-   "place": 3,
-   "total": 1.43,
+   "name": "Chelsea Tuach",
+   "country": "BAR",
+   "place": 2,
+   "total": 0.5,
    "best_waves": [
-    1.0,
-    0.43
+    0.5,
+    0.0
    ],
    "priority": "P1",
    "waves": [
-    1.0,
-    0.43
+    0.5
    ],
    "wave_detail": [
     {
-     "score": 1.0,
+     "score": 0.5,
      "judges": [
-      1.0,
-      1.0,
       0.5,
-      1.0,
-      1.0
-     ]
-    },
-    {
-     "score": 0.43,
-     "judges": [
-      0.3,
-      0.7,
-      0.3,
+      0.5,
+      0.5,
       0.5,
       0.5
      ]
     }
    ]
+  },
+  {
+   "name": "Isidora Bulto",
+   "country": "CHI",
+   "place": 3,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T18:06:14.148740Z"
+ "fetched_utc": "2026-11-12T18:54:37.558483Z"
 }

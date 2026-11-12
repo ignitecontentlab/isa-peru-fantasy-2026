@@ -173,5 +173,32 @@
     0.43
    ]
   }
+ },
+ "women|chelseatuach|hanasurijabrik|isidorabulto": {
+  "hanasurijabrik": {
+   "waves": [
+    2.0
+   ],
+   "best_waves": [
+    2.0,
+    0.0
+   ]
+  },
+  "chelseatuach": {
+   "waves": [
+    0.5
+   ],
+   "best_waves": [
+    0.5,
+    0.0
+   ]
+  },
+  "isidorabulto": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

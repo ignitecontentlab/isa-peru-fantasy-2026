@@ -5,7 +5,7 @@
  "heat_id": "122",
  "status": "RUNNING",
  "minleft": 15,
- "secleft": 26,
+ "secleft": 9,
  "end": "",
  "surfers": [
   {
@@ -74,5 +74,5 @@
    "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T15:19:27.658793Z"
+ "fetched_utc": "2026-11-12T15:19:44.408071Z"
 }

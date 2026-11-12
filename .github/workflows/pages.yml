@@ -1,11 +1,12 @@
 name: pages
 on:
   push: {branches: [main]}
-  workflow_run: {workflows: [collect], types: [completed]}
+  workflow_run: {workflows: [collect, rebuild, photos], types: [completed]}
   workflow_dispatch:
 permissions: {contents: read, pages: write, id-token: write}
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     environment: {name: github-pages}
     steps:

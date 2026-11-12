@@ -1,10 +1,10 @@
 import json,os,collections,sys
 T=os.path.dirname(__file__);d=os.path.join(T,"..","data")
 sys.path.insert(0,os.path.join(T,"..","collector"))
-import collect_isa as c
+import collect_isa as c, build_photos as bp
 A=json.load(open(d+"/athletes.json"));D=json.load(open(d+"/draft.json"))
 def test_counts():
-    assert len(D)==50 and sum(1 for a in A if a["manager"])==50
+    assert len(A)==230 and len(D)==50 and sum(1 for a in A if a["manager"])==50
     cn=collections.Counter((a["manager"],a["division"]) for a in A if a["manager"])
     assert all(cn[(m,"men")]==3 and cn[(m,"women")]==2 for m in {x["manager"] for x in D})
 def test_codes(): assert all(len(a["country"])==3 for a in A)
@@ -18,3 +18,6 @@ def test_live_waves():
      "scores":"<table><tr><td class='scorecol'><div class='head' style='background-color:#0000FF'>Avg</div><div class='avg topscore'>5.33</div><div class='jscores'><span>6.0</span><span>4.5</span><span>6.0</span><span>5.0</span><span>5.0</span></div><div class='avg topscore'>6.17</div><div class='jscores'><span>6.5</span></div></td></tr></table>"}
     l=c.parse_live(js)
     assert l["round"]=="REPECHAGE 4" and l["heat"]==5 and l["surfers"][0]["waves"]==[5.33,6.17] and l["surfers"][0]["priority"]=="P2"
+def test_photo_rules():
+    assert bp.is_surfer("Australian professional surfer") and not bp.is_surfer("American football player")
+    assert bp.ok_license({"LicenseShortName":{"value":"CC BY-SA 4.0"}})[0] and not bp.ok_license({"LicenseShortName":{"value":"All rights reserved"}})[0]

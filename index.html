@@ -1,58 +1,153 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ISA Peru 2026 Fantasy</title><style>
-body{margin:0;background:#0b1424;color:#e8eef8;font:14px system-ui,sans-serif}
-header{padding:14px 18px;background:#101c33;border-bottom:2px solid #d4a72c;display:flex;flex-wrap:wrap;gap:12px;align-items:center}
-h1{margin:0;font-size:20px}h1 span{color:#d4a72c}#stamp{margin-left:auto;font-size:12px}.live{color:#ff4d4d}.stale{color:#f0a030}
-nav button{background:#16253f;color:#cfe3ff;border:1px solid #2b4a7a;padding:7px 14px;margin:8px 4px;cursor:pointer;border-radius:4px}nav button.on{background:#1e90ff;color:#fff}
-.wrap{overflow:auto;padding:0 10px 30px}table{border-collapse:collapse;width:100%}th,td{padding:6px 8px;border-bottom:1px solid #1d2c47;white-space:nowrap;text-align:left}
-th{position:sticky;top:0;background:#101c33;color:#7fb8ff}tr.fan{background:#14294a}tr.fan td:first-child{box-shadow:inset 3px 0 #d4a72c}
-.mgr{color:#d4a72c;font-weight:600}.na{color:#6b7a94}.nx{color:#7fb8ff}input{margin:8px;padding:6px;background:#16253f;color:#fff;border:1px solid #2b4a7a;border-radius:4px}
-.card{background:#101c33;border:1px solid #2b4a7a;margin:10px;padding:12px;border-radius:6px}.big{font-size:22px;color:#ff4d4d}h3{margin:14px 6px 4px}
+<title>ISA Peru 2026 Fantasy Surf</title><style>
+:root{--bg:#07101f;--card:#0f1c33;--card2:#13243f;--line:#1f3558;--blue:#22b8ff;--gold:#f5c542;--red:#ff4d5e;--txt:#e8eef8;--mut:#7f93b3;--green:#3ddc97}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(1200px 500px at 70% -10%,#12335c 0,transparent 60%),var(--bg);color:var(--txt);font:14px/1.45 system-ui,Segoe UI,Roboto,sans-serif}
+header{padding:18px 20px 0;display:flex;flex-wrap:wrap;gap:14px;align-items:center;background:linear-gradient(180deg,#0c2342,transparent)}
+.logo{font-size:24px;font-weight:800;letter-spacing:.5px}.logo b{color:var(--gold)}.sub{color:var(--mut);font-size:12px}
+.hr{margin-left:auto;display:flex;gap:10px;align-items:center;flex-wrap:wrap}#stamp{font-size:12px}
+.btn{background:var(--blue);color:#04121f;border:0;padding:8px 14px;border-radius:999px;font-weight:700;cursor:pointer;text-decoration:none;font-size:13px;display:inline-block}
+.btn.alt{background:transparent;color:var(--blue);border:1px solid var(--blue)}.btn:active{transform:scale(.97)}
+nav{display:flex;gap:6px;padding:12px 16px;overflow-x:auto;position:sticky;top:0;background:rgba(7,16,31,.92);backdrop-filter:blur(8px);z-index:5;border-bottom:1px solid var(--line)}
+nav button{background:var(--card);color:#cfe3ff;border:1px solid var(--line);padding:8px 14px;cursor:pointer;border-radius:999px;white-space:nowrap;font-weight:600}
+nav button.on{background:var(--blue);color:#04121f;border-color:var(--blue)}
+.live{color:var(--red);font-weight:700}.stale{color:#f0a030}.ok{color:var(--green)}.na{color:var(--mut)}.mgr{color:var(--gold);font-weight:700}
+main{padding:14px;max-width:1500px;margin:auto}.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+input{padding:8px 12px;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:999px;min-width:240px}
+.scroll{overflow:auto;border:1px solid var(--line);border-radius:12px;background:var(--card)}table{border-collapse:collapse;width:100%}
+th,td{padding:7px 10px;border-bottom:1px solid var(--line);white-space:nowrap;text-align:left}th{position:sticky;top:0;background:#0b1830;color:var(--blue);font-size:12px;text-transform:uppercase;letter-spacing:.4px}
+tr.fan{background:linear-gradient(90deg,rgba(245,197,66,.16),transparent 40%)}tr:hover td{background:rgba(34,184,255,.06)}
+.rk{display:inline-block;min-width:26px;text-align:center;border-radius:6px;font-weight:800}.r1{background:var(--gold);color:#111}.r2{background:#cfd6e0;color:#111}.r3{background:#cd8a4a;color:#111}
+.av{width:30px;height:30px;border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:8px;background:#1b3158;border:1px solid var(--line)}
+.ini{display:inline-flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:var(--blue)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:14px}
+.card{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:14px;padding:14px}
+.prize{font-size:34px;font-weight:900;color:var(--gold)}.big{font-size:44px;font-weight:900;color:var(--red);font-variant-numeric:tabular-nums;line-height:1}
+h2{margin:18px 4px 8px;font-size:18px}h3{margin:14px 4px 6px}.tag{font-size:11px;color:#111;background:var(--gold);padding:2px 8px;border-radius:999px;font-weight:800}
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:8px 0;padding:10px 14px}summary{cursor:pointer;font-weight:700}
+details p,details li{color:#c9d6ea}iframe{width:100%;height:78vh;border:1px solid var(--line);border-radius:12px;background:#fff}
+@media(max-width:700px){.logo{font-size:19px}input{min-width:100%}}
 </style></head><body>
-<header><h1>ISA Peru 2026 <span>Fantasy</span></h1><div id="stamp">loading…</div></header>
-<nav><button data-v="live" class="on">Live Heat</button><button data-v="fantasy">Fantasy 50</button><button data-v="men">Men</button><button data-v="women">Women</button><button data-v="teams">Managers</button><button data-v="health">Data Health</button></nav>
-<input id="q" placeholder="Search surfer / country / manager"><div class="wrap" id="out"></div>
+<header><div><div class="logo">🌊 ISA PERU 2026 <b>FANTASY SURF</b></div><div class="sub">World Surfing Games · Punta Rocas, Peru · Nov 6–15, 2026 · 10 managers · $300 prize pool</div></div>
+<div class="hr"><span id="stamp">loading…</span><button class="btn" id="refresh">⟳ Refresh now</button></div></header>
+<nav id="nav"></nav>
+<main><div class="tools" id="tools"><input id="q" placeholder="Search surfer, country or manager"></div><div id="out"></div></main>
 <script>
+const PROXY=''; // optional Cloudflare Worker URL if the direct live feed is blocked
+const LIVE_URL=PROXY||'https://surfscores.com/scoreboard/getlive.php?eventid=PER2026ISAWSG&catname=&heatid=';
+const SCOREBOARD='https://surfscores.com/scoreboard/live-isa.php?eventid=PER2026isawsg&flags=&full=&multi=P1&schedule=1&theme=isa';
+const TABS=[['live','🔴 Live Heat'],['prizes','🏆 Prizes & Rules'],['fantasy','Fantasy 50'],['men','Men'],['women','Women'],['teams','Teams'],['draft','Draft Board'],['isa','🌐 ISA Live']];
 const norm=s=>(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[’´`]/g,"'").toLowerCase().trim();
-let A=[],H=[],HL={},L={},RN={},view='live',IDX={};
+let A=[],H=[],HL={},L={},RN={},DR=[],PH={},view='live',IDX={},LV=null,LVat=0,LVok=false;
 const mean=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:null;
 const sd=a=>{if(a.length<2)return null;const m=mean(a);return Math.sqrt(a.reduce((s,x)=>s+(x-m)**2,0)/a.length)};
-const f=(x,d=2)=>x==null?'<span class="na">–</span>':x.toFixed(d);
+const f=(x,d=2)=>x==null||isNaN(x)?'<span class="na">–</span>':x.toFixed(d);
 const rl=(d,r)=>(RN[d]||{})[r]||r;
+const rk=i=>`<span class="rk ${i<3?'r'+(i+1):''}">${i+1}</span>`;
 const fl=e=>{if(!e)return'';const c=[...e].map(ch=>String.fromCharCode(ch.codePointAt(0)-127397)).join('').toLowerCase();
- return `<img src="https://flagcdn.com/20x15/${c}.png" width="20" height="15" alt="" style="vertical-align:middle"> `};
+ return `<img src="https://flagcdn.com/20x15/${c}.png" width="20" height="15" alt="" style="vertical-align:middle;margin-right:4px">`};
+const av=a=>{const p=PH[a.division+'|'+a.name];const ini=a.name.split(' ').map(x=>x[0]).slice(0,2).join('').toUpperCase();
+ return p&&p.url?`<img class="av" src="${p.url}" alt="${a.name}" title="Photo: ${(p.credit||'').replace(/"/g,'')} (${p.license||''})" loading="lazy" onerror="this.outerHTML='<span class=&quot;av ini&quot;>${ini}</span>'">`:`<span class="av ini">${ini}</span>`};
+const cc=a=>`${fl(a.flag)}${a.country}`;
 async function j(p,d){try{const r=await fetch(p+'?t='+Date.now());return r.ok?await r.json():d}catch(e){return d}}
-async function load(){[A,H,HL,L,RN]=await Promise.all([j('data/athletes.json',[]),j('data/heats.json',[]),j('data/health.json',{}),j('data/live.json',{}),j('data/round_names.json',{})]);build();render();stamp()}
+async function load(){[A,H,HL,L,RN,DR,PH]=await Promise.all([j('data/athletes.json',[]),j('data/heats.json',[]),j('data/health.json',{}),j('data/live.json',{}),j('data/round_names.json',{}),j('data/draft.json',[]),j('data/photos.json',{})]);build();render();stamp()}
 function build(){IDX={};A.forEach(a=>{[a.name,...(a.alias||[])].forEach(n=>IDX[a.division+'|'+norm(n)]=a);a.h=[];a.next=[]});
  H.forEach(h=>h.surfers.forEach(s=>{const a=IDX[h.division+'|'+norm(s.name)];if(!a)return;
   const rec={round:h.round,heat:h.heat,place:s.place,total:s.total,w:s.waves||[]};
   (h.complete&&s.total!=null?a.h:a.next).push(rec)}));
- A.forEach(a=>{const t=a.h.map(x=>x.total);a.n=t.length;a.avg=mean(t);a.best=t.length?Math.max(...t):null;a.wins=a.h.filter(x=>x.place===1).length;a.sd=sd(t);a.form=mean(t.slice(-3))})}
+ const dm={};['men','women'].forEach(d=>dm[d]=mean(A.filter(a=>a.division===d).flatMap(a=>a.h.map(x=>x.total))));
+ A.forEach(a=>{const t=a.h.map(x=>x.total);a.n=t.length;a.avg=mean(t);a.best=t.length?Math.max(...t):null;a.wins=a.h.filter(x=>x.place===1).length;a.sd=sd(t);a.form=mean(t.slice(-3));
+  a.adj=a.n&&dm[a.division]!=null?(a.n*a.avg+3*dm[a.division])/(a.n+3):null})}
 const sorted=l=>[...l].sort((a,b)=>(b.avg??-1)-(a.avg??-1)||(a.preRank??999)-(b.preRank??999));
 function row(a,i,maxH){let c='';for(let k=0;k<maxH;k++){const h=a.h[k];
  c+=h?`<td>${rl(a.division,h.round)} H${h.heat}</td><td>${h.w[0]!=null?h.w[0].toFixed(2):'–'}</td><td>${h.w[1]!=null?h.w[1].toFixed(2):'–'}</td><td><b>${h.total.toFixed(2)}</b></td>`:'<td></td><td></td><td></td><td></td>'}
- const nx=a.next[0];return `<tr class="${a.manager?'fan':''}"><td>${i+1}</td><td>${a.name}</td><td>${fl(a.flag)}${a.country}</td><td class="mgr">${a.manager||''}</td><td>${a.pick||''}</td><td>${f(a.avg)}</td><td>${a.n}</td>${c}<td class="nx">${nx?rl(a.division,nx.round)+' H'+nx.heat:'Not yet scheduled'}</td></tr>`}
+ const nx=a.next[0];return `<tr class="${a.manager?'fan':''}"><td>${rk(i)}</td><td>${av(a)}${a.name}</td><td>${cc(a)}</td><td class="mgr">${a.manager||''}</td><td>${a.pick||''}</td><td><b>${f(a.avg)}</b></td><td>${a.n}</td>${c}<td style="color:var(--blue)">${nx?rl(a.division,nx.round)+' H'+nx.heat:'Not yet scheduled'}</td></tr>`}
 function table(list){const maxH=Math.max(1,...A.map(x=>x.h.length));let hh='';for(let k=1;k<=maxH;k++)hh+=`<th>Heat ${k}</th><th>W1</th><th>W2</th><th>Total</th>`;
- return `<table><tr><th>#</th><th>Surfer</th><th>Country</th><th>Picked by</th><th>Pick</th><th>Avg</th><th>Heats</th>${hh}<th>Next heat</th></tr>${sorted(list).map((a,i)=>row(a,i,maxH)).join('')}</table>`}
-function teams(){const m={};A.filter(a=>a.manager).forEach(a=>(m[a.manager]??=[]).push(a));
- const rows=Object.entries(m).map(([mgr,v])=>{const done=v.filter(a=>a.n>0),all=v.flatMap(a=>a.h);const wv=all.flatMap(h=>(h.w||[]).slice(0,2)).filter(x=>x!=null);
-  return {mgr,v,score:done.reduce((s,a)=>s+a.avg,0),pts:all.reduce((s,h)=>s+h.total,0),wave:wv.length?wv.reduce((s,x)=>s+x,0):null,wins:all.filter(h=>h.place===1).length,fin:all.length?all.reduce((s,h)=>s+h.place,0)/all.length:null,heats:all.length,missing:v.length-done.length}}).sort((a,b)=>b.score-a.score);
- let h=`<h3>TEAM PERFORMANCE — CALCULATED, NOT OFFICIAL ISA POINTS</h3><table><tr><th>#</th><th>Manager</th><th>Team score</th><th>Heat pts</th><th>Wave total</th><th>Wins</th><th>Avg finish</th><th>Heats</th><th>Note</th></tr>`;
- rows.forEach((r,i)=>h+=`<tr><td>${i+1}</td><td class="mgr">${r.mgr}</td><td><b>${r.score.toFixed(2)}</b></td><td>${r.pts.toFixed(2)}</td><td>${f(r.wave)}</td><td>${r.wins}</td><td>${f(r.fin)}</td><td>${r.heats}</td><td class="na">${r.missing?r.missing+' of 5 not yet scored':'complete'}</td></tr>`);
- h+='</table>';rows.forEach(r=>h+=`<h3 class="mgr">${r.mgr}</h3>`+table(r.v));return h}
-function liveView(){if(!L||!L.surfers)return '<p class="na">No live heat data yet.</p>';
- const age=(Date.now()-new Date(L.fetched_utc))/6e4,run=L.status==='RUNNING'&&age<10;
- const rows=L.surfers.map(s=>{const a=IDX[L.division+'|'+norm(s.name)];return `<tr class="${a&&a.manager?'fan':''}"><td>${s.place}</td><td>${s.name} <span class="na">${s.priority||''}</span></td><td>${a?fl(a.flag):''}${s.country}</td><td class="mgr">${a&&a.manager||''}</td><td>${(s.waves||[]).filter(w=>w!=null).map(w=>w.toFixed(2)).join(', ')||'–'}</td><td>${(s.best_waves||[]).map(w=>f(w)).join(' + ')}</td><td><b>${f(s.total)}</b></td></tr>`}).join('');
- return `<div class="card"><div>${L.division.toUpperCase()} · ${L.round} · HEAT ${L.heat} <span class="${run?'live':'stale'}">${run?'● LIVE':'● '+(L.status||'')+(age>=10?' (stale — last fetched '+Math.round(age)+' min ago)':'')}</span></div>
- ${run?`<div class="big">${L.minleft}:${String(L.secleft).padStart(2,'0')} left (at last update)</div>`:''}
- <table><tr><th>P</th><th>Surfer</th><th>Country</th><th>Manager</th><th>Waves</th><th>Best 2</th><th>Total</th></tr>${rows}</table></div>`}
-const health=()=>'<pre>'+JSON.stringify(HL,null,1)+'</pre>';
+ return `<div class="scroll"><table><tr><th>#</th><th>Surfer</th><th>Country</th><th>Picked by</th><th>Pick</th><th>Avg</th><th>Heats</th>${hh}<th>Next heat</th></tr>${sorted(list).map((a,i)=>row(a,i,maxH)).join('')}</table></div>`}
+function teamStats(){const m={};A.filter(a=>a.manager).forEach(a=>(m[a.manager]??=[]).push(a));
+ return Object.entries(m).map(([mgr,v])=>{const done=v.filter(a=>a.n>0),all=v.flatMap(a=>a.h);const wv=all.flatMap(h=>(h.w||[]).slice(0,2)).filter(x=>x!=null);
+  const men=v.filter(a=>a.division==='men'&&a.n),wom=v.filter(a=>a.division==='women'&&a.n);
+  return {mgr,v,score:done.reduce((s,a)=>s+a.avg,0),pts:all.reduce((s,h)=>s+h.total,0),wave:wv.length?wv.reduce((s,x)=>s+x,0):null,wins:all.filter(h=>h.place===1).length,fin:all.length?all.reduce((s,h)=>s+h.place,0)/all.length:null,heats:all.length,missing:v.length-done.length,
+   bestMan:sorted(men)[0]||null,bestWoman:sorted(wom)[0]||null}}).sort((a,b)=>b.score-a.score)}
+function teams(){const rows=teamStats();
+ let h=`<h2>Team performance <span class="tag">CALCULATED — NOT OFFICIAL ISA POINTS</span></h2><div class="scroll"><table><tr><th>#</th><th>Manager</th><th>Team score</th><th>Heat pts</th><th>Wave total</th><th>Wins</th><th>Avg finish</th><th>Heats</th><th>Note</th></tr>`;
+ rows.forEach((r,i)=>h+=`<tr><td>${rk(i)}</td><td class="mgr">${r.mgr}</td><td><b>${r.score.toFixed(2)}</b></td><td>${r.pts.toFixed(2)}</td><td>${f(r.wave)}</td><td>${r.wins}</td><td>${f(r.fin)}</td><td>${r.heats}</td><td class="na">${r.missing?r.missing+' of 5 not yet scored':'complete'}</td></tr>`);
+ h+='</table></div>';rows.forEach(r=>h+=`<h3 class="mgr">${r.mgr}</h3>`+table(r.v));return h}
+function funStats(){const all=A.flatMap(a=>a.h.map(h=>({a,h})));if(!all.length)return '<p class="na">Fun stats appear once heats are recorded.</p>';
+ const top=all.reduce((x,y)=>y.h.total>x.h.total?y:x);const waves=all.flatMap(o=>o.h.w.filter(w=>w!=null).map(w=>({a:o.a,w})));
+ const bw=waves.length?waves.reduce((x,y)=>y.w>x.w?y:x):null;const win=[...A].sort((a,b)=>b.wins-a.wins)[0];const ts=teamStats()[0];
+ const fanLeft=A.filter(a=>a.manager&&a.next.length).length;
+ return `<div class="grid"><div class="card"><div class="na">Highest heat total</div><div class="prize" style="font-size:28px">${top.h.total.toFixed(2)}</div>${top.a.name} ${cc(top.a)}</div>
+ <div class="card"><div class="na">Best single wave</div><div class="prize" style="font-size:28px">${bw?bw.w.toFixed(2):'–'}</div>${bw?bw.a.name+' '+cc(bw.a):'Wave scores appear as live heats are recorded'}</div>
+ <div class="card"><div class="na">Most heat wins</div><div class="prize" style="font-size:28px">${win.wins}</div>${win.name} ${cc(win)}</div>
+ <div class="card"><div class="na">Top team by performance</div><div class="prize" style="font-size:28px">${ts.mgr}</div>${ts.score.toFixed(2)} combined average</div>
+ <div class="card"><div class="na">Fantasy surfers with a heat still to come</div><div class="prize" style="font-size:28px">${fanLeft} / 50</div>${H.length} heats recorded so far</div></div>`}
+function prizes(){const t=teamStats();
+ const man=t.filter(r=>r.bestMan).sort((a,b)=>b.bestMan.avg-a.bestMan.avg)[0],wom=t.filter(r=>r.bestWoman).sort((a,b)=>b.bestWoman.avg-a.bestWoman.avg)[0];
+ return `<div class="grid">
+ <div class="card"><div class="prize">$180</div><b>TOP MAN</b><p class="na">Won by the manager who owns the highest-finishing man (official ISA final placement).</p>
+  <div class="na">Current heat-average leader <span class="tag">NOT OFFICIAL</span></div>${man?`<b class="mgr">${man.mgr}</b> · ${man.bestMan.name} ${cc(man.bestMan)} (${man.bestMan.avg.toFixed(2)})`:'<span class="na">waiting for heats</span>'}</div>
+ <div class="card"><div class="prize">$75</div><b>TOP WOMAN</b><p class="na">Won by the manager who owns the highest-finishing woman (official ISA final placement).</p>
+  <div class="na">Current heat-average leader <span class="tag">NOT OFFICIAL</span></div>${wom?`<b class="mgr">${wom.mgr}</b> · ${wom.bestWoman.name} ${cc(wom.bestWoman)} (${wom.bestWoman.avg.toFixed(2)})`:'<span class="na">waiting for heats</span>'}</div>
+ <div class="card"><div class="prize">$45</div><b>TOP TEAM</b><p class="na">All five surfers count. Add up their official ISA placement points; highest total wins.</p>
+  <div class="na">Current performance leader <span class="tag">NOT OFFICIAL</span></div>${t[0]?`<b class="mgr">${t[0].mgr}</b> · ${t[0].score.toFixed(2)} combined average`:'<span class="na">waiting for heats</span>'}</div></div>
+ <p class="na">Prize pool: <b>$300 total</b>. One manager can win all three. Official winners are decided only from confirmed ISA final placements after the event ends (Nov 15).</p>
+ <h2>Fun stats (live)</h2>${funStats()}
+ <h2>How it works</h2>
+ <details open><summary>The league</summary><p>10 managers each drafted <b>3 men and 2 women</b> — 50 surfers total. Managers: Scott, Tony, Butters, Cody, Jay, Jesse, Radin, Chucky, Kevin and Danny. Draft picks never change.</p></details>
+ <details><summary>The draft</summary><p>It was a snake draft. Draft slots: 1 Scott · 2 Tony · 3 Butters · 4 Cody · 5 Jay · 6 Jesse · 7 Radin · 8 Chucky · 9 Kevin · 10 Danny.</p>
+  <ul><li>Men (3 rounds): Scott→Danny, Danny→Scott, Scott→Danny.</li><li>Women (2 rounds): Danny→Scott, then Scott→Danny.</li><li>Men's and women's pick numbers are counted separately. See the Draft Board tab.</li></ul></details>
+ <details><summary>How winners are decided</summary><ul><li><b>Top Man ($180):</b> only each manager's best-finishing man matters.</li><li><b>Top Woman ($75):</b> only each manager's best-finishing woman matters.</li><li><b>Top Team ($45):</b> all five surfers' official ISA placement points are added together. Surfers who are knocked out keep the points they earned.</li><li>The winners use official ISA placements, not the heat averages shown on this site.</li><li>Ties are shown as ties; the league agrees tiebreakers separately.</li></ul></details>
+ <details><summary>What the numbers mean</summary><ul><li><b>Heat total:</b> a surfer's two best wave scores added together (max 20).</li><li><b>Wave score:</b> out of 10, from the judges' scores for that ride (the scoreboard shows the middle scores averaged).</li><li><b>Avg:</b> a surfer's average heat total across heats they have completed. Leaderboards rank by it.</li><li><b>Team score:</b> each manager's five surfers' averages added together. A fun performance measure — it is <i>not</i> the prize.</li><li><b>Rating (Draft Board):</b> average pulled toward the field average when a surfer has few heats. Predicted, not official.</li><li><b>Round codes</b> like B03 are shown until the live feed reveals the round's real name (for example REPECHAGE 4).</li></ul></details>
+ <details><summary>Knockouts and repechage</summary><p>Losing a main-event heat does not always mean going home — surfers can drop into the repechage and fight back. Only a confirmed final elimination counts as out.</p></details>
+ <details><summary>Where the data comes from</summary><p>Scores come from the ISA's scoring site, SurfScores. The Live Heat tab asks it directly every 10 seconds; everything else is collected by an automatic job every few minutes (GitHub can run it late). Use <b>Refresh now</b> any time. Photos come from Wikipedia/Wikimedia Commons when a verified free-licence picture exists; otherwise you see initials. This is an unofficial fantasy tracker.</p></details>`}
+function draftView(){const mk=d=>{const dm=DR.filter(x=>x.division===d).sort((a,b)=>a.pick-b.pick);
+ return `<h2>${d==='men'?"Men's":"Women's"} draft <span class="tag">RATING = PREDICTED, NOT OFFICIAL</span></h2><div class="scroll"><table><tr><th>Pick</th><th>Rd</th><th>Slot</th><th>Manager</th><th>Surfer</th><th>Country</th><th>Pre-event rank</th><th>Heats</th><th>Avg</th><th>Rating</th><th>Next heat</th><th>Official place</th></tr>`+
+ dm.map(x=>{const a=IDX[x.division+'|'+norm(x.name)]||{n:0,next:[],h:[]};const nx=a.next&&a.next[0];
+  return `<tr class="fan"><td>${x.pick}</td><td>${x.round}</td><td>${x.slot}</td><td class="mgr">${x.manager}</td><td>${a.name?av(a):''}${x.name}</td><td>${fl(x.flag)}${x.country}</td><td>${a.preRank??'–'}</td><td>${a.n}</td><td>${f(a.avg)}</td><td>${f(a.adj)}</td><td style="color:var(--blue)">${nx?rl(a.division,nx.round)+' H'+nx.heat:'Not yet scheduled'}</td><td class="na">Pending</td></tr>`}).join('')+'</table></div>'};
+ return mk('men')+mk('women')}
+function isaView(){return `<div class="tools"><a class="btn" target="_blank" rel="noopener" href="https://isasurf.org/event/2026-isa-world-surfing-games/">ISA event page</a>
+ <a class="btn alt" target="_blank" rel="noopener" href="https://surfscores.com/PER/2026/isawsg/men.php">Men's results</a><a class="btn alt" target="_blank" rel="noopener" href="https://surfscores.com/PER/2026/isawsg/women.php">Women's results</a>
+ <a class="btn alt" target="_blank" rel="noopener" href="https://surfscores.com/PER/2026/isawsg/teams.php">National team standings</a><a class="btn alt" target="_blank" rel="noopener" href="${SCOREBOARD}">Open scoreboard</a></div>
+ <iframe src="${SCOREBOARD}" title="Official ISA live scoreboard" loading="lazy"></iframe>
+ <p class="na">Official ISA scoreboard (SurfScores). If the box is blank, the site is blocking embedding — use the buttons above.</p>`}
+const nm=s=>{const v=parseFloat(String(s||'').replace(',','.'));return isNaN(v)?null:v};
+function parseLive(js){if(!js||typeof js.standings!=='string')return null;
+ const D=new DOMParser(),st=D.parseFromString(js.standings,'text/html'),sc=D.parseFromString(js.scores||'','text/html');
+ const parts=String(js.CatDescr||'').split(' - ').map(x=>x.trim());const hm=/HEAT\s*(\d+)/i.exec(parts[parts.length-1]||'');
+ const col=s=>{const m=/background-color:\s*(#[0-9a-f]+)/i.exec(s||'');return m?m[1].toUpperCase():null};const cols={};
+ sc.querySelectorAll('td.scorecol').forEach(td=>{const hd=td.querySelector('div.head');const c=hd&&col(hd.getAttribute('style'));if(c)cols[c]=[...td.querySelectorAll('div.avg.topscore')].map(a=>nm(a.textContent))});
+ const surfers=[...st.querySelectorAll('div.surfer')].map(s=>{const pl=s.querySelector('div.place'),c=pl&&col(pl.getAttribute('style')),g=q=>{const e=s.querySelector(q);return e?e.textContent.trim():''};
+  return {name:g('div.name'),country:g('div.info').slice(0,3).toUpperCase(),place:parseInt(pl?pl.textContent:'')||null,total:nm(g('div.score')),best_waves:g('div.best').split('+').map(nm),priority:g('div.priority')||null,waves:(cols[c]||[])}});
+ return {division:(parts[0]||js.category||'').toLowerCase(),round:parts.length>2?parts[1].toUpperCase():'UNKNOWN',heat:hm?+hm[1]:null,status:js.heatstatus,minleft:+js.minleft||0,secleft:+js.secleft||0,surfers}}
+async function pollLive(){try{const ctl=new AbortController(),t=setTimeout(()=>ctl.abort(),8000);
+  const r=await fetch(LIVE_URL,{cache:'no-store',signal:ctl.signal});clearTimeout(t);if(!r.ok)throw new Error('HTTP '+r.status);
+  const p=parseLive(await r.json());if(!p||!p.surfers.length)throw new Error('empty');LV=p;LVat=Date.now();LVok=true}catch(e){LVok=false}
+ if(view==='live')render();stamp()}
+function liveSource(){if(LVok&&LV&&Date.now()-LVat<60000)return {...LV,src:'direct',asOf:LVat};
+ if(L&&L.surfers&&L.surfers.length)return {...L,src:'backup',asOf:new Date(L.fetched_utc).getTime()};return null}
+const remaining=d=>Math.max(0,(d.minleft||0)*60+(d.secleft||0)-Math.floor((Date.now()-d.asOf)/1000));
+const mmss=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
+function liveView(){const d=liveSource();if(!d)return '<div class="card na">No live heat right now. The next heat appears here as soon as the scoreboard starts it.</div>'+funStats();
+ const age=(Date.now()-d.asOf)/1000,fresh=age<120,run=d.status==='RUNNING'&&fresh;
+ const rows=d.surfers.map(s=>{const a=IDX[d.division+'|'+norm(s.name)];return `<tr class="${a&&a.manager?'fan':''}"><td>${rk((s.place||1)-1)}</td><td>${a?av(a):''}${s.name} <span class="na">${s.priority||''}</span></td><td>${a?fl(a.flag):''}${s.country}</td><td class="mgr">${a&&a.manager||''}</td><td>${(s.waves||[]).filter(w=>w!=null).map(w=>w.toFixed(2)).join(', ')||'–'}</td><td>${(s.best_waves||[]).map(w=>f(w)).join(' + ')}</td><td><b style="font-size:16px">${f(s.total)}</b></td></tr>`}).join('');
+ const badge=run?'<span class="live">● LIVE</span>':'<span class="stale">● '+(d.status||'')+(fresh?'':' (stale)')+'</span>';
+ const clock=run?`<div class="big" id="clock">${mmss(remaining(d))}</div>`:(d.status==='RUNNING'?`<div class="na">Timer paused: data is ${Math.round(age/60)} min old</div>`:'');
+ return `<div class="card"><div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap"><div><b>${d.division.toUpperCase()} · ${rl(d.division,d.round)} · HEAT ${d.heat}</b> ${badge}<div class="na">${d.src==='direct'?'direct feed':'backup data'} · updated ${Math.round(age)}s ago</div></div>${clock}</div>
+ <div class="scroll" style="margin-top:10px"><table><tr><th>P</th><th>Surfer</th><th>Country</th><th>Manager</th><th>Waves</th><th>Best 2</th><th>Total</th></tr>${rows}</table></div></div>`}
+setInterval(()=>{const e=document.getElementById('clock');if(!e||view!=='live')return;const d=liveSource();if(d&&d.status==='RUNNING')e.textContent=mmss(remaining(d))},1000);
 function render(){const q=norm(document.getElementById('q').value);let l=A;
+ document.getElementById('tools').style.display=['fantasy','men','women'].includes(view)?'flex':'none';
  if(view==='fantasy')l=A.filter(a=>a.manager);else if(view==='men'||view==='women')l=A.filter(a=>a.division===view);
  if(q)l=l.filter(a=>norm([a.name,a.country,a.manager].join(' ')).includes(q));
- document.getElementById('out').innerHTML=view==='live'?liveView():view==='teams'?teams():view==='health'?health():table(l)}
-function stamp(){const t=HL.last_success_utc?new Date(HL.last_success_utc):null,el=document.getElementById('stamp');if(!t){el.textContent='No data collected yet';return}
- const m=(Date.now()-t)/6e4;el.innerHTML=(m<10?'<span class="live">● LIVE</span> ':'<span class="stale">STALE</span> ')+'last successful update '+t.toLocaleTimeString()}
-document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));b.classList.add('on');view=b.dataset.v;render()});
-document.getElementById('q').oninput=render;load();setInterval(load,120000);
+ document.getElementById('out').innerHTML=view==='live'?liveView():view==='prizes'?prizes():view==='teams'?teams():view==='draft'?draftView():view==='isa'?isaView():table(l)}
+function stamp(){const el=document.getElementById('stamp');
+ if(LVok){el.innerHTML='<span class="live">● LIVE</span> direct feed';return}
+ const t=HL.last_success_utc?new Date(HL.last_success_utc):null;if(!t){el.textContent='No data collected yet';return}
+ const m=(Date.now()-t)/6e4;el.innerHTML=(m<10?'<span class="live">● LIVE</span> ':'<span class="stale">STALE</span> ')+'updated '+t.toLocaleTimeString()}
+const nav=document.getElementById('nav');
+TABS.forEach(([v,t])=>{const b=document.createElement('button');b.textContent=t;b.dataset.v=v;if(v===view)b.className='on';
+ b.onclick=()=>{[...nav.children].forEach(x=>x.classList.remove('on'));b.classList.add('on');view=v;render()};nav.appendChild(b)});
+document.getElementById('q').oninput=render;
+document.getElementById('refresh').onclick=async e=>{const b=e.target;b.textContent='Refreshing…';await Promise.all([load(),pollLive()]);b.textContent='⟳ Refresh now'};
+load();pollLive();setInterval(load,120000);setInterval(pollLive,10000);setInterval(()=>{if(!LVok)load()},30000);setInterval(stamp,30000);
 </script></body></html>

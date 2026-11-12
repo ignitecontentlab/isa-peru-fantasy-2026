@@ -1,0 +1,58 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ISA Peru 2026 Fantasy</title><style>
+body{margin:0;background:#0b1424;color:#e8eef8;font:14px system-ui,sans-serif}
+header{padding:14px 18px;background:#101c33;border-bottom:2px solid #d4a72c;display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+h1{margin:0;font-size:20px}h1 span{color:#d4a72c}#stamp{margin-left:auto;font-size:12px}.live{color:#ff4d4d}.stale{color:#f0a030}
+nav button{background:#16253f;color:#cfe3ff;border:1px solid #2b4a7a;padding:7px 14px;margin:8px 4px;cursor:pointer;border-radius:4px}nav button.on{background:#1e90ff;color:#fff}
+.wrap{overflow:auto;padding:0 10px 30px}table{border-collapse:collapse;width:100%}th,td{padding:6px 8px;border-bottom:1px solid #1d2c47;white-space:nowrap;text-align:left}
+th{position:sticky;top:0;background:#101c33;color:#7fb8ff}tr.fan{background:#14294a}tr.fan td:first-child{box-shadow:inset 3px 0 #d4a72c}
+.mgr{color:#d4a72c;font-weight:600}.na{color:#6b7a94}.nx{color:#7fb8ff}input{margin:8px;padding:6px;background:#16253f;color:#fff;border:1px solid #2b4a7a;border-radius:4px}
+.card{background:#101c33;border:1px solid #2b4a7a;margin:10px;padding:12px;border-radius:6px}.big{font-size:22px;color:#ff4d4d}h3{margin:14px 6px 4px}
+</style></head><body>
+<header><h1>ISA Peru 2026 <span>Fantasy</span></h1><div id="stamp">loading…</div></header>
+<nav><button data-v="live" class="on">Live Heat</button><button data-v="fantasy">Fantasy 50</button><button data-v="men">Men</button><button data-v="women">Women</button><button data-v="teams">Managers</button><button data-v="health">Data Health</button></nav>
+<input id="q" placeholder="Search surfer / country / manager"><div class="wrap" id="out"></div>
+<script>
+const norm=s=>(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[’´`]/g,"'").toLowerCase().trim();
+let A=[],H=[],HL={},L={},RN={},view='live',IDX={};
+const mean=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:null;
+const sd=a=>{if(a.length<2)return null;const m=mean(a);return Math.sqrt(a.reduce((s,x)=>s+(x-m)**2,0)/a.length)};
+const f=(x,d=2)=>x==null?'<span class="na">–</span>':x.toFixed(d);
+const rl=(d,r)=>(RN[d]||{})[r]||r;
+const fl=e=>{if(!e)return'';const c=[...e].map(ch=>String.fromCharCode(ch.codePointAt(0)-127397)).join('').toLowerCase();
+ return `<img src="https://flagcdn.com/20x15/${c}.png" width="20" height="15" alt="" style="vertical-align:middle"> `};
+async function j(p,d){try{const r=await fetch(p+'?t='+Date.now());return r.ok?await r.json():d}catch(e){return d}}
+async function load(){[A,H,HL,L,RN]=await Promise.all([j('data/athletes.json',[]),j('data/heats.json',[]),j('data/health.json',{}),j('data/live.json',{}),j('data/round_names.json',{})]);build();render();stamp()}
+function build(){IDX={};A.forEach(a=>{[a.name,...(a.alias||[])].forEach(n=>IDX[a.division+'|'+norm(n)]=a);a.h=[];a.next=[]});
+ H.forEach(h=>h.surfers.forEach(s=>{const a=IDX[h.division+'|'+norm(s.name)];if(!a)return;
+  const rec={round:h.round,heat:h.heat,place:s.place,total:s.total,w:s.waves||[]};
+  (h.complete&&s.total!=null?a.h:a.next).push(rec)}));
+ A.forEach(a=>{const t=a.h.map(x=>x.total);a.n=t.length;a.avg=mean(t);a.best=t.length?Math.max(...t):null;a.wins=a.h.filter(x=>x.place===1).length;a.sd=sd(t);a.form=mean(t.slice(-3))})}
+const sorted=l=>[...l].sort((a,b)=>(b.avg??-1)-(a.avg??-1)||(a.preRank??999)-(b.preRank??999));
+function row(a,i,maxH){let c='';for(let k=0;k<maxH;k++){const h=a.h[k];
+ c+=h?`<td>${rl(a.division,h.round)} H${h.heat}</td><td>${h.w[0]!=null?h.w[0].toFixed(2):'–'}</td><td>${h.w[1]!=null?h.w[1].toFixed(2):'–'}</td><td><b>${h.total.toFixed(2)}</b></td>`:'<td></td><td></td><td></td><td></td>'}
+ const nx=a.next[0];return `<tr class="${a.manager?'fan':''}"><td>${i+1}</td><td>${a.name}</td><td>${fl(a.flag)}${a.country}</td><td class="mgr">${a.manager||''}</td><td>${a.pick||''}</td><td>${f(a.avg)}</td><td>${a.n}</td>${c}<td class="nx">${nx?rl(a.division,nx.round)+' H'+nx.heat:'Not yet scheduled'}</td></tr>`}
+function table(list){const maxH=Math.max(1,...A.map(x=>x.h.length));let hh='';for(let k=1;k<=maxH;k++)hh+=`<th>Heat ${k}</th><th>W1</th><th>W2</th><th>Total</th>`;
+ return `<table><tr><th>#</th><th>Surfer</th><th>Country</th><th>Picked by</th><th>Pick</th><th>Avg</th><th>Heats</th>${hh}<th>Next heat</th></tr>${sorted(list).map((a,i)=>row(a,i,maxH)).join('')}</table>`}
+function teams(){const m={};A.filter(a=>a.manager).forEach(a=>(m[a.manager]??=[]).push(a));
+ const rows=Object.entries(m).map(([mgr,v])=>{const done=v.filter(a=>a.n>0),all=v.flatMap(a=>a.h);const wv=all.flatMap(h=>(h.w||[]).slice(0,2)).filter(x=>x!=null);
+  return {mgr,v,score:done.reduce((s,a)=>s+a.avg,0),pts:all.reduce((s,h)=>s+h.total,0),wave:wv.length?wv.reduce((s,x)=>s+x,0):null,wins:all.filter(h=>h.place===1).length,fin:all.length?all.reduce((s,h)=>s+h.place,0)/all.length:null,heats:all.length,missing:v.length-done.length}}).sort((a,b)=>b.score-a.score);
+ let h=`<h3>TEAM PERFORMANCE — CALCULATED, NOT OFFICIAL ISA POINTS</h3><table><tr><th>#</th><th>Manager</th><th>Team score</th><th>Heat pts</th><th>Wave total</th><th>Wins</th><th>Avg finish</th><th>Heats</th><th>Note</th></tr>`;
+ rows.forEach((r,i)=>h+=`<tr><td>${i+1}</td><td class="mgr">${r.mgr}</td><td><b>${r.score.toFixed(2)}</b></td><td>${r.pts.toFixed(2)}</td><td>${f(r.wave)}</td><td>${r.wins}</td><td>${f(r.fin)}</td><td>${r.heats}</td><td class="na">${r.missing?r.missing+' of 5 not yet scored':'complete'}</td></tr>`);
+ h+='</table>';rows.forEach(r=>h+=`<h3 class="mgr">${r.mgr}</h3>`+table(r.v));return h}
+function liveView(){if(!L||!L.surfers)return '<p class="na">No live heat data yet.</p>';
+ const age=(Date.now()-new Date(L.fetched_utc))/6e4,run=L.status==='RUNNING'&&age<10;
+ const rows=L.surfers.map(s=>{const a=IDX[L.division+'|'+norm(s.name)];return `<tr class="${a&&a.manager?'fan':''}"><td>${s.place}</td><td>${s.name} <span class="na">${s.priority||''}</span></td><td>${a?fl(a.flag):''}${s.country}</td><td class="mgr">${a&&a.manager||''}</td><td>${(s.waves||[]).filter(w=>w!=null).map(w=>w.toFixed(2)).join(', ')||'–'}</td><td>${(s.best_waves||[]).map(w=>f(w)).join(' + ')}</td><td><b>${f(s.total)}</b></td></tr>`}).join('');
+ return `<div class="card"><div>${L.division.toUpperCase()} · ${L.round} · HEAT ${L.heat} <span class="${run?'live':'stale'}">${run?'● LIVE':'● '+(L.status||'')+(age>=10?' (stale — last fetched '+Math.round(age)+' min ago)':'')}</span></div>
+ ${run?`<div class="big">${L.minleft}:${String(L.secleft).padStart(2,'0')} left (at last update)</div>`:''}
+ <table><tr><th>P</th><th>Surfer</th><th>Country</th><th>Manager</th><th>Waves</th><th>Best 2</th><th>Total</th></tr>${rows}</table></div>`}
+const health=()=>'<pre>'+JSON.stringify(HL,null,1)+'</pre>';
+function render(){const q=norm(document.getElementById('q').value);let l=A;
+ if(view==='fantasy')l=A.filter(a=>a.manager);else if(view==='men'||view==='women')l=A.filter(a=>a.division===view);
+ if(q)l=l.filter(a=>norm([a.name,a.country,a.manager].join(' ')).includes(q));
+ document.getElementById('out').innerHTML=view==='live'?liveView():view==='teams'?teams():view==='health'?health():table(l)}
+function stamp(){const t=HL.last_success_utc?new Date(HL.last_success_utc):null,el=document.getElementById('stamp');if(!t){el.textContent='No data collected yet';return}
+ const m=(Date.now()-t)/6e4;el.innerHTML=(m<10?'<span class="live">● LIVE</span> ':'<span class="stale">STALE</span> ')+'last successful update '+t.toLocaleTimeString()}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));b.classList.add('on');view=b.dataset.v;render()});
+document.getElementById('q').oninput=render;load();setInterval(load,120000);
+</script></body></html>

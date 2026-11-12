@@ -1,0 +1,2308 @@
+[
+ {
+  "name": "Ethan Ewing",
+  "alias": [],
+  "division": "men",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 1,
+  "manager": "Tony",
+  "pick": 2
+ },
+ {
+  "name": "Italo Ferreira",
+  "alias": [],
+  "division": "men",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 2,
+  "manager": "Cody",
+  "pick": 4
+ },
+ {
+  "name": "Yago Dora",
+  "alias": [],
+  "division": "men",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 3,
+  "manager": "Butters",
+  "pick": 3
+ },
+ {
+  "name": "Griffin Colapinto",
+  "alias": [],
+  "division": "men",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 4,
+  "manager": "Jay",
+  "pick": 5
+ },
+ {
+  "name": "Lucca Mesinas",
+  "alias": [],
+  "division": "men",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 5,
+  "manager": "Scott",
+  "pick": 1
+ },
+ {
+  "name": "Kanoa Igarashi",
+  "alias": [],
+  "division": "men",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 6,
+  "manager": "Chucky",
+  "pick": 8
+ },
+ {
+  "name": "Leonardo Fioravanti",
+  "alias": [],
+  "division": "men",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 7,
+  "manager": "Danny",
+  "pick": 11
+ },
+ {
+  "name": "Alonso Correa",
+  "alias": [],
+  "division": "men",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 8,
+  "manager": "Radin",
+  "pick": 7
+ },
+ {
+  "name": "Kauli Vaast",
+  "alias": [],
+  "division": "men",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 9,
+  "manager": "Jesse",
+  "pick": 6
+ },
+ {
+  "name": "Miguel Pupo",
+  "alias": [],
+  "division": "men",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 10,
+  "manager": "Jesse",
+  "pick": 15
+ },
+ {
+  "name": "Cole Houshmand",
+  "alias": [],
+  "division": "men",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 11,
+  "manager": "Danny",
+  "pick": 10
+ },
+ {
+  "name": "Rio Waida",
+  "alias": [],
+  "division": "men",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 12,
+  "manager": "Kevin",
+  "pick": 12
+ },
+ {
+  "name": "Connor O’Leary",
+  "alias": [],
+  "division": "men",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 13,
+  "manager": "Cody",
+  "pick": 17
+ },
+ {
+  "name": "Crosby Colapinto",
+  "alias": [],
+  "division": "men",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 14,
+  "manager": "Chucky",
+  "pick": 13
+ },
+ {
+  "name": "Miguel Tudela",
+  "alias": [],
+  "division": "men",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 15,
+  "manager": "Cody",
+  "pick": 24
+ },
+ {
+  "name": "Marco Mignot",
+  "alias": [],
+  "division": "men",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 16,
+  "manager": "Radin",
+  "pick": 14
+ },
+ {
+  "name": "George Pittar",
+  "alias": [],
+  "division": "men",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 17,
+  "manager": "Jay",
+  "pick": 16
+ },
+ {
+  "name": "Liam O’Brien",
+  "alias": [],
+  "division": "men",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 18,
+  "manager": "Kevin",
+  "pick": 9
+ },
+ {
+  "name": "Hans Odriozola",
+  "alias": [],
+  "division": "men",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 19,
+  "manager": "Scott",
+  "pick": 20
+ },
+ {
+  "name": "Tim Elter",
+  "alias": [],
+  "division": "men",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 20,
+  "manager": "Butters",
+  "pick": 18
+ },
+ {
+  "name": "Frederico Morais",
+  "alias": [],
+  "division": "men",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 21,
+  "manager": "Kevin",
+  "pick": 29
+ },
+ {
+  "name": "Jorgann Couzinet",
+  "alias": [],
+  "division": "men",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 22,
+  "manager": "Danny",
+  "pick": 30
+ },
+ {
+  "name": "Guilherme Ribeiro",
+  "alias": [],
+  "division": "men",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 23,
+  "manager": "Tony",
+  "pick": 22
+ },
+ {
+  "name": "Francisco Ordonhas",
+  "alias": [],
+  "division": "men",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 24,
+  "manager": "Radin",
+  "pick": 27
+ },
+ {
+  "name": "Jacobo Trigo",
+  "alias": [],
+  "division": "men",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 25,
+  "manager": "Butters",
+  "pick": 23
+ },
+ {
+  "name": "Conor Donegan",
+  "alias": [],
+  "division": "men",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 26,
+  "manager": "Tony",
+  "pick": 19
+ },
+ {
+  "name": "Rubén Vitoria",
+  "alias": [],
+  "division": "men",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 27,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kai Odriozola",
+  "alias": [],
+  "division": "men",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 28,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Luke van Wyk",
+  "alias": [],
+  "division": "men",
+  "country": "RSA",
+  "flag": "🇿🇦",
+  "preRank": 29,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "I Made Pajar Ariyana",
+  "alias": [],
+  "division": "men",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 30,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Bryan Pérez",
+  "alias": [
+   "Bryan Perez"
+  ],
+  "division": "men",
+  "country": "ESA",
+  "flag": "🇸🇻",
+  "preRank": 31,
+  "manager": "Jay",
+  "pick": 25
+ },
+ {
+  "name": "Samuel Reidy",
+  "alias": [],
+  "division": "men",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 32,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Oscar Urbina",
+  "alias": [],
+  "division": "men",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 33,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Franco Radziunas",
+  "alias": [],
+  "division": "men",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 34,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Joaquin Muñoz Larreta",
+  "alias": [],
+  "division": "men",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 35,
+  "manager": "Scott",
+  "pick": 21
+ },
+ {
+  "name": "Thiago Passeri",
+  "alias": [],
+  "division": "men",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 36,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Hiroto Ohhara",
+  "alias": [],
+  "division": "men",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 37,
+  "manager": "Chucky",
+  "pick": 28
+ },
+ {
+  "name": "Patrick Langdon-Dark",
+  "alias": [],
+  "division": "men",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 38,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Luke Dillon",
+  "alias": [],
+  "division": "men",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 39,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Gearoid McDaid",
+  "alias": [],
+  "division": "men",
+  "country": "IRL",
+  "flag": "🇮🇪",
+  "preRank": 40,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Tom Butland",
+  "alias": [],
+  "division": "men",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 41,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Taimana Marupo",
+  "alias": [],
+  "division": "men",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 42,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Lewis Murphy",
+  "alias": [],
+  "division": "men",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 43,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Enzo Ackermann",
+  "alias": [],
+  "division": "men",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 44,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Tiago Sorrentino",
+  "alias": [],
+  "division": "men",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 45,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Micael Lerner",
+  "alias": [],
+  "division": "men",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 46,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Roberto Araki",
+  "alias": [],
+  "division": "men",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 47,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Noel de la Torre",
+  "alias": [],
+  "division": "men",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 48,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "León de la Torre",
+  "alias": [],
+  "division": "men",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 49,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Sage Katz",
+  "alias": [],
+  "division": "men",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 50,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Dwight Pastrana",
+  "alias": [],
+  "division": "men",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 51,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Elian Gelabert",
+  "alias": [],
+  "division": "men",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 52,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Alex Suarez",
+  "alias": [],
+  "division": "men",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 53,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Bruce Burgos",
+  "alias": [],
+  "division": "men",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 54,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Maximiliano Saenz",
+  "alias": [],
+  "division": "men",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 55,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Darshan Antequera",
+  "alias": [],
+  "division": "men",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 56,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ntokozo Maphumulo",
+  "alias": [],
+  "division": "men",
+  "country": "RSA",
+  "flag": "🇿🇦",
+  "preRank": 57,
+  "manager": "Jesse",
+  "pick": 26
+ },
+ {
+  "name": "Dhany Widianto",
+  "alias": [],
+  "division": "men",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 58,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Harry De Roth",
+  "alias": [],
+  "division": "men",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 59,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Teva Bouchgua",
+  "alias": [],
+  "division": "men",
+  "country": "MAR",
+  "flag": "🇲🇦",
+  "preRank": 60,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Aboubakr Bouaouda",
+  "alias": [],
+  "division": "men",
+  "country": "MAR",
+  "flag": "🇲🇦",
+  "preRank": 61,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Redouane Regragui",
+  "alias": [],
+  "division": "men",
+  "country": "MAR",
+  "flag": "🇲🇦",
+  "preRank": 62,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Daniel Monterrosa",
+  "alias": [],
+  "division": "men",
+  "country": "ESA",
+  "flag": "🇸🇻",
+  "preRank": 63,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Amir Rafaeli",
+  "alias": [],
+  "division": "men",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 64,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Nadav Attar",
+  "alias": [],
+  "division": "men",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 65,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Uriel Uziel",
+  "alias": [],
+  "division": "men",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 66,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Teo Gale Grani",
+  "alias": [],
+  "division": "men",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 67,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kai Gale Grani",
+  "alias": [],
+  "division": "men",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 68,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jean Carlos González",
+  "alias": [],
+  "division": "men",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 69,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Reed Platenius",
+  "alias": [],
+  "division": "men",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 70,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Tommy Zabalka",
+  "alias": [],
+  "division": "men",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 71,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Tanner Sandvig",
+  "alias": [],
+  "division": "men",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 72,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Stef van Noordennen",
+  "alias": [],
+  "division": "men",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 73,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Oliver Heintz",
+  "alias": [],
+  "division": "men",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 74,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Oliver Rijssenbeek",
+  "alias": [],
+  "division": "men",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 75,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Wu Shidong",
+  "alias": [],
+  "division": "men",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 76,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ma Wensong",
+  "alias": [],
+  "division": "men",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 77,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jiang Shulou",
+  "alias": [],
+  "division": "men",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 78,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jose Joaquin Lopez",
+  "alias": [],
+  "division": "men",
+  "country": "VEN",
+  "flag": "🇻🇪",
+  "preRank": 79,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Carlos Perez",
+  "alias": [],
+  "division": "men",
+  "country": "VEN",
+  "flag": "🇻🇪",
+  "preRank": 80,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Francisco Bellorin",
+  "alias": [],
+  "division": "men",
+  "country": "VEN",
+  "flag": "🇻🇪",
+  "preRank": 81,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Greyson Grant",
+  "alias": [],
+  "division": "men",
+  "country": "SWE",
+  "flag": "🇸🇪",
+  "preRank": 82,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Chia Chi Yu",
+  "alias": [],
+  "division": "men",
+  "country": "TPE",
+  "flag": "🇹🇼",
+  "preRank": 83,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ming Jang Liu",
+  "alias": [],
+  "division": "men",
+  "country": "TPE",
+  "flag": "🇹🇼",
+  "preRank": 84,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Carlos Escobar",
+  "alias": [],
+  "division": "men",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 85,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Emerson Solares",
+  "alias": [],
+  "division": "men",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 86,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jorge Vasquez",
+  "alias": [],
+  "division": "men",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 87,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Leonardo Apreda",
+  "alias": [],
+  "division": "men",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 88,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Khalil da Silva",
+  "alias": [],
+  "division": "men",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 89,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Perry Siganos",
+  "alias": [],
+  "division": "men",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 90,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Elias Smith",
+  "alias": [],
+  "division": "men",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 91,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Mason Moschopoulos",
+  "alias": [],
+  "division": "men",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 92,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Martin Ottado",
+  "alias": [],
+  "division": "men",
+  "country": "URU",
+  "flag": "🇺🇾",
+  "preRank": 93,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Roberto Camblor",
+  "alias": [],
+  "division": "men",
+  "country": "URU",
+  "flag": "🇺🇾",
+  "preRank": 94,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Santiago Gonzalez",
+  "alias": [],
+  "division": "men",
+  "country": "URU",
+  "flag": "🇺🇾",
+  "preRank": 95,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Joshua Burke",
+  "alias": [],
+  "division": "men",
+  "country": "BAR",
+  "flag": "🇧🇧",
+  "preRank": 96,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jacob Burke",
+  "alias": [],
+  "division": "men",
+  "country": "BAR",
+  "flag": "🇧🇧",
+  "preRank": 97,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Lewis St. John",
+  "alias": [],
+  "division": "men",
+  "country": "BAR",
+  "flag": "🇧🇧",
+  "preRank": 98,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Toby Espejon",
+  "alias": [],
+  "division": "men",
+  "country": "PHI",
+  "flag": "🇵🇭",
+  "preRank": 99,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Edmario Alciso Jr.",
+  "alias": [],
+  "division": "men",
+  "country": "PHI",
+  "flag": "🇵🇭",
+  "preRank": 100,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Luis Alfredo Cruz",
+  "alias": [],
+  "division": "men",
+  "country": "DOM",
+  "flag": "🇩🇴",
+  "preRank": 101,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Cristian Padilla",
+  "alias": [],
+  "division": "men",
+  "country": "DOM",
+  "flag": "🇩🇴",
+  "preRank": 102,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Oscar Guzman",
+  "alias": [],
+  "division": "men",
+  "country": "NCA",
+  "flag": "🇳🇮",
+  "preRank": 103,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Carlos Zuñiga",
+  "alias": [],
+  "division": "men",
+  "country": "NCA",
+  "flag": "🇳🇮",
+  "preRank": 104,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Yeferson Lopez",
+  "alias": [],
+  "division": "men",
+  "country": "NCA",
+  "flag": "🇳🇮",
+  "preRank": 105,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Sergii Kukharskyi",
+  "alias": [],
+  "division": "men",
+  "country": "UKR",
+  "flag": "🇺🇦",
+  "preRank": 106,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ivan Mynenko",
+  "alias": [],
+  "division": "men",
+  "country": "UKR",
+  "flag": "🇺🇦",
+  "preRank": 107,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Noah Stømnaug",
+  "alias": [],
+  "division": "men",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 108,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Zukas Løining",
+  "alias": [],
+  "division": "men",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 109,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Felix Golden",
+  "alias": [],
+  "division": "men",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 110,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Sebastian Čelák",
+  "alias": [],
+  "division": "men",
+  "country": "CZE",
+  "flag": "🇨🇿",
+  "preRank": 111,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jan Vítek",
+  "alias": [],
+  "division": "men",
+  "country": "CZE",
+  "flag": "🇨🇿",
+  "preRank": 112,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Romeo Chavez",
+  "alias": [],
+  "division": "men",
+  "country": "COL",
+  "flag": "🇨🇴",
+  "preRank": 113,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Liam Wilson",
+  "alias": [],
+  "division": "men",
+  "country": "ASA",
+  "flag": "🇦🇸",
+  "preRank": 114,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jason Latham",
+  "alias": [],
+  "division": "men",
+  "country": "ASA",
+  "flag": "🇦🇸",
+  "preRank": 115,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Eeli Timperi",
+  "alias": [],
+  "division": "men",
+  "country": "FIN",
+  "flag": "🇫🇮",
+  "preRank": 116,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Lukas McMahon",
+  "alias": [],
+  "division": "men",
+  "country": "FIN",
+  "flag": "🇫🇮",
+  "preRank": 117,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ivah Wilmot",
+  "alias": [],
+  "division": "men",
+  "country": "JAM",
+  "flag": "🇯🇲",
+  "preRank": 118,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Elishama Beckford",
+  "alias": [],
+  "division": "men",
+  "country": "JAM",
+  "flag": "🇯🇲",
+  "preRank": 119,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ronald Hastings",
+  "alias": [],
+  "division": "men",
+  "country": "JAM",
+  "flag": "🇯🇲",
+  "preRank": 120,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Paul Krsnik",
+  "alias": [],
+  "division": "men",
+  "country": "AUT",
+  "flag": "🇦🇹",
+  "preRank": 121,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Rush Carter Broderick",
+  "alias": [],
+  "division": "men",
+  "country": "IVB",
+  "flag": "🇻🇬",
+  "preRank": 122,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Teshawn Jones",
+  "alias": [],
+  "division": "men",
+  "country": "IVB",
+  "flag": "🇻🇬",
+  "preRank": 123,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Benjamin Stuller",
+  "alias": [],
+  "division": "men",
+  "country": "SVK",
+  "flag": "🇸🇰",
+  "preRank": 124,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Aris Gabriel Voicu",
+  "alias": [],
+  "division": "men",
+  "country": "ROU",
+  "flag": "🇷🇴",
+  "preRank": 125,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Carissa Moore",
+  "alias": [],
+  "division": "women",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 1,
+  "manager": "Danny",
+  "pick": 1
+ },
+ {
+  "name": "Tyler Wright",
+  "alias": [],
+  "division": "women",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 2,
+  "manager": "Tony",
+  "pick": 9
+ },
+ {
+  "name": "Stephanie Gilmore",
+  "alias": [],
+  "division": "women",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 3,
+  "manager": "Jesse",
+  "pick": 5
+ },
+ {
+  "name": "Gabriela Bryan",
+  "alias": [],
+  "division": "women",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 4,
+  "manager": "Kevin",
+  "pick": 2
+ },
+ {
+  "name": "Catalina Zariquiey",
+  "alias": [],
+  "division": "women",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 5,
+  "manager": "Cody",
+  "pick": 7
+ },
+ {
+  "name": "Johanne Defay",
+  "alias": [],
+  "division": "women",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 6,
+  "manager": "Butters",
+  "pick": 8
+ },
+ {
+  "name": "Luana Silva",
+  "alias": [],
+  "division": "women",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 7,
+  "manager": "Scott",
+  "pick": 11
+ },
+ {
+  "name": "Sawyer Lindblad",
+  "alias": [],
+  "division": "women",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "preRank": 8,
+  "manager": "Chucky",
+  "pick": 3
+ },
+ {
+  "name": "Nadia Erostarbe",
+  "alias": [],
+  "division": "women",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 9,
+  "manager": "Cody",
+  "pick": 14
+ },
+ {
+  "name": "Janire González-Etxabarri",
+  "alias": [],
+  "division": "women",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 10,
+  "manager": "Radin",
+  "pick": 4
+ },
+ {
+  "name": "Daniella Rosas",
+  "alias": [],
+  "division": "women",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 11,
+  "manager": "Jay",
+  "pick": 6
+ },
+ {
+  "name": "Sol Aguirre",
+  "alias": [],
+  "division": "women",
+  "country": "PER",
+  "flag": "🇵🇪",
+  "preRank": 12,
+  "manager": "Butters",
+  "pick": 13
+ },
+ {
+  "name": "Yolanda Hopkins",
+  "alias": [],
+  "division": "women",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 13,
+  "manager": "Tony",
+  "pick": 12
+ },
+ {
+  "name": "Francisca Veselko",
+  "alias": [],
+  "division": "women",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 14,
+  "manager": "Chucky",
+  "pick": 18
+ },
+ {
+  "name": "Leihani Zoric",
+  "alias": [],
+  "division": "women",
+  "country": "AUS",
+  "flag": "🇦🇺",
+  "preRank": 15,
+  "manager": "Jesse",
+  "pick": 16
+ },
+ {
+  "name": "Laura Raupp",
+  "alias": [],
+  "division": "women",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 16,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ariane Ochoa",
+  "alias": [],
+  "division": "women",
+  "country": "ESP",
+  "flag": "🇪🇸",
+  "preRank": 17,
+  "manager": "Radin",
+  "pick": 17
+ },
+ {
+  "name": "Leilani McGonagle",
+  "alias": [],
+  "division": "women",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 18,
+  "manager": "Jay",
+  "pick": 15
+ },
+ {
+  "name": "Camilla Kemp",
+  "alias": [],
+  "division": "women",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 19,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Anon Matsuoka",
+  "alias": [],
+  "division": "women",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 20,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Taina Hinckel",
+  "alias": [],
+  "division": "women",
+  "country": "BRA",
+  "flag": "🇧🇷",
+  "preRank": 21,
+  "manager": "Kevin",
+  "pick": 19
+ },
+ {
+  "name": "Aelan Vaast",
+  "alias": [],
+  "division": "women",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 22,
+  "manager": "Scott",
+  "pick": 10
+ },
+ {
+  "name": "Naia Monte",
+  "alias": [],
+  "division": "women",
+  "country": "FRA",
+  "flag": "🇫🇷",
+  "preRank": 23,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Maria Salgado",
+  "alias": [],
+  "division": "women",
+  "country": "POR",
+  "flag": "🇵🇹",
+  "preRank": 24,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Lucia Indurain",
+  "alias": [],
+  "division": "women",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 25,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Vera Jarisz",
+  "alias": [],
+  "division": "women",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 26,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Victoria Muñoz Larreta",
+  "alias": [],
+  "division": "women",
+  "country": "ARG",
+  "flag": "🇦🇷",
+  "preRank": 27,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Janina Zeitler",
+  "alias": [],
+  "division": "women",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 28,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Nina Smiciklas",
+  "alias": [
+   "Nina Simiciklas"
+  ],
+  "division": "women",
+  "country": "GER",
+  "flag": "🇩🇪",
+  "preRank": 29,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Rachael Aguero",
+  "alias": [],
+  "division": "women",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 30,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Mikela Castro",
+  "alias": [],
+  "division": "women",
+  "country": "CRC",
+  "flag": "🇨🇷",
+  "preRank": 31,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Dominic Barona",
+  "alias": [],
+  "division": "women",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 32,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Genesis Borja",
+  "alias": [],
+  "division": "women",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 33,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Wendy Velasquez",
+  "alias": [],
+  "division": "women",
+  "country": "ECU",
+  "flag": "🇪🇨",
+  "preRank": 34,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jessie van Niekerk",
+  "alias": [],
+  "division": "women",
+  "country": "RSA",
+  "flag": "🇿🇦",
+  "preRank": 35,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Louise Lepront",
+  "alias": [],
+  "division": "women",
+  "country": "RSA",
+  "flag": "🇿🇦",
+  "preRank": 36,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Natasha van Greunen",
+  "alias": [],
+  "division": "women",
+  "country": "RSA",
+  "flag": "🇿🇦",
+  "preRank": 37,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kana Nakashio",
+  "alias": [],
+  "division": "women",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 38,
+  "manager": "Danny",
+  "pick": 20
+ },
+ {
+  "name": "Anri Matsuno",
+  "alias": [],
+  "division": "women",
+  "country": "JPN",
+  "flag": "🇯🇵",
+  "preRank": 39,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Isidora Bulto",
+  "alias": [],
+  "division": "women",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 40,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Estela López",
+  "alias": [],
+  "division": "women",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 41,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Paloma Santos",
+  "alias": [],
+  "division": "women",
+  "country": "CHI",
+  "flag": "🇨🇱",
+  "preRank": 42,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Havanna Cabrero",
+  "alias": [],
+  "division": "women",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 43,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Mia Calderón",
+  "alias": [],
+  "division": "women",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 44,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Faviola Alcalá",
+  "alias": [],
+  "division": "women",
+  "country": "PUR",
+  "flag": "🇵🇷",
+  "preRank": 45,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jasmine Michelle Studer",
+  "alias": [],
+  "division": "women",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 46,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kya Jo Heuer",
+  "alias": [],
+  "division": "women",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 47,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Hanasuri Jabrik",
+  "alias": [],
+  "division": "women",
+  "country": "INA",
+  "flag": "🇮🇩",
+  "preRank": 48,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Charlotte Mulley",
+  "alias": [],
+  "division": "women",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 49,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Belle Betteridge",
+  "alias": [],
+  "division": "women",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 50,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Raya Campbell",
+  "alias": [],
+  "division": "women",
+  "country": "GBR",
+  "flag": "🇬🇧",
+  "preRank": 51,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ranya Squalli",
+  "alias": [],
+  "division": "women",
+  "country": "MAR",
+  "flag": "🇲🇦",
+  "preRank": 52,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Myriam Benzarti",
+  "alias": [],
+  "division": "women",
+  "country": "MAR",
+  "flag": "🇲🇦",
+  "preRank": 53,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Indi-Lee Ruddell",
+  "alias": [],
+  "division": "women",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 54,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kyra Wallis",
+  "alias": [],
+  "division": "women",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 55,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Grace Gundry",
+  "alias": [],
+  "division": "women",
+  "country": "NZL",
+  "flag": "🇳🇿",
+  "preRank": 56,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Alma Aviram",
+  "alias": [],
+  "division": "women",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 57,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Noya Slater Cohen",
+  "alias": [],
+  "division": "women",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 58,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Aviv Shuval",
+  "alias": [],
+  "division": "women",
+  "country": "ISR",
+  "flag": "🇮🇱",
+  "preRank": 59,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Enilda Alonso",
+  "alias": [],
+  "division": "women",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 60,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Kely Gasparovic",
+  "alias": [],
+  "division": "women",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 61,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Belen Elizondo",
+  "alias": [],
+  "division": "women",
+  "country": "PAN",
+  "flag": "🇵🇦",
+  "preRank": 62,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ocea Green",
+  "alias": [],
+  "division": "women",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 63,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Bethany Zelasko",
+  "alias": [],
+  "division": "women",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 64,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Snow Parisi",
+  "alias": [],
+  "division": "women",
+  "country": "CAN",
+  "flag": "🇨🇦",
+  "preRank": 65,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Coral Jeanne Bonilla",
+  "alias": [],
+  "division": "women",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 66,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Maya Mateja",
+  "alias": [],
+  "division": "women",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 67,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ana Llyllia Gonzalez",
+  "alias": [],
+  "division": "women",
+  "country": "MEX",
+  "flag": "🇲🇽",
+  "preRank": 68,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Yang Siqi",
+  "alias": [],
+  "division": "women",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 69,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Jin Shuhan",
+  "alias": [],
+  "division": "women",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 70,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Wang Yitian",
+  "alias": [],
+  "division": "women",
+  "country": "CHN",
+  "flag": "🇨🇳",
+  "preRank": 71,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Rosanny Alvarez",
+  "alias": [],
+  "division": "women",
+  "country": "VEN",
+  "flag": "🇻🇪",
+  "preRank": 72,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Silvana Martinez",
+  "alias": [],
+  "division": "women",
+  "country": "VEN",
+  "flag": "🇻🇪",
+  "preRank": 73,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Elin Tawharu",
+  "alias": [],
+  "division": "women",
+  "country": "SWE",
+  "flag": "🇸🇪",
+  "preRank": 74,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Wan Yu Chen",
+  "alias": [],
+  "division": "women",
+  "country": "TPE",
+  "flag": "🇹🇼",
+  "preRank": 75,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Yun Jung Chung",
+  "alias": [],
+  "division": "women",
+  "country": "TPE",
+  "flag": "🇹🇼",
+  "preRank": 76,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "En Rou Wang",
+  "alias": [],
+  "division": "women",
+  "country": "TPE",
+  "flag": "🇹🇼",
+  "preRank": 77,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Tiziana Billy",
+  "alias": [],
+  "division": "women",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 78,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Darlyn Ramirez",
+  "alias": [],
+  "division": "women",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 79,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Anaí Porras",
+  "alias": [],
+  "division": "women",
+  "country": "GUA",
+  "flag": "🇬🇹",
+  "preRank": 80,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Chiara Cuppone",
+  "alias": [],
+  "division": "women",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 81,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Diana Giorgi",
+  "alias": [],
+  "division": "women",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 82,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Victoria Backhaus",
+  "alias": [],
+  "division": "women",
+  "country": "ITA",
+  "flag": "🇮🇹",
+  "preRank": 83,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Alexandra Kolla",
+  "alias": [],
+  "division": "women",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 84,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Eirini Tsarpali",
+  "alias": [],
+  "division": "women",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 85,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Nathania Nakos",
+  "alias": [],
+  "division": "women",
+  "country": "GRE",
+  "flag": "🇬🇷",
+  "preRank": 86,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Chelsea Tuach",
+  "alias": [],
+  "division": "women",
+  "country": "BAR",
+  "flag": "🇧🇧",
+  "preRank": 87,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Nilbie Blancada",
+  "alias": [],
+  "division": "women",
+  "country": "PHI",
+  "flag": "🇵🇭",
+  "preRank": 88,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Shelamae Arjona",
+  "alias": [
+   "Shelamae Ardona"
+  ],
+  "division": "women",
+  "country": "PHI",
+  "flag": "🇵🇭",
+  "preRank": 89,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Eva Mota",
+  "alias": [],
+  "division": "women",
+  "country": "DOM",
+  "flag": "🇩🇴",
+  "preRank": 90,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Candelaria Resano",
+  "alias": [],
+  "division": "women",
+  "country": "NCA",
+  "flag": "🇳🇮",
+  "preRank": 91,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Emmy Nøklebye",
+  "alias": [],
+  "division": "women",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 92,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Ine Haugen",
+  "alias": [],
+  "division": "women",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 93,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Helle Løvseth",
+  "alias": [],
+  "division": "women",
+  "country": "NOR",
+  "flag": "🇳🇴",
+  "preRank": 94,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Zoe-Anais Bain",
+  "alias": [],
+  "division": "women",
+  "country": "JAM",
+  "flag": "🇯🇲",
+  "preRank": 95,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Laura Bell",
+  "alias": [],
+  "division": "women",
+  "country": "AUT",
+  "flag": "🇦🇹",
+  "preRank": 96,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Anna Pixner",
+  "alias": [],
+  "division": "women",
+  "country": "AUT",
+  "flag": "🇦🇹",
+  "preRank": 97,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Nicole Brait",
+  "alias": [],
+  "division": "women",
+  "country": "POL",
+  "flag": "🇵🇱",
+  "preRank": 98,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Anna Mockova",
+  "alias": [],
+  "division": "women",
+  "country": "SVK",
+  "flag": "🇸🇰",
+  "preRank": 99,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Santa Vevere",
+  "alias": [],
+  "division": "women",
+  "country": "LAT",
+  "flag": "🇱🇻",
+  "preRank": 100,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Katrina Kruze",
+  "alias": [],
+  "division": "women",
+  "country": "LAT",
+  "flag": "🇱🇻",
+  "preRank": 101,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Maya Karl",
+  "alias": [],
+  "division": "women",
+  "country": "UZB",
+  "flag": "🇺🇿",
+  "preRank": 102,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Mirna Boelsma",
+  "alias": [],
+  "division": "women",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 103,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Lune van Dijk",
+  "alias": [],
+  "division": "women",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 104,
+  "manager": null,
+  "pick": null
+ },
+ {
+  "name": "Puck Dekkers",
+  "alias": [],
+  "division": "women",
+  "country": "NED",
+  "flag": "🇳🇱",
+  "preRank": 105,
+  "manager": null,
+  "pick": null
+ }
+]

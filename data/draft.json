@@ -1,0 +1,502 @@
+[
+ {
+  "pick": 1,
+  "division": "men",
+  "round": 1,
+  "slot": 1,
+  "manager": "Scott",
+  "name": "Lucca Mesinas",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 2,
+  "division": "men",
+  "round": 1,
+  "slot": 2,
+  "manager": "Tony",
+  "name": "Ethan Ewing",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 3,
+  "division": "men",
+  "round": 1,
+  "slot": 3,
+  "manager": "Butters",
+  "name": "Yago Dora",
+  "country": "BRA",
+  "flag": "🇧🇷"
+ },
+ {
+  "pick": 4,
+  "division": "men",
+  "round": 1,
+  "slot": 4,
+  "manager": "Cody",
+  "name": "Italo Ferreira",
+  "country": "BRA",
+  "flag": "🇧🇷"
+ },
+ {
+  "pick": 5,
+  "division": "men",
+  "round": 1,
+  "slot": 5,
+  "manager": "Jay",
+  "name": "Griffin Colapinto",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 6,
+  "division": "men",
+  "round": 1,
+  "slot": 6,
+  "manager": "Jesse",
+  "name": "Kauli Vaast",
+  "country": "FRA",
+  "flag": "🇫🇷"
+ },
+ {
+  "pick": 7,
+  "division": "men",
+  "round": 1,
+  "slot": 7,
+  "manager": "Radin",
+  "name": "Alonso Correa",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 8,
+  "division": "men",
+  "round": 1,
+  "slot": 8,
+  "manager": "Chucky",
+  "name": "Kanoa Igarashi",
+  "country": "JPN",
+  "flag": "🇯🇵"
+ },
+ {
+  "pick": 9,
+  "division": "men",
+  "round": 1,
+  "slot": 9,
+  "manager": "Kevin",
+  "name": "Liam O’Brien",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 10,
+  "division": "men",
+  "round": 1,
+  "slot": 10,
+  "manager": "Danny",
+  "name": "Cole Houshmand",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 11,
+  "division": "men",
+  "round": 2,
+  "slot": 10,
+  "manager": "Danny",
+  "name": "Leonardo Fioravanti",
+  "country": "ITA",
+  "flag": "🇮🇹"
+ },
+ {
+  "pick": 12,
+  "division": "men",
+  "round": 2,
+  "slot": 9,
+  "manager": "Kevin",
+  "name": "Rio Waida",
+  "country": "INA",
+  "flag": "🇮🇩"
+ },
+ {
+  "pick": 13,
+  "division": "men",
+  "round": 2,
+  "slot": 8,
+  "manager": "Chucky",
+  "name": "Crosby Colapinto",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 14,
+  "division": "men",
+  "round": 2,
+  "slot": 7,
+  "manager": "Radin",
+  "name": "Marco Mignot",
+  "country": "FRA",
+  "flag": "🇫🇷"
+ },
+ {
+  "pick": 15,
+  "division": "men",
+  "round": 2,
+  "slot": 6,
+  "manager": "Jesse",
+  "name": "Miguel Pupo",
+  "country": "BRA",
+  "flag": "🇧🇷"
+ },
+ {
+  "pick": 16,
+  "division": "men",
+  "round": 2,
+  "slot": 5,
+  "manager": "Jay",
+  "name": "George Pittar",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 17,
+  "division": "men",
+  "round": 2,
+  "slot": 4,
+  "manager": "Cody",
+  "name": "Connor O’Leary",
+  "country": "JPN",
+  "flag": "🇯🇵"
+ },
+ {
+  "pick": 18,
+  "division": "men",
+  "round": 2,
+  "slot": 3,
+  "manager": "Butters",
+  "name": "Tim Elter",
+  "country": "GER",
+  "flag": "🇩🇪"
+ },
+ {
+  "pick": 19,
+  "division": "men",
+  "round": 2,
+  "slot": 2,
+  "manager": "Tony",
+  "name": "Conor Donegan",
+  "country": "ESP",
+  "flag": "🇪🇸"
+ },
+ {
+  "pick": 20,
+  "division": "men",
+  "round": 2,
+  "slot": 1,
+  "manager": "Scott",
+  "name": "Hans Odriozola",
+  "country": "GER",
+  "flag": "🇩🇪"
+ },
+ {
+  "pick": 21,
+  "division": "men",
+  "round": 3,
+  "slot": 1,
+  "manager": "Scott",
+  "name": "Joaquin Muñoz Larreta",
+  "country": "ARG",
+  "flag": "🇦🇷"
+ },
+ {
+  "pick": 22,
+  "division": "men",
+  "round": 3,
+  "slot": 2,
+  "manager": "Tony",
+  "name": "Guilherme Ribeiro",
+  "country": "POR",
+  "flag": "🇵🇹"
+ },
+ {
+  "pick": 23,
+  "division": "men",
+  "round": 3,
+  "slot": 3,
+  "manager": "Butters",
+  "name": "Jacobo Trigo",
+  "country": "ESP",
+  "flag": "🇪🇸"
+ },
+ {
+  "pick": 24,
+  "division": "men",
+  "round": 3,
+  "slot": 4,
+  "manager": "Cody",
+  "name": "Miguel Tudela",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 25,
+  "division": "men",
+  "round": 3,
+  "slot": 5,
+  "manager": "Jay",
+  "name": "Bryan Perez",
+  "country": "ESA",
+  "flag": "🇸🇻"
+ },
+ {
+  "pick": 26,
+  "division": "men",
+  "round": 3,
+  "slot": 6,
+  "manager": "Jesse",
+  "name": "Ntokozo Maphumulo",
+  "country": "RSA",
+  "flag": "🇿🇦"
+ },
+ {
+  "pick": 27,
+  "division": "men",
+  "round": 3,
+  "slot": 7,
+  "manager": "Radin",
+  "name": "Francisco Ordonhas",
+  "country": "POR",
+  "flag": "🇵🇹"
+ },
+ {
+  "pick": 28,
+  "division": "men",
+  "round": 3,
+  "slot": 8,
+  "manager": "Chucky",
+  "name": "Hiroto Ohhara",
+  "country": "JPN",
+  "flag": "🇯🇵"
+ },
+ {
+  "pick": 29,
+  "division": "men",
+  "round": 3,
+  "slot": 9,
+  "manager": "Kevin",
+  "name": "Frederico Morais",
+  "country": "POR",
+  "flag": "🇵🇹"
+ },
+ {
+  "pick": 30,
+  "division": "men",
+  "round": 3,
+  "slot": 10,
+  "manager": "Danny",
+  "name": "Jorgann Couzinet",
+  "country": "FRA",
+  "flag": "🇫🇷"
+ },
+ {
+  "pick": 1,
+  "division": "women",
+  "round": 1,
+  "slot": 10,
+  "manager": "Danny",
+  "name": "Carissa Moore",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 2,
+  "division": "women",
+  "round": 1,
+  "slot": 9,
+  "manager": "Kevin",
+  "name": "Gabriela Bryan",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 3,
+  "division": "women",
+  "round": 1,
+  "slot": 8,
+  "manager": "Chucky",
+  "name": "Sawyer Lindblad",
+  "country": "USA",
+  "flag": "🇺🇸"
+ },
+ {
+  "pick": 4,
+  "division": "women",
+  "round": 1,
+  "slot": 7,
+  "manager": "Radin",
+  "name": "Janire González-Etxabarri",
+  "country": "ESP",
+  "flag": "🇪🇸"
+ },
+ {
+  "pick": 5,
+  "division": "women",
+  "round": 1,
+  "slot": 6,
+  "manager": "Jesse",
+  "name": "Stephanie Gilmore",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 6,
+  "division": "women",
+  "round": 1,
+  "slot": 5,
+  "manager": "Jay",
+  "name": "Daniella Rosas",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 7,
+  "division": "women",
+  "round": 1,
+  "slot": 4,
+  "manager": "Cody",
+  "name": "Catalina Zariquiey",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 8,
+  "division": "women",
+  "round": 1,
+  "slot": 3,
+  "manager": "Butters",
+  "name": "Johanne Defay",
+  "country": "FRA",
+  "flag": "🇫🇷"
+ },
+ {
+  "pick": 9,
+  "division": "women",
+  "round": 1,
+  "slot": 2,
+  "manager": "Tony",
+  "name": "Tyler Wright",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 10,
+  "division": "women",
+  "round": 1,
+  "slot": 1,
+  "manager": "Scott",
+  "name": "Aelan Vaast",
+  "country": "FRA",
+  "flag": "🇫🇷"
+ },
+ {
+  "pick": 11,
+  "division": "women",
+  "round": 2,
+  "slot": 1,
+  "manager": "Scott",
+  "name": "Luana Silva",
+  "country": "BRA",
+  "flag": "🇧🇷"
+ },
+ {
+  "pick": 12,
+  "division": "women",
+  "round": 2,
+  "slot": 2,
+  "manager": "Tony",
+  "name": "Yolanda Hopkins",
+  "country": "POR",
+  "flag": "🇵🇹"
+ },
+ {
+  "pick": 13,
+  "division": "women",
+  "round": 2,
+  "slot": 3,
+  "manager": "Butters",
+  "name": "Sol Aguirre",
+  "country": "PER",
+  "flag": "🇵🇪"
+ },
+ {
+  "pick": 14,
+  "division": "women",
+  "round": 2,
+  "slot": 4,
+  "manager": "Cody",
+  "name": "Nadia Erostarbe",
+  "country": "ESP",
+  "flag": "🇪🇸"
+ },
+ {
+  "pick": 15,
+  "division": "women",
+  "round": 2,
+  "slot": 5,
+  "manager": "Jay",
+  "name": "Leilani McGonagle",
+  "country": "CRC",
+  "flag": "🇨🇷"
+ },
+ {
+  "pick": 16,
+  "division": "women",
+  "round": 2,
+  "slot": 6,
+  "manager": "Jesse",
+  "name": "Leihani Zoric",
+  "country": "AUS",
+  "flag": "🇦🇺"
+ },
+ {
+  "pick": 17,
+  "division": "women",
+  "round": 2,
+  "slot": 7,
+  "manager": "Radin",
+  "name": "Ariane Ochoa",
+  "country": "ESP",
+  "flag": "🇪🇸"
+ },
+ {
+  "pick": 18,
+  "division": "women",
+  "round": 2,
+  "slot": 8,
+  "manager": "Chucky",
+  "name": "Francisca Veselko",
+  "country": "POR",
+  "flag": "🇵🇹"
+ },
+ {
+  "pick": 19,
+  "division": "women",
+  "round": 2,
+  "slot": 9,
+  "manager": "Kevin",
+  "name": "Taina Hinckel",
+  "country": "BRA",
+  "flag": "🇧🇷"
+ },
+ {
+  "pick": 20,
+  "division": "women",
+  "round": 2,
+  "slot": 10,
+  "manager": "Danny",
+  "name": "Kana Nakashio",
+  "country": "JPN",
+  "flag": "🇯🇵"
+ }
+]

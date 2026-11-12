@@ -1,10 +1,10 @@
 {
- "run_utc": "2026-11-12T15:31:07.864077Z",
+ "run_utc": "2026-11-12T16:22:03.749845Z",
  "sources": {
   "men.php": {
    "status": 200,
    "heats_parsed": 124,
-   "completed": 109
+   "completed": 111
   },
   "women.php": {
    "status": 200,
@@ -13,9 +13,9 @@
   },
   "getlive": {
    "status": 200,
-   "bytes": 3081,
+   "bytes": 5132,
    "parsed": true
   }
  },
- "last_success_utc": "2026-11-12T15:31:07.864077Z"
+ "last_success_utc": "2026-11-12T16:22:03.749845Z"
 }

@@ -3451,8 +3451,8 @@
    {
     "name": "Luke van Wyk",
     "country": "RSA",
-    "total": null,
-    "place": null,
+    "total": 9.4,
+    "place": 1,
     "waves": [
      4.9,
      3.4
@@ -3465,8 +3465,8 @@
    {
     "name": "Leonardo Apreda",
     "country": "ITA",
-    "total": null,
-    "place": null,
+    "total": 7.63,
+    "place": 3,
     "waves": [
      3.5,
      4.13
@@ -3479,8 +3479,8 @@
    {
     "name": "I Made Pajar Ariyana",
     "country": "INA",
-    "total": null,
-    "place": null,
+    "total": 8.83,
+    "place": 2,
     "waves": [
      3.1,
      5.73
@@ -3491,7 +3491,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3501,23 +3501,23 @@
    {
     "name": "Kai Gale Grani",
     "country": "PAN",
-    "total": null,
-    "place": null
+    "total": 12.27,
+    "place": 1
    },
    {
     "name": "Samuel Reidy",
     "country": "CRC",
-    "total": null,
-    "place": null
+    "total": 8.73,
+    "place": 2
    },
    {
     "name": "Stef van Noordennen",
     "country": "NED",
-    "total": null,
-    "place": null
+    "total": 8.63,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3528,25 +3528,57 @@
     "name": "Tiago Sorrentino",
     "country": "MEX",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     4.43,
+     5.83
+    ],
+    "best_waves": [
+     5.83,
+     4.43
+    ]
    },
    {
     "name": "Cole Houshmand",
     "country": "USA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     7.0,
+     6.83
+    ],
+    "best_waves": [
+     7.0,
+     6.83
+    ]
    },
    {
     "name": "Alex Suarez",
     "country": "ECU",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.03,
+     4.7
+    ],
+    "best_waves": [
+     4.7,
+     3.03
+    ]
    },
    {
     "name": "Oscar Guzman",
     "country": "NCA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.6,
+     4.2
+    ],
+    "best_waves": [
+     4.2,
+     3.6
+    ]
    }
   ],
   "complete": false
@@ -6949,6 +6981,18 @@
     "country": "FRA",
     "total": null,
     "place": null
+   },
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kai Gale Grani",
+    "country": "PAN",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -6959,8 +7003,20 @@
   "heat": 6,
   "surfers": [
    {
+    "name": "Luke van Wyk",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Khalil da Silva",
     "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Samuel Reidy",
+    "country": "CRC",
     "total": null,
     "place": null
    }

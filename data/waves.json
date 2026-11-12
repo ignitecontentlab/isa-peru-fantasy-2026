@@ -68,5 +68,47 @@
     3.4
    ]
   }
+ },
+ "men|alexsuarez|colehoushmand|oscarguzman|tiagosorrentino": {
+  "colehoushmand": {
+   "waves": [
+    7.0,
+    6.83
+   ],
+   "best_waves": [
+    7.0,
+    6.83
+   ]
+  },
+  "tiagosorrentino": {
+   "waves": [
+    4.43,
+    5.83
+   ],
+   "best_waves": [
+    5.83,
+    4.43
+   ]
+  },
+  "oscarguzman": {
+   "waves": [
+    3.6,
+    4.2
+   ],
+   "best_waves": [
+    4.2,
+    3.6
+   ]
+  },
+  "alexsuarez": {
+   "waves": [
+    3.03,
+    4.7
+   ],
+   "best_waves": [
+    4.7,
+    3.03
+   ]
+  }
  }
 }

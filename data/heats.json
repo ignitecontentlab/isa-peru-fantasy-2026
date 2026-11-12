@@ -3365,8 +3365,8 @@
    {
     "name": "Noah Storhaug",
     "country": "NOR",
-    "total": null,
-    "place": null,
+    "total": 10.83,
+    "place": 2,
     "waves": [
      4.33
     ],
@@ -3378,8 +3378,8 @@
    {
     "name": "Miguel Pupo",
     "country": "BRA",
-    "total": null,
-    "place": null,
+    "total": 13.07,
+    "place": 1,
     "waves": [
      5.67
     ],
@@ -3391,8 +3391,8 @@
    {
     "name": "Jiang Shulou",
     "country": "CHN",
-    "total": null,
-    "place": null,
+    "total": 4.44,
+    "place": 4,
     "waves": [
      3.77
     ],
@@ -3404,8 +3404,8 @@
    {
     "name": "Francisco Bellorin",
     "country": "VEN",
-    "total": null,
-    "place": null,
+    "total": 10.1,
+    "place": 3,
     "waves": [
      2.27
     ],
@@ -3415,7 +3415,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3425,23 +3425,23 @@
    {
     "name": "Jorgan Couzinet",
     "country": "FRA",
-    "total": null,
-    "place": null
+    "total": 11.7,
+    "place": 1
    },
    {
     "name": "Khalil da Silva",
     "country": "ITA",
-    "total": null,
-    "place": null
+    "total": 10.7,
+    "place": 2
    },
    {
     "name": "Noel de la Torre",
     "country": "CHI",
-    "total": null,
-    "place": null
+    "total": 9.13,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3452,19 +3452,38 @@
     "name": "Luke van Wyk",
     "country": "RSA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Leonardo Apreda",
     "country": "ITA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.5
+    ],
+    "best_waves": [
+     3.5,
+     0.0
+    ]
    },
    {
     "name": "I Made Pajar Ariyana",
     "country": "INA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.1
+    ],
+    "best_waves": [
+     3.1,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -3613,6 +3632,12 @@
     "country": "INA",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Noah Storhaug",
+    "country": "NOR",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -3631,6 +3656,12 @@
    {
     "name": "Guilherme Ribeiro",
     "country": "POR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Miguel Pupo",
+    "country": "BRA",
     "total": null,
     "place": null
    },
@@ -6897,6 +6928,34 @@
    {
     "name": "Faviola Alcalá",
     "country": "PUR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Khalil da Silva",
+    "country": "ITA",
     "total": null,
     "place": null
    }

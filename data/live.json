@@ -1,117 +1,78 @@
 {
  "division": "men",
  "round": "REPECHAGE 4",
- "heat": 8,
- "heat_id": "120",
+ "heat": 10,
+ "heat_id": "122",
  "status": "RUNNING",
- "minleft": 11,
- "secleft": 52,
+ "minleft": 15,
+ "secleft": 26,
  "end": "",
  "surfers": [
   {
-   "name": "Miguel Pupo",
-   "country": "BRA",
+   "name": "Leonardo Apreda",
+   "country": "ITA",
    "place": 1,
-   "total": 5.67,
+   "total": 3.5,
    "best_waves": [
-    5.67,
+    3.5,
     0.0
    ],
    "priority": null,
    "waves": [
-    5.67
+    3.5
    ],
    "wave_detail": [
     {
-     "score": 5.67,
+     "score": 3.5,
      "judges": [
-      6.0,
-      6.0,
-      5.5,
-      5.5,
-      5.5
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Noah Storhaug",
-   "country": "NOR",
-   "place": 2,
-   "total": 4.33,
-   "best_waves": [
-    4.33,
-    0.0
-   ],
-   "priority": null,
-   "waves": [
-    4.33
-   ],
-   "wave_detail": [
-    {
-     "score": 4.33,
-     "judges": [
-      4.5,
-      4.0,
-      4.5,
-      4.7,
-      4.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Jiang Shulou",
-   "country": "CHN",
-   "place": 3,
-   "total": 3.77,
-   "best_waves": [
-    3.77,
-    0.0
-   ],
-   "priority": "P2",
-   "waves": [
-    3.77
-   ],
-   "wave_detail": [
-    {
-     "score": 3.77,
-     "judges": [
-      4.0,
       3.5,
-      3.8,
+      3.5,
+      3.5,
       4.0,
-      3.0
+      3.5
      ]
     }
    ]
   },
   {
-   "name": "Francisco Bellorin",
-   "country": "VEN",
-   "place": 4,
-   "total": 2.27,
+   "name": "I Made Pajar Ariyana",
+   "country": "INA",
+   "place": 2,
+   "total": 3.1,
    "best_waves": [
-    2.27,
+    3.1,
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    3.1
+   ],
+   "wave_detail": [
+    {
+     "score": 3.1,
+     "judges": [
+      3.0,
+      3.0,
+      2.5,
+      3.3,
+      3.3
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Luke van Wyk",
+   "country": "RSA",
+   "place": 3,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
     0.0
    ],
    "priority": "P1",
-   "waves": [
-    2.27
-   ],
-   "wave_detail": [
-    {
-     "score": 2.27,
-     "judges": [
-      2.0,
-      2.0,
-      2.0,
-      3.0,
-      2.8
-     ]
-    }
-   ]
+   "waves": [],
+   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-12T14:39:11.601613Z"
+ "fetched_utc": "2026-11-12T15:19:27.658793Z"
 }

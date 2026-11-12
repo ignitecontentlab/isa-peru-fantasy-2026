@@ -1,0 +1,25 @@
+name: rebuild
+on:
+  workflow_dispatch:
+    inputs:
+      reset_history:
+        description: "DELETE saved heat history and wave scores and rebuild from scratch"
+        type: boolean
+        default: false
+permissions: {contents: write}
+concurrency: collect
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests beautifulsoup4
+      - if: ${{ inputs.reset_history }}
+        run: rm -f data/heats.json data/waves.json data/live.json data/round_names.json data/health.json
+      - run: python collector/collect_isa.py
+      - run: python collector/build_photos.py
+      - run: |
+          git config user.name "collector"; git config user.email "bot@users.noreply.github.com"
+          git add -A data; git diff --cached --quiet || (git commit -m "full rebuild" && git push)

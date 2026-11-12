@@ -1,0 +1,6898 @@
+[
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Miguel Tudela",
+    "country": "PER",
+    "total": 10.8,
+    "place": 1
+   },
+   {
+    "name": "Jiang Shulou",
+    "country": "CHN",
+    "total": 6.2,
+    "place": 3
+   },
+   {
+    "name": "Chia Chi Yu",
+    "country": "TPE",
+    "total": 8.13,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Noel de la Torre",
+    "country": "CHI",
+    "total": 4.13,
+    "place": 4
+   },
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": 4.6,
+    "place": 3
+   },
+   {
+    "name": "Zukas Løining",
+    "country": "NOR",
+    "total": 7.53,
+    "place": 2
+   },
+   {
+    "name": "Liam Wilson",
+    "country": "ASA",
+    "total": 10.66,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Darshan Antequera",
+    "country": "CRC",
+    "total": 9.47,
+    "place": 1
+   },
+   {
+    "name": "Bryan Pérez",
+    "country": "ESA",
+    "total": 9.33,
+    "place": 2
+   },
+   {
+    "name": "Toby Espejon",
+    "country": "PHI",
+    "total": 7.13,
+    "place": 3
+   },
+   {
+    "name": "Aris Gabriel Voicu",
+    "country": "ROU",
+    "total": 6.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Hans Odriozola",
+    "country": "GER",
+    "total": 14.03,
+    "place": 1
+   },
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": 9.1,
+    "place": 2
+   },
+   {
+    "name": "Roberto Camblor",
+    "country": "URU",
+    "total": 8.8,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Rubén Vitoria",
+    "country": "ESP",
+    "total": 10.0,
+    "place": 1
+   },
+   {
+    "name": "Micael Lerner",
+    "country": "MEX",
+    "total": 8.53,
+    "place": 2
+   },
+   {
+    "name": "Emerson Solares",
+    "country": "GUA",
+    "total": 5.1,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Ntokozo Maphumulo",
+    "country": "RSA",
+    "total": 3.83,
+    "place": 2
+   },
+   {
+    "name": "Luke Dillon",
+    "country": "GBR",
+    "total": 8.83,
+    "place": 1
+   },
+   {
+    "name": "Sergii Kukharskyi",
+    "country": "UKR",
+    "total": 2.7,
+    "place": 4
+   },
+   {
+    "name": "Lukas McMahon",
+    "country": "FIN",
+    "total": 3.83,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Oliver Rijssenbeek",
+    "country": "NED",
+    "total": 8.47,
+    "place": 1
+   },
+   {
+    "name": "Tom Butland",
+    "country": "NZL",
+    "total": 6.9,
+    "place": 2
+   },
+   {
+    "name": "Cristian Padilla",
+    "country": "DOM",
+    "total": 6.1,
+    "place": 4
+   },
+   {
+    "name": "Rush Carter Broderick",
+    "country": "IVB",
+    "total": 6.23,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Franco Radziunas",
+    "country": "ARG",
+    "total": 10.23,
+    "place": 1
+   },
+   {
+    "name": "Reed Platenius",
+    "country": "CAN",
+    "total": 8.4,
+    "place": 2
+   },
+   {
+    "name": "Elias Smith",
+    "country": "GRE",
+    "total": 6.93,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Francisco Ordonhas",
+    "country": "POR",
+    "total": 11.0,
+    "place": 1
+   },
+   {
+    "name": "Tommy Zahalka",
+    "country": "CAN",
+    "total": 5.73,
+    "place": 2
+   },
+   {
+    "name": "Perry Siganos",
+    "country": "GRE",
+    "total": 5.5,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Alex Suarez",
+    "country": "ECU",
+    "total": 9.84,
+    "place": 1
+   },
+   {
+    "name": "Redouane Regragui",
+    "country": "MAR",
+    "total": 6.8,
+    "place": 3
+   },
+   {
+    "name": "Oscar Guzman",
+    "country": "NCA",
+    "total": 8.77,
+    "place": 2
+   },
+   {
+    "name": "Paul Krsnik",
+    "country": "AUT",
+    "total": 3.5,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Luke van Wyk",
+    "country": "RSA",
+    "total": 8.33,
+    "place": 2
+   },
+   {
+    "name": "Harry De Roth",
+    "country": "GBR",
+    "total": 5.63,
+    "place": 3
+   },
+   {
+    "name": "Gearoid McDaid",
+    "country": "IRL",
+    "total": 8.66,
+    "place": 1
+   },
+   {
+    "name": "Ivah Wilmot",
+    "country": "JAM",
+    "total": 3.47,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": 11.27,
+    "place": 1
+   },
+   {
+    "name": "Tiago Sorrentino",
+    "country": "MEX",
+    "total": 9.73,
+    "place": 2
+   },
+   {
+    "name": "Jorge Vasquez",
+    "country": "GUA",
+    "total": 6.3,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": 11.76,
+    "place": 1
+   },
+   {
+    "name": "Uriel Uziel",
+    "country": "ISR",
+    "total": 8.1,
+    "place": 2
+   },
+   {
+    "name": "Santiago Gonzalez",
+    "country": "URU",
+    "total": 7.07,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Oscar Urbina",
+    "country": "CRC",
+    "total": 8.0,
+    "place": 2
+   },
+   {
+    "name": "Daniel Monterrosa",
+    "country": "ESA",
+    "total": 8.66,
+    "place": 1
+   },
+   {
+    "name": "Lewis St. John",
+    "country": "BAR",
+    "total": 7.4,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "León de la Torre",
+    "country": "CHI",
+    "total": 6.83,
+    "place": 3
+   },
+   {
+    "name": "Elian Gelabert",
+    "country": "PUR",
+    "total": 7.17,
+    "place": 2
+   },
+   {
+    "name": "Felix Golden",
+    "country": "NOR",
+    "total": 2.87,
+    "place": 4
+   },
+   {
+    "name": "Romeo Chavez",
+    "country": "COL",
+    "total": 7.27,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Lucca Mesinas",
+    "country": "PER",
+    "total": 9.4,
+    "place": 2
+   },
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": 8.0,
+    "place": 3
+   },
+   {
+    "name": "Greyson Grant",
+    "country": "SWE",
+    "total": 9.43,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 17,
+  "surfers": [
+   {
+    "name": "Tim Elter",
+    "country": "GER",
+    "total": 12.5,
+    "place": 1
+   },
+   {
+    "name": "Nadav Attar",
+    "country": "ISR",
+    "total": 8.67,
+    "place": 2
+   },
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": 8.07,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 18,
+  "surfers": [
+   {
+    "name": "Samuel Reidy",
+    "country": "CRC",
+    "total": 9.5,
+    "place": 1
+   },
+   {
+    "name": "Amir Rafaeli",
+    "country": "ISR",
+    "total": 8.5,
+    "place": 2
+   },
+   {
+    "name": "Jacob Burke",
+    "country": "BAR",
+    "total": 7.44,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 19,
+  "surfers": [
+   {
+    "name": "Sage Katz",
+    "country": "PUR",
+    "total": 11.03,
+    "place": 1
+   },
+   {
+    "name": "Dwight Pastrana",
+    "country": "PUR",
+    "total": 7.0,
+    "place": 2
+   },
+   {
+    "name": "Sebastian Celák",
+    "country": "CZE",
+    "total": 4.8,
+    "place": 3
+   },
+   {
+    "name": "Jan Vítek",
+    "country": "CZE",
+    "total": 2.14,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 20,
+  "surfers": [
+   {
+    "name": "Alonso Correa",
+    "country": "PER",
+    "total": 8.83,
+    "place": 2
+   },
+   {
+    "name": "Carlos Perez",
+    "country": "VEN",
+    "total": 2.57,
+    "place": 3
+   },
+   {
+    "name": "Francisco Bellorin",
+    "country": "VEN",
+    "total": 10.83,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 21,
+  "surfers": [
+   {
+    "name": "Frederico Morais",
+    "country": "POR",
+    "total": 10.67,
+    "place": 1
+   },
+   {
+    "name": "Tanner Sandvig",
+    "country": "CAN",
+    "total": 7.4,
+    "place": 3
+   },
+   {
+    "name": "Khalil da Silva",
+    "country": "ITA",
+    "total": 10.5,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 22,
+  "surfers": [
+   {
+    "name": "Bruce Burgos",
+    "country": "ECU",
+    "total": 8.4,
+    "place": 2
+   },
+   {
+    "name": "Aboubakr Bouaouda",
+    "country": "MAR",
+    "total": 10.03,
+    "place": 1
+   },
+   {
+    "name": "Carlos Zuñiga",
+    "country": "NCA",
+    "total": 6.56,
+    "place": 3
+   },
+   {
+    "name": "Ronald Hastings",
+    "country": "JAM",
+    "total": 2.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 23,
+  "surfers": [
+   {
+    "name": "Maximiliano Saenz",
+    "country": "ECU",
+    "total": 9.9,
+    "place": 1
+   },
+   {
+    "name": "Teva Bouchgua",
+    "country": "MAR",
+    "total": 5.5,
+    "place": 3
+   },
+   {
+    "name": "Yeferson Lopez",
+    "country": "NCA",
+    "total": 7.83,
+    "place": 2
+   },
+   {
+    "name": "Elishama Beckford",
+    "country": "JAM",
+    "total": 5.3,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 24,
+  "surfers": [
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": 8.56,
+    "place": 3
+   },
+   {
+    "name": "Enzo Ackermann",
+    "country": "MEX",
+    "total": 9.1,
+    "place": 1
+   },
+   {
+    "name": "Leonardo Apreda",
+    "country": "ITA",
+    "total": 8.67,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 25,
+  "surfers": [
+   {
+    "name": "Conor Donegan",
+    "country": "ESP",
+    "total": 12.83,
+    "place": 1
+   },
+   {
+    "name": "Wu Shidong",
+    "country": "CHN",
+    "total": 9.6,
+    "place": 2
+   },
+   {
+    "name": "Carlos Escobar",
+    "country": "GUA",
+    "total": 6.37,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 26,
+  "surfers": [
+   {
+    "name": "Hiroto Ohhara",
+    "country": "JPN",
+    "total": 11.0,
+    "place": 2
+   },
+   {
+    "name": "Patrick Langdon-Dark",
+    "country": "GBR",
+    "total": 7.97,
+    "place": 3
+   },
+   {
+    "name": "Ivan Mynenko",
+    "country": "UKR",
+    "total": 3.73,
+    "place": 4
+   },
+   {
+    "name": "Eeli Timperi",
+    "country": "FIN",
+    "total": 11.06,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 27,
+  "surfers": [
+   {
+    "name": "Oliver Heintz",
+    "country": "NED",
+    "total": 11.47,
+    "place": 1
+   },
+   {
+    "name": "Taimana Marupo",
+    "country": "NZL",
+    "total": 7.04,
+    "place": 2
+   },
+   {
+    "name": "Luis Alfredo Cruz",
+    "country": "DOM",
+    "total": 0.0,
+    "place": 4
+   },
+   {
+    "name": "Teshawn Jones",
+    "country": "IVB",
+    "total": 4.96,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 28,
+  "surfers": [
+   {
+    "name": "Joaquin Muñoz Larreta",
+    "country": "ARG",
+    "total": 13.0,
+    "place": 1
+   },
+   {
+    "name": "Jean Carlos González",
+    "country": "PAN",
+    "total": 10.53,
+    "place": 2
+   },
+   {
+    "name": "Mason Moschopoulos",
+    "country": "GRE",
+    "total": 8.54,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 29,
+  "surfers": [
+   {
+    "name": "Jacobo Trigo",
+    "country": "ESP",
+    "total": 9.63,
+    "place": 1
+   },
+   {
+    "name": "Ma Wensong",
+    "country": "CHN",
+    "total": 8.77,
+    "place": 2
+   },
+   {
+    "name": "Ming Jang Liu",
+    "country": "TPE",
+    "total": 7.87,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 30,
+  "surfers": [
+   {
+    "name": "Roberto Araki",
+    "country": "CHI",
+    "total": 4.23,
+    "place": 3
+   },
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
+    "total": 10.84,
+    "place": 1
+   },
+   {
+    "name": "Noah Storhaug",
+    "country": "NOR",
+    "total": 9.73,
+    "place": 2
+   },
+   {
+    "name": "Jason Latham",
+    "country": "ASA",
+    "total": 4.1,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 31,
+  "surfers": [
+   {
+    "name": "Stef van Noordennen",
+    "country": "NED",
+    "total": 7.53,
+    "place": 1
+   },
+   {
+    "name": "Lewis Murphy",
+    "country": "NZL",
+    "total": 5.6,
+    "place": 3
+   },
+   {
+    "name": "Eduardo Alciso Jr.",
+    "country": "PHI",
+    "total": 6.5,
+    "place": 2
+   },
+   {
+    "name": "Benjamin Stuller",
+    "country": "SVK",
+    "total": 2.07,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B01",
+  "heat": 32,
+  "surfers": [
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": 8.53,
+    "place": 3
+   },
+   {
+    "name": "Kai Gale Grani",
+    "country": "PAN",
+    "total": 11.34,
+    "place": 1
+   },
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": 9.34,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Miguel Tudela",
+    "country": "PER",
+    "total": 11.16,
+    "place": 1
+   },
+   {
+    "name": "Zukas Løining",
+    "country": "NOR",
+    "total": 6.77,
+    "place": 4
+   },
+   {
+    "name": "Darshan Antequera",
+    "country": "CRC",
+    "total": 9.47,
+    "place": 2
+   },
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": 8.2,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Liam Wilson",
+    "country": "ASA",
+    "total": 6.44,
+    "place": 4
+   },
+   {
+    "name": "Chia Chi Yu",
+    "country": "TPE",
+    "total": 10.27,
+    "place": 3
+   },
+   {
+    "name": "Hans Odriozola",
+    "country": "GER",
+    "total": 10.57,
+    "place": 2
+   },
+   {
+    "name": "Bryan Pérez",
+    "country": "ESA",
+    "total": 10.63,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Rubén Vitoria",
+    "country": "ESP",
+    "total": 10.66,
+    "place": 1
+   },
+   {
+    "name": "Ntokozo Maphumulo",
+    "country": "RSA",
+    "total": 8.86,
+    "place": 2
+   },
+   {
+    "name": "Oliver Rijssenbeek",
+    "country": "NED",
+    "total": 7.37,
+    "place": 4
+   },
+   {
+    "name": "Reed Platenius",
+    "country": "CAN",
+    "total": 7.9,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Luke Dillon",
+    "country": "GBR",
+    "total": 8.36,
+    "place": 3
+   },
+   {
+    "name": "Micael Lerner",
+    "country": "MEX",
+    "total": 5.24,
+    "place": 4
+   },
+   {
+    "name": "Franco Radziunas",
+    "country": "ARG",
+    "total": 13.86,
+    "place": 1
+   },
+   {
+    "name": "Tom Butland",
+    "country": "NZL",
+    "total": 12.7,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Francisco Ordonhas",
+    "country": "POR",
+    "total": 11.67,
+    "place": 1
+   },
+   {
+    "name": "Oscar Guzman",
+    "country": "NCA",
+    "total": 7.33,
+    "place": 4
+   },
+   {
+    "name": "Gearoid McDaid",
+    "country": "IRL",
+    "total": 7.37,
+    "place": 3
+   },
+   {
+    "name": "Tiago Sorrentino",
+    "country": "MEX",
+    "total": 9.84,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Alex Suarez",
+    "country": "ECU",
+    "total": 8.86,
+    "place": 3
+   },
+   {
+    "name": "Tommy Zahalka",
+    "country": "CAN",
+    "total": 5.4,
+    "place": 4
+   },
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": 8.87,
+    "place": 2
+   },
+   {
+    "name": "Luke van Wyk",
+    "country": "RSA",
+    "total": 9.77,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": 4.93,
+    "place": 4
+   },
+   {
+    "name": "Oscar Urbina",
+    "country": "CRC",
+    "total": 10.3,
+    "place": 3
+   },
+   {
+    "name": "Romeo Chavez",
+    "country": "COL",
+    "total": 10.97,
+    "place": 2
+   },
+   {
+    "name": "Lucca Mesinas",
+    "country": "PER",
+    "total": 14.4,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Daniel Monterrosa",
+    "country": "ESA",
+    "total": 7.67,
+    "place": 3
+   },
+   {
+    "name": "Uriel Uziel",
+    "country": "ISR",
+    "total": 8.26,
+    "place": 2
+   },
+   {
+    "name": "Greyson Grant",
+    "country": "SWE",
+    "total": 9.83,
+    "place": 1
+   },
+   {
+    "name": "Elian Gelabert",
+    "country": "PUR",
+    "total": 3.67,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Tim Elter",
+    "country": "GER",
+    "total": 8.43,
+    "place": 2
+   },
+   {
+    "name": "Amir Rafaeli",
+    "country": "ISR",
+    "total": 5.26,
+    "place": 4
+   },
+   {
+    "name": "Sage Katz",
+    "country": "PUR",
+    "total": 6.73,
+    "place": 3
+   },
+   {
+    "name": "Alonso Correa",
+    "country": "PER",
+    "total": 11.43,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Samuel Reidy",
+    "country": "CRC",
+    "total": 10.17,
+    "place": 2
+   },
+   {
+    "name": "Nadav Attar",
+    "country": "ISR",
+    "total": 12.4,
+    "place": 1
+   },
+   {
+    "name": "Francisco Bellorin",
+    "country": "VEN",
+    "total": 8.8,
+    "place": 3
+   },
+   {
+    "name": "Dwight Pastrana",
+    "country": "PUR",
+    "total": 7.7,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Frederico Morais",
+    "country": "POR",
+    "total": 13.16,
+    "place": 1
+   },
+   {
+    "name": "Bruce Burgos",
+    "country": "ECU",
+    "total": 5.93,
+    "place": 3
+   },
+   {
+    "name": "Maximiliano Saenz",
+    "country": "ECU",
+    "total": 2.1,
+    "place": 4
+   },
+   {
+    "name": "Leonardo Apreda",
+    "country": "ITA",
+    "total": 11.07,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Aboubakr Bouaouda",
+    "country": "MAR",
+    "total": 11.66,
+    "place": 1
+   },
+   {
+    "name": "Khalil da Silva",
+    "country": "ITA",
+    "total": 10.5,
+    "place": 2
+   },
+   {
+    "name": "Enzo Ackermann",
+    "country": "MEX",
+    "total": 6.27,
+    "place": 4
+   },
+   {
+    "name": "Yeferson Lopez",
+    "country": "NCA",
+    "total": 7.57,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Conor Donegan",
+    "country": "ESP",
+    "total": 12.1,
+    "place": 1
+   },
+   {
+    "name": "Hiroto Ohhara",
+    "country": "JPN",
+    "total": 7.6,
+    "place": 3
+   },
+   {
+    "name": "Oliver Heintz",
+    "country": "NED",
+    "total": 4.47,
+    "place": 4
+   },
+   {
+    "name": "Jean Carlos González",
+    "country": "PAN",
+    "total": 11.8,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Eeli Timperi",
+    "country": "FIN",
+    "total": 12.5,
+    "place": 1
+   },
+   {
+    "name": "Wu Shidong",
+    "country": "CHN",
+    "total": 10.33,
+    "place": 2
+   },
+   {
+    "name": "Joaquin Muñoz Larreta",
+    "country": "ARG",
+    "total": 10.2,
+    "place": 3
+   },
+   {
+    "name": "Taimana Marupo",
+    "country": "NZL",
+    "total": 7.96,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Jacobo Trigo",
+    "country": "ESP",
+    "total": 12.17,
+    "place": 1
+   },
+   {
+    "name": "Noah Storhaug",
+    "country": "NOR",
+    "total": 8.37,
+    "place": 2
+   },
+   {
+    "name": "Stef van Noordennen",
+    "country": "NED",
+    "total": 5.86,
+    "place": 4
+   },
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": 8.13,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B02",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
+    "total": 10.6,
+    "place": 1
+   },
+   {
+    "name": "Ma Wensong",
+    "country": "CHN",
+    "total": 8.1,
+    "place": 3
+   },
+   {
+    "name": "Kai Gale Grani",
+    "country": "PAN",
+    "total": 9.3,
+    "place": 2
+   },
+   {
+    "name": "Eduardo Alciso Jr.",
+    "country": "PHI",
+    "total": 7.6,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Crosby Colapinto",
+    "country": "USA",
+    "total": 11.07,
+    "place": 2
+   },
+   {
+    "name": "Rio Waida",
+    "country": "INA",
+    "total": 10.1,
+    "place": 3
+   },
+   {
+    "name": "Samuel Reidy",
+    "country": "CRC",
+    "total": 5.47,
+    "place": 4
+   },
+   {
+    "name": "Tom Butland",
+    "country": "NZL",
+    "total": 12.6,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Marco Mignot",
+    "country": "FRA",
+    "total": 11.03,
+    "place": 1
+   },
+   {
+    "name": "Conor Donegan",
+    "country": "ESP",
+    "total": 9.96,
+    "place": 2
+   },
+   {
+    "name": "Nadav Attar",
+    "country": "ISR",
+    "total": 6.74,
+    "place": 3
+   },
+   {
+    "name": "Leonardo Apreda",
+    "country": "ITA",
+    "total": 6.2,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Miguel Pupo",
+    "country": "BRA",
+    "total": 7.0,
+    "place": 4
+   },
+   {
+    "name": "Lucca Mesinas",
+    "country": "PER",
+    "total": 12.17,
+    "place": 1
+   },
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": 8.7,
+    "place": 3
+   },
+   {
+    "name": "Jean Carlos González",
+    "country": "PAN",
+    "total": 11.13,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "George Pittar",
+    "country": "AUS",
+    "total": 9.76,
+    "place": 3
+   },
+   {
+    "name": "Francisco Ordonhas",
+    "country": "POR",
+    "total": 9.87,
+    "place": 2
+   },
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
+    "total": 8.86,
+    "place": 4
+   },
+   {
+    "name": "Romeo Chavez",
+    "country": "COL",
+    "total": 10.43,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Ethan Ewing",
+    "country": "AUS",
+    "total": 12.0,
+    "place": 1
+   },
+   {
+    "name": "Franco Radziunas",
+    "country": "ARG",
+    "total": 11.93,
+    "place": 2
+   },
+   {
+    "name": "Luke van Wyk",
+    "country": "RSA",
+    "total": 6.66,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Italo Ferreira",
+    "country": "BRA",
+    "total": 10.83,
+    "place": 1
+   },
+   {
+    "name": "Miguel Tudela",
+    "country": "PER",
+    "total": 7.17,
+    "place": 2
+   },
+   {
+    "name": "Eeli Timperi",
+    "country": "FIN",
+    "total": 2.5,
+    "place": 4
+   },
+   {
+    "name": "Tiago Sorrentino",
+    "country": "MEX",
+    "total": 3.6,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Yago Dora",
+    "country": "BRA",
+    "total": 10.87,
+    "place": 2
+   },
+   {
+    "name": "Jacobo Trigo",
+    "country": "ESP",
+    "total": 11.37,
+    "place": 1
+   },
+   {
+    "name": "Greyson Grant",
+    "country": "SWE",
+    "total": 9.46,
+    "place": 3
+   },
+   {
+    "name": "Wu Shidong",
+    "country": "CHN",
+    "total": 6.7,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Kanoa Igarashi",
+    "country": "JPN",
+    "total": 14.47,
+    "place": 1
+   },
+   {
+    "name": "Connor O'Leary",
+    "country": "JPN",
+    "total": 7.67,
+    "place": 3
+   },
+   {
+    "name": "Darshan Antequera",
+    "country": "CRC",
+    "total": 6.9,
+    "place": 4
+   },
+   {
+    "name": "Ntokozo Maphumulo",
+    "country": "RSA",
+    "total": 10.57,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Liam O´Brien",
+    "country": "AUS",
+    "total": 13.57,
+    "place": 1
+   },
+   {
+    "name": "Frederico Morais",
+    "country": "POR",
+    "total": 10.07,
+    "place": 2
+   },
+   {
+    "name": "Aboubakr Bouaouda",
+    "country": "MAR",
+    "total": 6.5,
+    "place": 4
+   },
+   {
+    "name": "Noah Storhaug",
+    "country": "NOR",
+    "total": 7.63,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Kauli Vaast",
+    "country": "FRA",
+    "total": 8.84,
+    "place": 2
+   },
+   {
+    "name": "Rubén Vitoria",
+    "country": "ESP",
+    "total": 8.43,
+    "place": 3
+   },
+   {
+    "name": "Bryan Pérez",
+    "country": "ESA",
+    "total": 10.86,
+    "place": 1
+   },
+   {
+    "name": "Khalil da Silva",
+    "country": "ITA",
+    "total": 6.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Griffin Colapinto",
+    "country": "USA",
+    "total": 6.57,
+    "place": 4
+   },
+   {
+    "name": "Alonso Correa",
+    "country": "PER",
+    "total": 10.1,
+    "place": 2
+   },
+   {
+    "name": "Hans Odriozola",
+    "country": "GER",
+    "total": 12.1,
+    "place": 1
+   },
+   {
+    "name": "Kai Gale Grani",
+    "country": "PAN",
+    "total": 7.87,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B03",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Cole Houshmand",
+    "country": "USA",
+    "total": 8.24,
+    "place": 4
+   },
+   {
+    "name": "Leonardo Fioravanti",
+    "country": "ITA",
+    "total": 13.33,
+    "place": 1
+   },
+   {
+    "name": "Tim Elter",
+    "country": "GER",
+    "total": 9.1,
+    "place": 2
+   },
+   {
+    "name": "Uriel Uziel",
+    "country": "ISR",
+    "total": 8.93,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Tom Butland",
+    "country": "NZL",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Conor Donegan",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Lucca Mesinas",
+    "country": "PER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Francisco Ordonhas",
+    "country": "POR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Marco Mignot",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Crosby Colapinto",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Romeo Chavez",
+    "country": "COL",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Jean Carlos González",
+    "country": "PAN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Ethan Ewing",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Miguel Tudela",
+    "country": "PER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Jacobo Trigo",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Ntokozo Maphumulo",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Italo Ferreira",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Franco Radziunas",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kanoa Igarashi",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Yago Dora",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Liam O´Brien",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kauli Vaast",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Hans Odriozola",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Tim Elter",
+    "country": "GER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B04",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Bryan Pérez",
+    "country": "ESA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Frederico Morais",
+    "country": "POR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Leonardo Fioravanti",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Alonso Correa",
+    "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Jiang Shulou",
+    "country": "CHN",
+    "total": 7.57,
+    "place": 2
+   },
+   {
+    "name": "Noel de la Torre",
+    "country": "CHI",
+    "total": 10.1,
+    "place": 1
+   },
+   {
+    "name": "Toby Espejon",
+    "country": "PHI",
+    "total": 6.4,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": 9.4,
+    "place": 1
+   },
+   {
+    "name": "Roberto Camblor",
+    "country": "URU",
+    "total": 6.06,
+    "place": 3
+   },
+   {
+    "name": "Aris Gabriel Voicu",
+    "country": "ROU",
+    "total": 6.27,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Emerson Solares",
+    "country": "GUA",
+    "total": 7.06,
+    "place": 1
+   },
+   {
+    "name": "Sergii Kukharskyi",
+    "country": "UKR",
+    "total": 2.96,
+    "place": 3
+   },
+   {
+    "name": "Rush Carter Broderick",
+    "country": "IVB",
+    "total": 4.56,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Lukas McMahon",
+    "country": "FIN",
+    "total": 10.06,
+    "place": 1
+   },
+   {
+    "name": "Elias Smith",
+    "country": "GRE",
+    "total": 5.87,
+    "place": 3
+   },
+   {
+    "name": "Cristian Padilla",
+    "country": "DOM",
+    "total": 8.3,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Perry Siganos",
+    "country": "GRE",
+    "total": 8.64,
+    "place": 2
+   },
+   {
+    "name": "Paul Krsnik",
+    "country": "AUT",
+    "total": 3.63,
+    "place": 3
+   },
+   {
+    "name": "Harry De Roth",
+    "country": "GBR",
+    "total": 11.14,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Redouane Regragui",
+    "country": "MAR",
+    "total": 9.77,
+    "place": 1
+   },
+   {
+    "name": "Jorge Vasquez",
+    "country": "GUA",
+    "total": 5.5,
+    "place": 2
+   },
+   {
+    "name": "Ivah Wilmot",
+    "country": "JAM",
+    "total": 4.94,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Santiago Gonzalez",
+    "country": "URU",
+    "total": 7.07,
+    "place": 1
+   },
+   {
+    "name": "León de la Torre",
+    "country": "CHI",
+    "total": 6.83,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Lewis St. John",
+    "country": "BAR",
+    "total": 5.53,
+    "place": 2
+   },
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": 11.4,
+    "place": 1
+   },
+   {
+    "name": "Felix Golden",
+    "country": "NOR",
+    "total": 5.3,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": 8.07,
+    "place": 1
+   },
+   {
+    "name": "Sebastian Celák",
+    "country": "CZE",
+    "total": 4.8,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Jacob Burke",
+    "country": "BAR",
+    "total": 9.56,
+    "place": 1
+   },
+   {
+    "name": "Carlos Perez",
+    "country": "VEN",
+    "total": 8.23,
+    "place": 2
+   },
+   {
+    "name": "Jan Vítek",
+    "country": "CZE",
+    "total": 2.57,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Tanner Sandvig",
+    "country": "CAN",
+    "total": 10.1,
+    "place": 2
+   },
+   {
+    "name": "Ronald Hastings",
+    "country": "JAM",
+    "total": 5.17,
+    "place": 3
+   },
+   {
+    "name": "Teva Bouchgua",
+    "country": "MAR",
+    "total": 10.43,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Carlos Zuñiga",
+    "country": "NCA",
+    "total": 8.23,
+    "place": 2
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": 10.43,
+    "place": 1
+   },
+   {
+    "name": "Elishama Beckford",
+    "country": "JAM",
+    "total": 7.73,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Carlos Escobar",
+    "country": "GUA",
+    "total": 9.27,
+    "place": 1
+   },
+   {
+    "name": "Ivan Mynenko",
+    "country": "UKR",
+    "total": 4.9,
+    "place": 3
+   },
+   {
+    "name": "Teshawn Jones",
+    "country": "IVB",
+    "total": 5.17,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Patrick Langdon-Dark",
+    "country": "GBR",
+    "total": 10.5,
+    "place": 1
+   },
+   {
+    "name": "Mason Moschopoulos",
+    "country": "GRE",
+    "total": 8.67,
+    "place": 2
+   },
+   {
+    "name": "Luis Alfredo Cruz",
+    "country": "DOM",
+    "total": 0.0,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Ming Jang Liu",
+    "country": "TPE",
+    "total": 7.64,
+    "place": 2
+   },
+   {
+    "name": "Jason Latham",
+    "country": "ASA",
+    "total": 4.9,
+    "place": 3
+   },
+   {
+    "name": "Lewis Murphy",
+    "country": "NZL",
+    "total": 8.56,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B08",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Roberto Araki",
+    "country": "CHI",
+    "total": 11.2,
+    "place": 1
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": 10.4,
+    "place": 2
+   },
+   {
+    "name": "Benjamin Stuller",
+    "country": "SVK",
+    "total": 3.87,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": 9.63,
+    "place": 2
+   },
+   {
+    "name": "Liam Wilson",
+    "country": "ASA",
+    "total": 7.8,
+    "place": 3
+   },
+   {
+    "name": "Noel de la Torre",
+    "country": "CHI",
+    "total": 11.23,
+    "place": 1
+   },
+   {
+    "name": "Aris Gabriel Voicu",
+    "country": "ROU",
+    "total": 4.73,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Chia Chi Yu",
+    "country": "TPE",
+    "total": 6.03,
+    "place": 4
+   },
+   {
+    "name": "Zukas Løining",
+    "country": "NOR",
+    "total": 6.17,
+    "place": 3
+   },
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": 13.3,
+    "place": 1
+   },
+   {
+    "name": "Jiang Shulou",
+    "country": "CHN",
+    "total": 7.7,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Reed Platenius",
+    "country": "CAN",
+    "total": 7.93,
+    "place": 1
+   },
+   {
+    "name": "Micael Lerner",
+    "country": "MEX",
+    "total": 7.23,
+    "place": 2
+   },
+   {
+    "name": "Emerson Solares",
+    "country": "GUA",
+    "total": 3.8,
+    "place": 4
+   },
+   {
+    "name": "Cristian Padilla",
+    "country": "DOM",
+    "total": 5.86,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Luke Dillon",
+    "country": "GBR",
+    "total": 7.67,
+    "place": 3
+   },
+   {
+    "name": "Oliver Rijssenbeek",
+    "country": "NED",
+    "total": 9.73,
+    "place": 1
+   },
+   {
+    "name": "Lukas McMahon",
+    "country": "FIN",
+    "total": 9.64,
+    "place": 2
+   },
+   {
+    "name": "Rush Carter Broderick",
+    "country": "IVB",
+    "total": 4.1,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Gearoid McDaid",
+    "country": "IRL",
+    "total": 8.4,
+    "place": 2
+   },
+   {
+    "name": "Tommy Zahalka",
+    "country": "CAN",
+    "total": 7.97,
+    "place": 3
+   },
+   {
+    "name": "Harry De Roth",
+    "country": "GBR",
+    "total": 13.0,
+    "place": 1
+   },
+   {
+    "name": "Jorge Vasquez",
+    "country": "GUA",
+    "total": 4.9,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Alex Suarez",
+    "country": "ECU",
+    "total": 9.77,
+    "place": 1
+   },
+   {
+    "name": "Oscar Guzman",
+    "country": "NCA",
+    "total": 9.67,
+    "place": 2
+   },
+   {
+    "name": "Redouane Regragui",
+    "country": "MAR",
+    "total": 8.37,
+    "place": 3
+   },
+   {
+    "name": "Perry Siganos",
+    "country": "GRE",
+    "total": 6.04,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Oscar Urbina",
+    "country": "CRC",
+    "total": 10.67,
+    "place": 1
+   },
+   {
+    "name": "Elian Gelabert",
+    "country": "PUR",
+    "total": 9.5,
+    "place": 2
+   },
+   {
+    "name": "Santiago Gonzalez",
+    "country": "URU",
+    "total": 7.07,
+    "place": 4
+   },
+   {
+    "name": "Lewis St. John",
+    "country": "BAR",
+    "total": 7.96,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Daniel Monterrosa",
+    "country": "ESA",
+    "total": 7.0,
+    "place": 4
+   },
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": 13.17,
+    "place": 1
+   },
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": 7.86,
+    "place": 2
+   },
+   {
+    "name": "León de la Torre",
+    "country": "CHI",
+    "total": 7.43,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Sage Katz",
+    "country": "PUR",
+    "total": 6.1,
+    "place": 4
+   },
+   {
+    "name": "Dwight Pastrana",
+    "country": "PUR",
+    "total": 7.37,
+    "place": 3
+   },
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": 8.67,
+    "place": 1
+   },
+   {
+    "name": "Carlos Perez",
+    "country": "VEN",
+    "total": 8.33,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Francisco Bellorin",
+    "country": "VEN",
+    "total": 8.36,
+    "place": 2
+   },
+   {
+    "name": "Amir Rafaeli",
+    "country": "ISR",
+    "total": 6.37,
+    "place": 3
+   },
+   {
+    "name": "Jacob Burke",
+    "country": "BAR",
+    "total": 10.93,
+    "place": 1
+   },
+   {
+    "name": "Sebastian Celák",
+    "country": "CZE",
+    "total": 3.94,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Bruce Burgos",
+    "country": "ECU",
+    "total": 4.6,
+    "place": 3
+   },
+   {
+    "name": "Enzo Ackermann",
+    "country": "MEX",
+    "total": 7.6,
+    "place": 2
+   },
+   {
+    "name": "Teva Bouchgua",
+    "country": "MAR",
+    "total": 12.63,
+    "place": 1
+   },
+   {
+    "name": "Carlos Zuñiga",
+    "country": "NCA",
+    "total": 3.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Yeferson Lopez",
+    "country": "NCA",
+    "total": 5.5,
+    "place": 4
+   },
+   {
+    "name": "Maximiliano Saenz",
+    "country": "ECU",
+    "total": 8.97,
+    "place": 2
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": 10.26,
+    "place": 1
+   },
+   {
+    "name": "Tanner Sandvig",
+    "country": "CAN",
+    "total": 6.03,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Hiroto Ohhara",
+    "country": "JPN",
+    "total": 8.6,
+    "place": 3
+   },
+   {
+    "name": "Taimana Marupo",
+    "country": "NZL",
+    "total": 9.67,
+    "place": 1
+   },
+   {
+    "name": "Carlos Escobar",
+    "country": "GUA",
+    "total": 6.9,
+    "place": 4
+   },
+   {
+    "name": "Mason Moschopoulos",
+    "country": "GRE",
+    "total": 9.33,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Joaquin Muñoz Larreta",
+    "country": "ARG",
+    "total": 10.06,
+    "place": 2
+   },
+   {
+    "name": "Oliver Heintz",
+    "country": "NED",
+    "total": 8.37,
+    "place": 3
+   },
+   {
+    "name": "Patrick Langdon-Dark",
+    "country": "GBR",
+    "total": 10.4,
+    "place": 1
+   },
+   {
+    "name": "Teshawn Jones",
+    "country": "IVB",
+    "total": 3.5,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": 9.26,
+    "place": 2
+   },
+   {
+    "name": "Eduardo Alciso Jr.",
+    "country": "PHI",
+    "total": 8.96,
+    "place": 3
+   },
+   {
+    "name": "Lewis Murphy",
+    "country": "NZL",
+    "total": 8.94,
+    "place": 4
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": 12.5,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B09",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Ma Wensong",
+    "country": "CHN",
+    "total": 8.0,
+    "place": 4
+   },
+   {
+    "name": "Stef van Noordennen",
+    "country": "NED",
+    "total": 9.46,
+    "place": 1
+   },
+   {
+    "name": "Roberto Araki",
+    "country": "CHI",
+    "total": 8.43,
+    "place": 2
+   },
+   {
+    "name": "Ming Jang Liu",
+    "country": "TPE",
+    "total": 8.1,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Noel de la Torre",
+    "country": "CHI",
+    "total": 11.43,
+    "place": 1
+   },
+   {
+    "name": "Jiang Shulou",
+    "country": "CHN",
+    "total": 9.2,
+    "place": 2
+   },
+   {
+    "name": "Reed Platenius",
+    "country": "CAN",
+    "total": 7.13,
+    "place": 4
+   },
+   {
+    "name": "Lukas McMahon",
+    "country": "FIN",
+    "total": 8.03,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": 9.47,
+    "place": 1
+   },
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": 8.17,
+    "place": 2
+   },
+   {
+    "name": "Oliver Rijssenbeek",
+    "country": "NED",
+    "total": 5.57,
+    "place": 3
+   },
+   {
+    "name": "Micael Lerner",
+    "country": "MEX",
+    "total": 3.73,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Harry De Roth",
+    "country": "GBR",
+    "total": 8.4,
+    "place": 4
+   },
+   {
+    "name": "Oscar Guzman",
+    "country": "NCA",
+    "total": 9.73,
+    "place": 2
+   },
+   {
+    "name": "Oscar Urbina",
+    "country": "CRC",
+    "total": 9.23,
+    "place": 3
+   },
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": 10.43,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Alex Suarez",
+    "country": "ECU",
+    "total": 9.66,
+    "place": 2
+   },
+   {
+    "name": "Gearoid McDaid",
+    "country": "IRL",
+    "total": 9.63,
+    "place": 3
+   },
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": 12.5,
+    "place": 1
+   },
+   {
+    "name": "Elian Gelabert",
+    "country": "PUR",
+    "total": 5.94,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": 14.5,
+    "place": 1
+   },
+   {
+    "name": "Francisco Bellorin",
+    "country": "VEN",
+    "total": 10.4,
+    "place": 2
+   },
+   {
+    "name": "Teva Bouchgua",
+    "country": "MAR",
+    "total": 10.3,
+    "place": 3
+   },
+   {
+    "name": "Maximiliano Saenz",
+    "country": "ECU",
+    "total": 9.7,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Jacob Burke",
+    "country": "BAR",
+    "total": 9.6,
+    "place": 2
+   },
+   {
+    "name": "Carlos Perez",
+    "country": "VEN",
+    "total": 4.0,
+    "place": 4
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": 11.67,
+    "place": 1
+   },
+   {
+    "name": "Enzo Ackermann",
+    "country": "MEX",
+    "total": 7.27,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Taimana Marupo",
+    "country": "NZL",
+    "total": 8.83,
+    "place": 3
+   },
+   {
+    "name": "Joaquin Muñoz Larreta",
+    "country": "ARG",
+    "total": 9.24,
+    "place": 1
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": 9.06,
+    "place": 2
+   },
+   {
+    "name": "Roberto Araki",
+    "country": "CHI",
+    "total": 8.6,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B10",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Patrick Langdon-Dark",
+    "country": "GBR",
+    "total": 9.0,
+    "place": 3
+   },
+   {
+    "name": "Mason Moschopoulos",
+    "country": "GRE",
+    "total": 7.57,
+    "place": 4
+   },
+   {
+    "name": "Stef van Noordennen",
+    "country": "NED",
+    "total": 9.9,
+    "place": 2
+   },
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": 12.0,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Greyson Grant",
+    "country": "SWE",
+    "total": 8.5,
+    "place": 4
+   },
+   {
+    "name": "Griffin Colapinto",
+    "country": "USA",
+    "total": 13.83,
+    "place": 1
+   },
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": 11.0,
+    "place": 2
+   },
+   {
+    "name": "Jacob Burke",
+    "country": "BAR",
+    "total": 9.5,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Connor O'Leary",
+    "country": "JPN",
+    "total": 11.27,
+    "place": 2
+   },
+   {
+    "name": "Wu Shidong",
+    "country": "CHN",
+    "total": 8.36,
+    "place": 3
+   },
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": 11.93,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Uriel Uziel",
+    "country": "ISR",
+    "total": 12.83,
+    "place": 1
+   },
+   {
+    "name": "Darshan Antequera",
+    "country": "CRC",
+    "total": 9.33,
+    "place": 3
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": 10.04,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Rubén Vitoria",
+    "country": "ESP",
+    "total": 8.4,
+    "place": 2
+   },
+   {
+    "name": "Eeli Timperi",
+    "country": "FIN",
+    "total": 6.5,
+    "place": 3
+   },
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": 11.0,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "George Pittar",
+    "country": "AUS",
+    "total": 15.34,
+    "place": 1
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": 11.5,
+    "place": 2
+   },
+   {
+    "name": "Joaquin Muñoz Larreta",
+    "country": "ARG",
+    "total": 9.67,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Nadav Attar",
+    "country": "ISR",
+    "total": 7.5,
+    "place": 3
+   },
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
+    "total": 10.93,
+    "place": 1
+   },
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": 8.1,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Rio Waida",
+    "country": "INA",
+    "total": 14.33,
+    "place": 1
+   },
+   {
+    "name": "Aboubakr Bouaouda",
+    "country": "MAR",
+    "total": 5.6,
+    "place": 3
+   },
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": 9.66,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Noah Storhaug",
+    "country": "NOR",
+    "total": null,
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "name": "Miguel Pupo",
+    "country": "BRA",
+    "total": null,
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "name": "Jiang Shulou",
+    "country": "CHN",
+    "total": null,
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "name": "Francisco Bellorin",
+    "country": "VEN",
+    "total": null,
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Khalil da Silva",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Noel de la Torre",
+    "country": "CHI",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Luke van Wyk",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Leonardo Apreda",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "I Made Pajar Ariyana",
+    "country": "INA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Kai Gale Grani",
+    "country": "PAN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Samuel Reidy",
+    "country": "CRC",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Stef van Noordennen",
+    "country": "NED",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B11",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Tiago Sorrentino",
+    "country": "MEX",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Cole Houshmand",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Alex Suarez",
+    "country": "ECU",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Oscar Guzman",
+    "country": "NCA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Griffin Colapinto",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Connor O'Leary",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Uriel Uziel",
+    "country": "ISR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Rubén Vitoria",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Jose Joaquin Lopez",
+    "country": "VEN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Teo Gale Grani",
+    "country": "PAN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "George Pittar",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Rio Waida",
+    "country": "INA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B12",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Martin Ottado",
+    "country": "URU",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Daniella Rosas",
+    "country": "PER",
+    "total": 14.07,
+    "place": 1
+   },
+   {
+    "name": "Ana Llyllia Gonzalez",
+    "country": "MEX",
+    "total": 2.0,
+    "place": 3
+   },
+   {
+    "name": "Silvana Martinez",
+    "country": "VEN",
+    "total": 5.24,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": 4.93,
+    "place": 2
+   },
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": 7.4,
+    "place": 1
+   },
+   {
+    "name": "Santa Vevere",
+    "country": "LAT",
+    "total": 1.5,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Leilani McGonagle",
+    "country": "CRC",
+    "total": 10.77,
+    "place": 1
+   },
+   {
+    "name": "Ranya Squalli",
+    "country": "MAR",
+    "total": 7.03,
+    "place": 2
+   },
+   {
+    "name": "Shelamae Arjona",
+    "country": "PHI",
+    "total": 5.97,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Vera Jarisz",
+    "country": "ARG",
+    "total": 10.77,
+    "place": 1
+   },
+   {
+    "name": "Alma Aviram",
+    "country": "ISR",
+    "total": 1.0,
+    "place": 3
+   },
+   {
+    "name": "Alexandra Kolla",
+    "country": "GRE",
+    "total": 1.57,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Janire González-Etxabarri",
+    "country": "ESP",
+    "total": 14.0,
+    "place": 1
+   },
+   {
+    "name": "Snow Parisi",
+    "country": "CAN",
+    "total": 3.9,
+    "place": 3
+   },
+   {
+    "name": "Yun Jung Chung",
+    "country": "TPE",
+    "total": 4.56,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Wendy Velasquez",
+    "country": "ECU",
+    "total": 6.7,
+    "place": 1
+   },
+   {
+    "name": "Mia Calderón",
+    "country": "PUR",
+    "total": 4.74,
+    "place": 2
+   },
+   {
+    "name": "Anna Pixner",
+    "country": "AUT",
+    "total": 0.83,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Mirna Boelsma",
+    "country": "NED",
+    "total": 7.44,
+    "place": 2
+   },
+   {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": 12.33,
+    "place": 1
+   },
+   {
+    "name": "Emmy Nøklebye",
+    "country": "NOR",
+    "total": 4.93,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": 7.0,
+    "place": 2
+   },
+   {
+    "name": "Enilda Alonso",
+    "country": "PAN",
+    "total": 5.77,
+    "place": 3
+   },
+   {
+    "name": "Chiara Cuppone",
+    "country": "ITA",
+    "total": 8.5,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
+    "total": 10.67,
+    "place": 1
+   },
+   {
+    "name": "Kely Gasparovic",
+    "country": "PAN",
+    "total": 7.0,
+    "place": 2
+   },
+   {
+    "name": "Anaí Porras",
+    "country": "GUA",
+    "total": 1.6,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Lune van Dijk",
+    "country": "NED",
+    "total": 3.5,
+    "place": 2
+   },
+   {
+    "name": "Hanasuri Jabrik",
+    "country": "INA",
+    "total": 10.33,
+    "place": 1
+   },
+   {
+    "name": "Ine Haugen",
+    "country": "NOR",
+    "total": 3.43,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
+    "total": 4.73,
+    "place": 2
+   },
+   {
+    "name": "Faviola Alcalá",
+    "country": "PUR",
+    "total": 9.17,
+    "place": 1
+   },
+   {
+    "name": "Laura Bell",
+    "country": "AUT",
+    "total": 0.4,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Johanne Defay",
+    "country": "FRA",
+    "total": 11.33,
+    "place": 1
+   },
+   {
+    "name": "Bethany Zelasko",
+    "country": "CAN",
+    "total": 9.23,
+    "place": 2
+   },
+   {
+    "name": "En Rou Wang",
+    "country": "TPE",
+    "total": 3.43,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Victoria Muñoz Larreta",
+    "country": "ARG",
+    "total": 12.83,
+    "place": 1
+   },
+   {
+    "name": "Grace Gundry",
+    "country": "NZL",
+    "total": 5.6,
+    "place": 2
+   },
+   {
+    "name": "Eirini Tsarpali",
+    "country": "GRE",
+    "total": 0.13,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Nina Smiciklas",
+    "country": "GER",
+    "total": 3.0,
+    "place": null
+   },
+   {
+    "name": "Myriam Benzarti",
+    "country": "MAR",
+    "total": 1.0,
+    "place": null
+   },
+   {
+    "name": "Nilbie Blancada",
+    "country": "PHI",
+    "total": 2.0,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Kana Nakashio",
+    "country": "JPN",
+    "total": 11.0,
+    "place": 1
+   },
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
+    "total": 8.67,
+    "place": 2
+   },
+   {
+    "name": "Katrina Kruze",
+    "country": "LAT",
+    "total": 3.27,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Sol Aguirre",
+    "country": "PER",
+    "total": 12.77,
+    "place": 1
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": 8.97,
+    "place": 3
+   },
+   {
+    "name": "Rosanny Alvarez",
+    "country": "VEN",
+    "total": 9.3,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 17,
+  "surfers": [
+   {
+    "name": "Janina Zeitler",
+    "country": "GER",
+    "total": 9.9,
+    "place": 1
+   },
+   {
+    "name": "Kyra Wallis",
+    "country": "NZL",
+    "total": 7.0,
+    "place": 2
+   },
+   {
+    "name": "Nathania Nakos",
+    "country": "GRE",
+    "total": 2.5,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 18,
+  "surfers": [
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": 6.14,
+    "place": 2
+   },
+   {
+    "name": "Indi-Lee Ruddell",
+    "country": "NZL",
+    "total": 3.73,
+    "place": 3
+   },
+   {
+    "name": "Chelsea Tuach",
+    "country": "BAR",
+    "total": 9.4,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 19,
+  "surfers": [
+   {
+    "name": "Anon Matsuoka",
+    "country": "JPN",
+    "total": 11.0,
+    "place": 1
+   },
+   {
+    "name": "Anri Matsuno",
+    "country": "JPN",
+    "total": 10.5,
+    "place": 2
+   },
+   {
+    "name": "Maya Karl",
+    "country": "UZB",
+    "total": 5.1,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 20,
+  "surfers": [
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": 14.0,
+    "place": 1
+   },
+   {
+    "name": "Jin Shuhan",
+    "country": "CHN",
+    "total": 10.2,
+    "place": 2
+   },
+   {
+    "name": "Wang Yitian",
+    "country": "CHN",
+    "total": 4.83,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 21,
+  "surfers": [
+   {
+    "name": "Naia Monte",
+    "country": "FRA",
+    "total": 11.33,
+    "place": 1
+   },
+   {
+    "name": "Belen Elizondo",
+    "country": "PAN",
+    "total": 4.5,
+    "place": 2
+   },
+   {
+    "name": "Darlyn Ramirez",
+    "country": "GUA",
+    "total": 0.8,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 22,
+  "surfers": [
+   {
+    "name": "Puck Dekkers",
+    "country": "NED",
+    "total": 2.84,
+    "place": 3
+   },
+   {
+    "name": "Kya Jo Heuer",
+    "country": "INA",
+    "total": 8.43,
+    "place": 1
+   },
+   {
+    "name": "Helle Løvseth",
+    "country": "NOR",
+    "total": 4.67,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 23,
+  "surfers": [
+   {
+    "name": "Dominic Barona",
+    "country": "ECU",
+    "total": 3.27,
+    "place": 2
+   },
+   {
+    "name": "Jasmine Michelle Studer",
+    "country": "INA",
+    "total": 7.83,
+    "place": 1
+   },
+   {
+    "name": "Zoe-Anais Bain",
+    "country": "JAM",
+    "total": 0.0,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 24,
+  "surfers": [
+   {
+    "name": "Aelan Vaast",
+    "country": "FRA",
+    "total": 10.53,
+    "place": 1
+   },
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": 10.1,
+    "place": 2
+   },
+   {
+    "name": "Tiziana Billy",
+    "country": "GUA",
+    "total": 3.87,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 25,
+  "surfers": [
+   {
+    "name": "Ariane Ochoa",
+    "country": "ESP",
+    "total": 12.0,
+    "place": 1
+   },
+   {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": 2.43,
+    "place": 3
+   },
+   {
+    "name": "Wan Yu Chen",
+    "country": "TPE",
+    "total": 4.37,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 26,
+  "surfers": [
+   {
+    "name": "Jessie van Niekerk",
+    "country": "RSA",
+    "total": 7.83,
+    "place": 2
+   },
+   {
+    "name": "Havanna Cabrero",
+    "country": "PUR",
+    "total": 8.33,
+    "place": 1
+   },
+   {
+    "name": "Nicole Brait",
+    "country": "POL",
+    "total": 0.47,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 27,
+  "surfers": [
+   {
+    "name": "Mikela Castro",
+    "country": "CRC",
+    "total": 4.84,
+    "place": 3
+   },
+   {
+    "name": "Belle Betteridge",
+    "country": "GBR",
+    "total": 8.67,
+    "place": 2
+   },
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
+    "total": 11.5,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 28,
+  "surfers": [
+   {
+    "name": "Maria Salgado",
+    "country": "POR",
+    "total": 9.4,
+    "place": 1
+   },
+   {
+    "name": "Aviv Shuval",
+    "country": "ISR",
+    "total": 6.46,
+    "place": 3
+   },
+   {
+    "name": "Diana Giorgi",
+    "country": "ITA",
+    "total": 7.0,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 29,
+  "surfers": [
+   {
+    "name": "Catalina Zariquiey",
+    "country": "PER",
+    "total": 15.77,
+    "place": 1
+   },
+   {
+    "name": "Maya Mateja",
+    "country": "MEX",
+    "total": 6.36,
+    "place": 2
+   },
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": 3.8,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 30,
+  "surfers": [
+   {
+    "name": "Louise Lepront",
+    "country": "RSA",
+    "total": 10.83,
+    "place": 1
+   },
+   {
+    "name": "Paloma Santos",
+    "country": "CHI",
+    "total": 6.34,
+    "place": 2
+   },
+   {
+    "name": "Anna Mockova",
+    "country": "SVK",
+    "total": 3.23,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 31,
+  "surfers": [
+   {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": 9.3,
+    "place": 1
+   },
+   {
+    "name": "Raya Campbell",
+    "country": "GBR",
+    "total": 5.33,
+    "place": 2
+   },
+   {
+    "name": "Eva Mota",
+    "country": "DOM",
+    "total": 1.3,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B01",
+  "heat": 32,
+  "surfers": [
+   {
+    "name": "Lucia Indurain",
+    "country": "ARG",
+    "total": 5.17,
+    "place": 1
+   },
+   {
+    "name": "Noya Slater Cohen",
+    "country": "ISR",
+    "total": 3.0,
+    "place": 2
+   },
+   {
+    "name": "Victoria Backhaus",
+    "country": "ITA",
+    "total": 0.0,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Daniella Rosas",
+    "country": "PER",
+    "total": 12.93,
+    "place": 1
+   },
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": 8.14,
+    "place": 3
+   },
+   {
+    "name": "Leilani McGonagle",
+    "country": "CRC",
+    "total": 10.4,
+    "place": 2
+   },
+   {
+    "name": "Alexandra Kolla",
+    "country": "GRE",
+    "total": 2.03,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": 8.4,
+    "place": 1
+   },
+   {
+    "name": "Silvana Martinez",
+    "country": "VEN",
+    "total": 4.57,
+    "place": 4
+   },
+   {
+    "name": "Vera Jarisz",
+    "country": "ARG",
+    "total": 5.93,
+    "place": 2
+   },
+   {
+    "name": "Ranya Squalli",
+    "country": "MAR",
+    "total": 5.1,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Janire González-Etxabarri",
+    "country": "ESP",
+    "total": 9.77,
+    "place": 1
+   },
+   {
+    "name": "Mia Calderón",
+    "country": "PUR",
+    "total": 9.5,
+    "place": 2
+   },
+   {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": 5.63,
+    "place": 4
+   },
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": 8.03,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Wendy Velasquez",
+    "country": "ECU",
+    "total": 3.43,
+    "place": 4
+   },
+   {
+    "name": "Yun Jung Chung",
+    "country": "TPE",
+    "total": 5.23,
+    "place": 3
+   },
+   {
+    "name": "Chiara Cuppone",
+    "country": "ITA",
+    "total": 6.86,
+    "place": 1
+   },
+   {
+    "name": "Mirna Boelsma",
+    "country": "NED",
+    "total": 5.46,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
+    "total": 11.0,
+    "place": 1
+   },
+   {
+    "name": "Lune van Dijk",
+    "country": "NED",
+    "total": 4.2,
+    "place": 4
+   },
+   {
+    "name": "Faviola Alcalá",
+    "country": "PUR",
+    "total": 7.27,
+    "place": 3
+   },
+   {
+    "name": "Bethany Zelasko",
+    "country": "CAN",
+    "total": 8.87,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Hanasuri Jabrik",
+    "country": "INA",
+    "total": 6.7,
+    "place": 3
+   },
+   {
+    "name": "Kely Gasparovic",
+    "country": "PAN",
+    "total": 5.07,
+    "place": 4
+   },
+   {
+    "name": "Johanne Defay",
+    "country": "FRA",
+    "total": 13.66,
+    "place": 1
+   },
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
+    "total": 9.6,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Victoria Muñoz Larreta",
+    "country": "ARG",
+    "total": 8.44,
+    "place": 3
+   },
+   {
+    "name": "Nilbie Blancada",
+    "country": "PHI",
+    "total": 8.57,
+    "place": 2
+   },
+   {
+    "name": "Kana Nakashio",
+    "country": "JPN",
+    "total": 12.0,
+    "place": 1
+   },
+   {
+    "name": "Rosanny Alvarez",
+    "country": "VEN",
+    "total": 6.1,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Myriam Benzarti",
+    "country": "MAR",
+    "total": 2.57,
+    "place": 4
+   },
+   {
+    "name": "Grace Gundry",
+    "country": "NZL",
+    "total": 3.43,
+    "place": 3
+   },
+   {
+    "name": "Sol Aguirre",
+    "country": "PER",
+    "total": 8.9,
+    "place": 1
+   },
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
+    "total": 7.7,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Janina Zeitler",
+    "country": "GER",
+    "total": 6.4,
+    "place": 4
+   },
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": 6.43,
+    "place": 3
+   },
+   {
+    "name": "Anon Matsuoka",
+    "country": "JPN",
+    "total": 7.9,
+    "place": 1
+   },
+   {
+    "name": "Jin Shuhan",
+    "country": "CHN",
+    "total": 7.0,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Chelsea Tuach",
+    "country": "BAR",
+    "total": 7.5,
+    "place": 2
+   },
+   {
+    "name": "Kyra Wallis",
+    "country": "NZL",
+    "total": 5.5,
+    "place": 4
+   },
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": 13.07,
+    "place": 1
+   },
+   {
+    "name": "Anri Matsuno",
+    "country": "JPN",
+    "total": 5.77,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Naia Monte",
+    "country": "FRA",
+    "total": 8.96,
+    "place": 1
+   },
+   {
+    "name": "Helle Løvseth",
+    "country": "NOR",
+    "total": 2.53,
+    "place": 4
+   },
+   {
+    "name": "Jasmine Michelle Studer",
+    "country": "INA",
+    "total": 6.33,
+    "place": 2
+   },
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": 4.0,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Kya Jo Heuer",
+    "country": "INA",
+    "total": 6.63,
+    "place": 3
+   },
+   {
+    "name": "Belen Elizondo",
+    "country": "PAN",
+    "total": 3.83,
+    "place": 4
+   },
+   {
+    "name": "Aelan Vaast",
+    "country": "FRA",
+    "total": 7.13,
+    "place": 2
+   },
+   {
+    "name": "Dominic Barona",
+    "country": "ECU",
+    "total": 8.5,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Ariane Ochoa",
+    "country": "ESP",
+    "total": 8.3,
+    "place": 1
+   },
+   {
+    "name": "Jessie van Niekerk",
+    "country": "RSA",
+    "total": 6.2,
+    "place": 4
+   },
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
+    "total": 7.7,
+    "place": 3
+   },
+   {
+    "name": "Diana Giorgi",
+    "country": "ITA",
+    "total": 8.17,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Havanna Cabrero",
+    "country": "PUR",
+    "total": 7.7,
+    "place": 2
+   },
+   {
+    "name": "Wan Yu Chen",
+    "country": "TPE",
+    "total": 2.5,
+    "place": 4
+   },
+   {
+    "name": "Maria Salgado",
+    "country": "POR",
+    "total": 10.17,
+    "place": 1
+   },
+   {
+    "name": "Belle Betteridge",
+    "country": "GBR",
+    "total": 5.43,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Catalina Zariquiey",
+    "country": "PER",
+    "total": 12.4,
+    "place": 1
+   },
+   {
+    "name": "Paloma Santos",
+    "country": "CHI",
+    "total": 5.37,
+    "place": 3
+   },
+   {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": 9.43,
+    "place": 2
+   },
+   {
+    "name": "Noya Slater Cohen",
+    "country": "ISR",
+    "total": 3.73,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B02",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Louise Lepront",
+    "country": "RSA",
+    "total": 8.83,
+    "place": 1
+   },
+   {
+    "name": "Maya Mateja",
+    "country": "MEX",
+    "total": 7.6,
+    "place": 3
+   },
+   {
+    "name": "Lucia Indurain",
+    "country": "ARG",
+    "total": 8.03,
+    "place": 2
+   },
+   {
+    "name": "Raya Campbell",
+    "country": "GBR",
+    "total": 6.34,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Sol Aguirre",
+    "country": "PER",
+    "total": 13.37,
+    "place": 1
+   },
+   {
+    "name": "Ariane Ochoa",
+    "country": "ESP",
+    "total": 11.17,
+    "place": 2
+   },
+   {
+    "name": "Mia Calderón",
+    "country": "PUR",
+    "total": 6.74,
+    "place": 4
+   },
+   {
+    "name": "Jin Shuhan",
+    "country": "CHN",
+    "total": 10.16,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Gabriela Bryan",
+    "country": "USA",
+    "total": 10.4,
+    "place": 1
+   },
+   {
+    "name": "Dominic Barona",
+    "country": "ECU",
+    "total": 7.8,
+    "place": 3
+   },
+   {
+    "name": "Leilani McGonagle",
+    "country": "CRC",
+    "total": 10.07,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Yolanda Hopkins",
+    "country": "POR",
+    "total": 10.6,
+    "place": 2
+   },
+   {
+    "name": "Naia Monte",
+    "country": "FRA",
+    "total": 12.67,
+    "place": 1
+   },
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
+    "total": 10.47,
+    "place": 3
+   },
+   {
+    "name": "Nilbie Blancada",
+    "country": "PHI",
+    "total": 6.93,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Stephanie Gilmore",
+    "country": "AUS",
+    "total": 5.43,
+    "place": 3
+   },
+   {
+    "name": "Anon Matsuoka",
+    "country": "JPN",
+    "total": 6.17,
+    "place": 2
+   },
+   {
+    "name": "Aelan Vaast",
+    "country": "FRA",
+    "total": 6.57,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Tyler Wright",
+    "country": "AUS",
+    "total": 9.53,
+    "place": 1
+   },
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": 8.5,
+    "place": 2
+   },
+   {
+    "name": "Chiara Cuppone",
+    "country": "ITA",
+    "total": 6.47,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Sawyer Lindblad",
+    "country": "USA",
+    "total": 12.83,
+    "place": 1
+   },
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
+    "total": 10.84,
+    "place": 2
+   },
+   {
+    "name": "Mirna Boelsma",
+    "country": "NED",
+    "total": 4.33,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Carissa Moore",
+    "country": "USA",
+    "total": 6.9,
+    "place": 2
+   },
+   {
+    "name": "Maria Salgado",
+    "country": "POR",
+    "total": 10.83,
+    "place": 1
+   },
+   {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": 5.63,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Daniella Rosas",
+    "country": "PER",
+    "total": 9.27,
+    "place": 2
+   },
+   {
+    "name": "Catalina Zariquiey",
+    "country": "PER",
+    "total": 11.67,
+    "place": 1
+   },
+   {
+    "name": "Jasmine Michelle Studer",
+    "country": "INA",
+    "total": 7.18,
+    "place": 3
+   },
+   {
+    "name": "Bethany Zelasko",
+    "country": "CAN",
+    "total": 5.03,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Nadia Erostarbe",
+    "country": "ESP",
+    "total": 10.23,
+    "place": 2
+   },
+   {
+    "name": "Kana Nakashio",
+    "country": "JPN",
+    "total": 11.2,
+    "place": 1
+   },
+   {
+    "name": "Lucia Indurain",
+    "country": "ARG",
+    "total": 4.8,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Luana Silva",
+    "country": "BRA",
+    "total": 12.96,
+    "place": 1
+   },
+   {
+    "name": "Louise Lepront",
+    "country": "RSA",
+    "total": 10.33,
+    "place": 3
+   },
+   {
+    "name": "Vera Jarisz",
+    "country": "ARG",
+    "total": 11.97,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Francisca Veselko",
+    "country": "POR",
+    "total": 12.2,
+    "place": 2
+   },
+   {
+    "name": "Johanne Defay",
+    "country": "FRA",
+    "total": 12.94,
+    "place": 1
+   },
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
+    "total": 10.1,
+    "place": 3
+   },
+   {
+    "name": "Chelsea Tuach",
+    "country": "BAR",
+    "total": 9.57,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B03",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": 7.8,
+    "place": 3
+   },
+   {
+    "name": "Janire González-Etxabarri",
+    "country": "ESP",
+    "total": 8.47,
+    "place": 1
+   },
+   {
+    "name": "Havanna Cabrero",
+    "country": "PUR",
+    "total": 8.0,
+    "place": 2
+   },
+   {
+    "name": "Diana Giorgi",
+    "country": "ITA",
+    "total": 5.1,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Sol Aguirre",
+    "country": "PER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Leilani McGonagle",
+    "country": "CRC",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Naia Monte",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Anon Matsuoka",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Gabriela Bryan",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Ariane Ochoa",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Aelan Vaast",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Yolanda Hopkins",
+    "country": "POR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Tyler Wright",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Maria Salgado",
+    "country": "POR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Daniella Rosas",
+    "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Sawyer Lindblad",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Catalina Zariquiey",
+    "country": "PER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Carissa Moore",
+    "country": "USA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Kana Nakashio",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Vera Jarisz",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Johanne Defay",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Havanna Cabrero",
+    "country": "PUR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B04",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Luana Silva",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Nadia Erostarbe",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Janire González-Etxabarri",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Francisca Veselko",
+    "country": "POR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Ana Llyllia Gonzalez",
+    "country": "MEX",
+    "total": 2.0,
+    "place": 2
+   },
+   {
+    "name": "Shelamae Arjona",
+    "country": "PHI",
+    "total": 5.97,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Santa Vevere",
+    "country": "LAT",
+    "total": 1.5,
+    "place": 1
+   },
+   {
+    "name": "Alma Aviram",
+    "country": "ISR",
+    "total": 1.0,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Snow Parisi",
+    "country": "CAN",
+    "total": 3.9,
+    "place": 2
+   },
+   {
+    "name": "Emmy Nøklebye",
+    "country": "NOR",
+    "total": 4.93,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Anna Pixner",
+    "country": "AUT",
+    "total": 0.83,
+    "place": 2
+   },
+   {
+    "name": "Enilda Alonso",
+    "country": "PAN",
+    "total": 5.77,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Anaí Porras",
+    "country": "GUA",
+    "total": 1.6,
+    "place": 1
+   },
+   {
+    "name": "Laura Bell",
+    "country": "AUT",
+    "total": 0.4,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Ine Haugen",
+    "country": "NOR",
+    "total": 3.43,
+    "place": 1
+   },
+   {
+    "name": "En Rou Wang",
+    "country": "TPE",
+    "total": 3.43,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Eirini Tsarpali",
+    "country": "GRE",
+    "total": 0.13,
+    "place": 2
+   },
+   {
+    "name": "Katrina Kruze",
+    "country": "LAT",
+    "total": 3.27,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Nina Smiciklas",
+    "country": "GER",
+    "total": 0.0,
+    "place": 2
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": 8.97,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Nathania Nakos",
+    "country": "GRE",
+    "total": 2.5,
+    "place": 2
+   },
+   {
+    "name": "Maya Karl",
+    "country": "UZB",
+    "total": 5.1,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Indi-Lee Ruddell",
+    "country": "NZL",
+    "total": 3.73,
+    "place": 2
+   },
+   {
+    "name": "Wang Yitian",
+    "country": "CHN",
+    "total": 4.83,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Darlyn Ramirez",
+    "country": "GUA",
+    "total": 0.8,
+    "place": 1
+   },
+   {
+    "name": "Zoe-Anais Bain",
+    "country": "JAM",
+    "total": 0.0,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Puck Dekkers",
+    "country": "NED",
+    "total": 2.84,
+    "place": 2
+   },
+   {
+    "name": "Tiziana Billy",
+    "country": "GUA",
+    "total": 3.87,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": 2.43,
+    "place": 2
+   },
+   {
+    "name": "Mikela Castro",
+    "country": "CRC",
+    "total": 4.84,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Nicole Brait",
+    "country": "POL",
+    "total": 0.47,
+    "place": 2
+   },
+   {
+    "name": "Aviv Shuval",
+    "country": "ISR",
+    "total": 6.46,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": 3.8,
+    "place": 1
+   },
+   {
+    "name": "Eva Mota",
+    "country": "DOM",
+    "total": 1.3,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B08",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Anna Mockova",
+    "country": "SVK",
+    "total": 3.23,
+    "place": 1
+   },
+   {
+    "name": "Victoria Backhaus",
+    "country": "ITA",
+    "total": 0.0,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": 7.47,
+    "place": 2
+   },
+   {
+    "name": "Silvana Martinez",
+    "country": "VEN",
+    "total": 5.6,
+    "place": 3
+   },
+   {
+    "name": "Shelamae Arjona",
+    "country": "PHI",
+    "total": 8.66,
+    "place": 1
+   },
+   {
+    "name": "Alma Aviram",
+    "country": "ISR",
+    "total": 4.57,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Ranya Squalli",
+    "country": "MAR",
+    "total": 8.17,
+    "place": 1
+   },
+   {
+    "name": "Alexandra Kolla",
+    "country": "GRE",
+    "total": 3.37,
+    "place": 3
+   },
+   {
+    "name": "Santa Vevere",
+    "country": "LAT",
+    "total": 1.5,
+    "place": 4
+   },
+   {
+    "name": "Ana Llyllia Gonzalez",
+    "country": "MEX",
+    "total": 6.2,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": 10.84,
+    "place": 1
+   },
+   {
+    "name": "Wendy Velasquez",
+    "country": "ECU",
+    "total": 7.33,
+    "place": 2
+   },
+   {
+    "name": "Emmy Nøklebye",
+    "country": "NOR",
+    "total": 4.76,
+    "place": 3
+   },
+   {
+    "name": "Anna Pixner",
+    "country": "AUT",
+    "total": 1.84,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Yun Jung Chung",
+    "country": "TPE",
+    "total": 5.9,
+    "place": 3
+   },
+   {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": 8.93,
+    "place": 1
+   },
+   {
+    "name": "Enilda Alonso",
+    "country": "PAN",
+    "total": 7.63,
+    "place": 2
+   },
+   {
+    "name": "Snow Parisi",
+    "country": "CAN",
+    "total": 4.36,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Faviola Alcalá",
+    "country": "PUR",
+    "total": 8.7,
+    "place": 1
+   },
+   {
+    "name": "Kely Gasparovic",
+    "country": "PAN",
+    "total": 6.54,
+    "place": 3
+   },
+   {
+    "name": "Anaí Porras",
+    "country": "GUA",
+    "total": 8.5,
+    "place": 2
+   },
+   {
+    "name": "En Rou Wang",
+    "country": "TPE",
+    "total": 2.67,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Hanasuri Jabrik",
+    "country": "INA",
+    "total": 7.63,
+    "place": 1
+   },
+   {
+    "name": "Lune van Dijk",
+    "country": "NED",
+    "total": 7.06,
+    "place": 2
+   },
+   {
+    "name": "Ine Haugen",
+    "country": "NOR",
+    "total": 4.2,
+    "place": 3
+   },
+   {
+    "name": "Laura Bell",
+    "country": "AUT",
+    "total": 2.4,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Victoria Muñoz Larreta",
+    "country": "ARG",
+    "total": 9.2,
+    "place": 1
+   },
+   {
+    "name": "Myriam Benzarti",
+    "country": "MAR",
+    "total": 5.23,
+    "place": 2
+   },
+   {
+    "name": "Katrina Kruze",
+    "country": "LAT",
+    "total": 3.07,
+    "place": 3
+   },
+   {
+    "name": "Nina Smiciklas",
+    "country": "GER",
+    "total": 0.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Grace Gundry",
+    "country": "NZL",
+    "total": 7.26,
+    "place": 2
+   },
+   {
+    "name": "Rosanny Alvarez",
+    "country": "VEN",
+    "total": 3.26,
+    "place": 3
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": 12.83,
+    "place": 1
+   },
+   {
+    "name": "Eirini Tsarpali",
+    "country": "GRE",
+    "total": 0.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": 10.17,
+    "place": 1
+   },
+   {
+    "name": "Kyra Wallis",
+    "country": "NZL",
+    "total": 9.9,
+    "place": 2
+   },
+   {
+    "name": "Maya Karl",
+    "country": "UZB",
+    "total": 3.3,
+    "place": 4
+   },
+   {
+    "name": "Indi-Lee Ruddell",
+    "country": "NZL",
+    "total": 5.4,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Anri Matsuno",
+    "country": "JPN",
+    "total": 10.06,
+    "place": 1
+   },
+   {
+    "name": "Janina Zeitler",
+    "country": "GER",
+    "total": 7.2,
+    "place": 3
+   },
+   {
+    "name": "Wang Yitian",
+    "country": "CHN",
+    "total": 7.34,
+    "place": 2
+   },
+   {
+    "name": "Nathania Nakos",
+    "country": "GRE",
+    "total": 2.83,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": 7.94,
+    "place": 1
+   },
+   {
+    "name": "Belen Elizondo",
+    "country": "PAN",
+    "total": 6.53,
+    "place": 2
+   },
+   {
+    "name": "Darlyn Ramirez",
+    "country": "GUA",
+    "total": 5.06,
+    "place": 3
+   },
+   {
+    "name": "Puck Dekkers",
+    "country": "NED",
+    "total": 3.73,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Kya Jo Heuer",
+    "country": "INA",
+    "total": 7.33,
+    "place": 1
+   },
+   {
+    "name": "Helle Løvseth",
+    "country": "NOR",
+    "total": 3.44,
+    "place": 3
+   },
+   {
+    "name": "Tiziana Billy",
+    "country": "GUA",
+    "total": 5.86,
+    "place": 2
+   },
+   {
+    "name": "Zoe-Anais Bain",
+    "country": "JAM",
+    "total": 0.0,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 13,
+  "surfers": [
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
+    "total": 11.83,
+    "place": 1
+   },
+   {
+    "name": "Wan Yu Chen",
+    "country": "TPE",
+    "total": 5.17,
+    "place": 3
+   },
+   {
+    "name": "Mikela Castro",
+    "country": "CRC",
+    "total": 6.5,
+    "place": 2
+   },
+   {
+    "name": "Nicole Brait",
+    "country": "POL",
+    "total": 4.1,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 14,
+  "surfers": [
+   {
+    "name": "Belle Betteridge",
+    "country": "GBR",
+    "total": 11.33,
+    "place": 1
+   },
+   {
+    "name": "Jessie van Niekerk",
+    "country": "RSA",
+    "total": 7.64,
+    "place": 3
+   },
+   {
+    "name": "Aviv Shuval",
+    "country": "ISR",
+    "total": 3.4,
+    "place": 4
+   },
+   {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": 7.8,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 15,
+  "surfers": [
+   {
+    "name": "Paloma Santos",
+    "country": "CHI",
+    "total": 4.17,
+    "place": 4
+   },
+   {
+    "name": "Raya Campbell",
+    "country": "GBR",
+    "total": 9.64,
+    "place": 1
+   },
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": 7.4,
+    "place": 2
+   },
+   {
+    "name": "Victoria Backhaus",
+    "country": "ITA",
+    "total": 6.9,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B09",
+  "heat": 16,
+  "surfers": [
+   {
+    "name": "Maya Mateja",
+    "country": "MEX",
+    "total": 12.67,
+    "place": 1
+   },
+   {
+    "name": "Noya Slater Cohen",
+    "country": "ISR",
+    "total": 6.6,
+    "place": 2
+   },
+   {
+    "name": "Anna Mockova",
+    "country": "SVK",
+    "total": 1.57,
+    "place": 4
+   },
+   {
+    "name": "Eva Mota",
+    "country": "DOM",
+    "total": 4.47,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Shelamae Arjona",
+    "country": "PHI",
+    "total": 4.73,
+    "place": 4
+   },
+   {
+    "name": "Ana Llyllia Gonzalez",
+    "country": "MEX",
+    "total": 5.93,
+    "place": 3
+   },
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": 11.33,
+    "place": 1
+   },
+   {
+    "name": "Enilda Alonso",
+    "country": "PAN",
+    "total": 7.1,
+    "place": 2
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Ranya Squalli",
+    "country": "MAR",
+    "total": 4.3,
+    "place": 4
+   },
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": 6.46,
+    "place": 2
+   },
+   {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": 9.5,
+    "place": 1
+   },
+   {
+    "name": "Wendy Velasquez",
+    "country": "ECU",
+    "total": 5.2,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Faviola Alcalá",
+    "country": "PUR",
+    "total": 8.63,
+    "place": 2
+   },
+   {
+    "name": "Lune van Dijk",
+    "country": "NED",
+    "total": 4.33,
+    "place": 4
+   },
+   {
+    "name": "Victoria Muñoz Larreta",
+    "country": "ARG",
+    "total": 10.07,
+    "place": 1
+   },
+   {
+    "name": "Grace Gundry",
+    "country": "NZL",
+    "total": 4.54,
+    "place": 3
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Hanasuri Jabrik",
+    "country": "INA",
+    "total": 6.76,
+    "place": 2
+   },
+   {
+    "name": "Anaí Porras",
+    "country": "GUA",
+    "total": 4.4,
+    "place": 3
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": 10.0,
+    "place": 1
+   },
+   {
+    "name": "Myriam Benzarti",
+    "country": "MAR",
+    "total": 4.34,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": 9.86,
+    "place": 1
+   },
+   {
+    "name": "Wang Yitian",
+    "country": "CHN",
+    "total": 7.46,
+    "place": 3
+   },
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": 9.5,
+    "place": 2
+   },
+   {
+    "name": "Tiziana Billy",
+    "country": "GUA",
+    "total": 5.93,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Anri Matsuno",
+    "country": "JPN",
+    "total": 13.0,
+    "place": 1
+   },
+   {
+    "name": "Kyra Wallis",
+    "country": "NZL",
+    "total": 12.0,
+    "place": 2
+   },
+   {
+    "name": "Kya Jo Heuer",
+    "country": "INA",
+    "total": 8.83,
+    "place": 3
+   },
+   {
+    "name": "Belen Elizondo",
+    "country": "PAN",
+    "total": 5.9,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
+    "total": 7.7,
+    "place": 2
+   },
+   {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": 10.4,
+    "place": 1
+   },
+   {
+    "name": "Raya Campbell",
+    "country": "GBR",
+    "total": 4.1,
+    "place": 3
+   },
+   {
+    "name": "Noya Slater Cohen",
+    "country": "ISR",
+    "total": 3.4,
+    "place": 4
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B10",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Belle Betteridge",
+    "country": "GBR",
+    "total": 8.07,
+    "place": 3
+   },
+   {
+    "name": "Mikela Castro",
+    "country": "CRC",
+    "total": 3.8,
+    "place": 4
+   },
+   {
+    "name": "Maya Mateja",
+    "country": "MEX",
+    "total": 8.87,
+    "place": 2
+   },
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": 10.5,
+    "place": 1
+   }
+  ],
+  "complete": true
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Jin Shuhan",
+    "country": "CHN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Bethany Zelasko",
+    "country": "CAN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Natasha van Greunen",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Mirna Boelsma",
+    "country": "NED",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Camilla Kemp",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Maya Mateja",
+    "country": "MEX",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Louise Lepront",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Nilbie Blancada",
+    "country": "PHI",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kyra Wallis",
+    "country": "NZL",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Coral Jeanne Bonilla",
+    "country": "MEX",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 5,
+  "surfers": [
+   {
+    "name": "Stephanie Gilmore",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 6,
+  "surfers": [
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Enilda Alonso",
+    "country": "PAN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 7,
+  "surfers": [
+   {
+    "name": "Dominic Barona",
+    "country": "ECU",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Victoria Muñoz Larreta",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Ocea Green",
+    "country": "CAN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 8,
+  "surfers": [
+   {
+    "name": "Chiara Cuppone",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Mia Calderón",
+    "country": "PUR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Elin Tawharu",
+    "country": "SWE",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 9,
+  "surfers": [
+   {
+    "name": "Lucia Indurain",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Charlotte Mulley",
+    "country": "GBR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 10,
+  "surfers": [
+   {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Anri Matsuno",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Candelaria Resano",
+    "country": "NCA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 11,
+  "surfers": [
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Chelsea Tuach",
+    "country": "BAR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Hanasuri Jabrik",
+    "country": "INA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B11",
+  "heat": 12,
+  "surfers": [
+   {
+    "name": "Jasmine Michelle Studer",
+    "country": "INA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Diana Giorgi",
+    "country": "ITA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Faviola Alcalá",
+    "country": "PUR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ }
+]

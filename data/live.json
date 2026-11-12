@@ -1,0 +1,65 @@
+{
+ "division": "men",
+ "round": "REPECHAGE 4",
+ "heat": 8,
+ "heat_id": "120",
+ "status": "RUNNING",
+ "minleft": 17,
+ "secleft": 56,
+ "end": "",
+ "surfers": [
+  {
+   "name": "Noah Storhaug",
+   "country": "NOR",
+   "place": 1,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
+  },
+  {
+   "name": "Miguel Pupo",
+   "country": "BRA",
+   "place": 2,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
+  },
+  {
+   "name": "Jiang Shulou",
+   "country": "CHN",
+   "place": 3,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
+  },
+  {
+   "name": "Francisco Bellorin",
+   "country": "VEN",
+   "place": 4,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
+  }
+ ],
+ "fetched_utc": "2026-11-12T14:33:07.843032Z"
+}

@@ -292,5 +292,44 @@
     0.0
    ]
   }
+ },
+ "women|anonmatsuoka|leilanimcgonagle|naiamonte|solaguirre": {
+  "leilanimcgonagle": {
+   "waves": [
+    5.33
+   ],
+   "best_waves": [
+    5.33,
+    0.0
+   ]
+  },
+  "solaguirre": {
+   "waves": [
+    4.0
+   ],
+   "best_waves": [
+    4.0,
+    0.0
+   ]
+  },
+  "naiamonte": {
+   "waves": [
+    1.0,
+    1.93
+   ],
+   "best_waves": [
+    1.93,
+    1.0
+   ]
+  },
+  "anonmatsuoka": {
+   "waves": [
+    0.2
+   ],
+   "best_waves": [
+    0.2,
+    0.0
+   ]
+  }
  }
 }

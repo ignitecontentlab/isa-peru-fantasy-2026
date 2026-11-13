@@ -7635,8 +7635,8 @@
    {
     "name": "Ntokozo Maphumulo",
     "country": "RSA",
-    "total": null,
-    "place": null,
+    "total": 8.17,
+    "place": 4,
     "waves": [
      2.67,
      5.5
@@ -7649,8 +7649,8 @@
    {
     "name": "Kanoa Igarashi",
     "country": "JPN",
-    "total": null,
-    "place": null,
+    "total": 14.0,
+    "place": 1,
     "waves": [
      1.6,
      8.33
@@ -7663,8 +7663,8 @@
    {
     "name": "George Pittar",
     "country": "AUS",
-    "total": null,
-    "place": null,
+    "total": 8.56,
+    "place": 3,
     "waves": [
      0.5
     ],
@@ -7676,8 +7676,8 @@
    {
     "name": "Dhany Widianto",
     "country": "INA",
-    "total": null,
-    "place": null,
+    "total": 11.67,
+    "place": 2,
     "waves": [
      5.0,
      6.67
@@ -7688,7 +7688,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7698,29 +7698,29 @@
    {
     "name": "Italo Ferreira",
     "country": "BRA",
-    "total": null,
-    "place": null
+    "total": 13.2,
+    "place": 1
    },
    {
     "name": "Jacobo Trigo",
     "country": "ESP",
-    "total": null,
-    "place": null
+    "total": 5.96,
+    "place": 4
    },
    {
     "name": "Guilherme Ribeiro",
     "country": "POR",
-    "total": null,
-    "place": null
+    "total": 13.14,
+    "place": 2
    },
    {
     "name": "Joshua Burke",
     "country": "BAR",
-    "total": null,
-    "place": null
+    "total": 12.2,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7731,25 +7731,56 @@
     "name": "Kauli Vaast",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     6.33,
+     0.43
+    ],
+    "best_waves": [
+     6.33,
+     0.43
+    ]
    },
    {
     "name": "Frederico Morais",
     "country": "POR",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.5,
+     3.33
+    ],
+    "best_waves": [
+     3.33,
+     0.5
+    ]
    },
    {
     "name": "Jorgan Couzinet",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.67,
+     8.17
+    ],
+    "best_waves": [
+     8.17,
+     2.67
+    ]
    },
    {
     "name": "Luke van Wyk",
     "country": "RSA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     5.9
+    ],
+    "best_waves": [
+     5.9,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -8090,6 +8121,18 @@
     "country": "ARG",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Kanoa Igarashi",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Guilherme Ribeiro",
+    "country": "POR",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -8108,6 +8151,26 @@
    {
     "name": "Griffin Colapinto",
     "country": "USA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B14",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Italo Ferreira",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Dhany Widianto",
+    "country": "INA",
     "total": null,
     "place": null
    }

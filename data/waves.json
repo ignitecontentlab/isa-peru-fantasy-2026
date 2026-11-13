@@ -483,5 +483,46 @@
     0.0
    ]
   }
+ },
+ "men|fredericomorais|jorgancouzinet|kaulivaast|lukevanwyk": {
+  "jorgancouzinet": {
+   "waves": [
+    2.67,
+    8.17
+   ],
+   "best_waves": [
+    8.17,
+    2.67
+   ]
+  },
+  "kaulivaast": {
+   "waves": [
+    6.33,
+    0.43
+   ],
+   "best_waves": [
+    6.33,
+    0.43
+   ]
+  },
+  "lukevanwyk": {
+   "waves": [
+    5.9
+   ],
+   "best_waves": [
+    5.9,
+    0.0
+   ]
+  },
+  "fredericomorais": {
+   "waves": [
+    0.5,
+    3.33
+   ],
+   "best_waves": [
+    3.33,
+    0.5
+   ]
+  }
  }
 }

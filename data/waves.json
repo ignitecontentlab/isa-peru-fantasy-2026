@@ -372,5 +372,43 @@
     0.0
    ]
   }
+ },
+ "women|havannacabrero|johannedefay|kananakashio|verajarisz": {
+  "johannedefay": {
+   "waves": [
+    5.67,
+    6.43
+   ],
+   "best_waves": [
+    6.43,
+    5.67
+   ]
+  },
+  "kananakashio": {
+   "waves": [
+    3.33
+   ],
+   "best_waves": [
+    3.33,
+    0.0
+   ]
+  },
+  "havannacabrero": {
+   "waves": [
+    1.07,
+    0.5
+   ],
+   "best_waves": [
+    1.07,
+    0.5
+   ]
+  },
+  "verajarisz": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

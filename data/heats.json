@@ -5538,8 +5538,8 @@
    {
     "name": "Tyler Wright",
     "country": "AUS",
-    "total": null,
-    "place": null,
+    "total": 12.13,
+    "place": 1,
     "waves": [
      3.33
     ],
@@ -5551,8 +5551,8 @@
    {
     "name": "Laura Raupp",
     "country": "BRA",
-    "total": null,
-    "place": null,
+    "total": 9.7,
+    "place": 3,
     "waves": [
      2.17,
      4.83
@@ -5565,8 +5565,8 @@
    {
     "name": "Maria Salgado",
     "country": "POR",
-    "total": null,
-    "place": null,
+    "total": 8.0,
+    "place": 4,
     "waves": [
      3.23,
      0.97
@@ -5579,8 +5579,8 @@
    {
     "name": "Daniella Rosas",
     "country": "PER",
-    "total": null,
-    "place": null,
+    "total": 11.77,
+    "place": 2,
     "waves": [
      6.17,
      2.23
@@ -5591,7 +5591,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -5601,29 +5601,29 @@
    {
     "name": "Sawyer Lindblad",
     "country": "USA",
-    "total": null,
-    "place": null
+    "total": 14.27,
+    "place": 1
    },
    {
     "name": "Estela López",
     "country": "CHI",
-    "total": null,
-    "place": null
+    "total": 9.76,
+    "place": 4
    },
    {
     "name": "Catalina Zariquiey",
     "country": "PER",
-    "total": null,
-    "place": null
+    "total": 13.1,
+    "place": 2
    },
    {
     "name": "Carissa Moore",
     "country": "USA",
-    "total": null,
-    "place": null
+    "total": 12.84,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -5634,25 +5634,53 @@
     "name": "Kana Nakashio",
     "country": "JPN",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     3.33
+    ],
+    "best_waves": [
+     3.33,
+     0.0
+    ]
    },
    {
     "name": "Vera Jarisz",
     "country": "ARG",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Johanne Defay",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     5.67,
+     6.43
+    ],
+    "best_waves": [
+     6.43,
+     5.67
+    ]
    },
    {
     "name": "Havanna Cabrero",
     "country": "PUR",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     1.07,
+     0.5
+    ],
+    "best_waves": [
+     1.07,
+     0.5
+    ]
    }
   ],
   "complete": false
@@ -7297,29 +7325,29 @@
    {
     "name": "Yang Siqi",
     "country": "CHN",
-    "total": null,
-    "place": null
+    "total": 11.4,
+    "place": 2
    },
    {
     "name": "Taina Hinckel",
     "country": "BRA",
-    "total": null,
-    "place": null
+    "total": 12.4,
+    "place": 1
    },
    {
     "name": "Ocea Green",
     "country": "CAN",
-    "total": null,
-    "place": null
+    "total": 6.3,
+    "place": 3
    },
    {
     "name": "Elin Tawharu",
     "country": "SWE",
-    "total": null,
-    "place": null
+    "total": 3.0,
+    "place": 4
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -7329,29 +7357,29 @@
    {
     "name": "Genesis Borja",
     "country": "ECU",
-    "total": null,
-    "place": null
+    "total": 9.07,
+    "place": 2
    },
    {
     "name": "Stephanie Gilmore",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 11.7,
+    "place": 1
    },
    {
     "name": "Chiara Cuppone",
     "country": "ITA",
-    "total": null,
-    "place": null
+    "total": 7.44,
+    "place": 4
    },
    {
     "name": "Dominic Barona",
     "country": "ECU",
-    "total": null,
-    "place": null
+    "total": 8.17,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -7721,6 +7749,18 @@
     "country": "POR",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Tyler Wright",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Catalina Zariquiey",
+    "country": "PER",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7803,6 +7843,90 @@
    {
     "name": "Louise Lepront",
     "country": "RSA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B05",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Sawyer Lindblad",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Daniella Rosas",
+    "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B13",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Taina Hinckel",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Genesis Borja",
+    "country": "ECU",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B13",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Carissa Moore",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Maria Salgado",
+    "country": "POR",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Stephanie Gilmore",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Yang Siqi",
+    "country": "CHN",
     "total": null,
     "place": null
    }

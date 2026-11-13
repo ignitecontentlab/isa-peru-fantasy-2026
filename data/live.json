@@ -1,128 +1,150 @@
 {
  "division": "women",
  "round": "ROUND 4",
- "heat": 1,
- "heat_id": "61",
+ "heat": 3,
+ "heat_id": "63",
  "status": "RUNNING",
- "minleft": 10,
- "secleft": 45,
+ "minleft": 8,
+ "secleft": 5,
  "end": "",
  "surfers": [
   {
-   "name": "Leilani McGonagle",
-   "country": "CRC",
-   "place": 1,
-   "total": 5.33,
-   "best_waves": [
-    5.33,
-    0.0
-   ],
-   "priority": "P3",
-   "waves": [
-    5.33
-   ],
-   "wave_detail": [
-    {
-     "score": 5.33,
-     "judges": [
-      5.5,
-      5.5,
-      5.0,
-      5.5,
-      5.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Sol Aguirre",
+   "name": "Daniella Rosas",
    "country": "PER",
-   "place": 2,
-   "total": 4.0,
+   "place": 1,
+   "total": 8.4,
    "best_waves": [
-    4.0,
-    0.0
+    6.17,
+    2.23
    ],
    "priority": "P2",
    "waves": [
-    4.0
+    6.17,
+    2.23
    ],
    "wave_detail": [
     {
-     "score": 4.0,
+     "score": 6.17,
      "judges": [
-      4.0,
-      4.0,
-      4.0,
-      4.5,
-      4.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Naia Monte",
-   "country": "FRA",
-   "place": 3,
-   "total": 2.93,
-   "best_waves": [
-    1.93,
-    1.0
-   ],
-   "priority": null,
-   "waves": [
-    1.0,
-    1.93
-   ],
-   "wave_detail": [
-    {
-     "score": 1.0,
-     "judges": [
-      1.0,
-      1.0,
-      1.0,
-      1.0,
-      1.0
+      6.5,
+      6.0,
+      6.0,
+      6.5,
+      6.0
      ]
     },
     {
-     "score": 1.93,
+     "score": 2.23,
      "judges": [
-      2.0,
+      2.2,
       2.5,
-      1.7,
-      1.8,
-      2.0
+      2.0,
+      2.0,
+      2.5
      ]
     }
    ]
   },
   {
-   "name": "Anon Matsuoka",
-   "country": "JPN",
-   "place": 4,
-   "total": 0.2,
+   "name": "Laura Raupp",
+   "country": "BRA",
+   "place": 2,
+   "total": 7.0,
    "best_waves": [
-    0.2,
+    4.83,
+    2.17
+   ],
+   "priority": null,
+   "waves": [
+    2.17,
+    4.83
+   ],
+   "wave_detail": [
+    {
+     "score": 2.17,
+     "judges": [
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+     ]
+    },
+    {
+     "score": 4.83,
+     "judges": [
+      5.0,
+      4.5,
+      4.5,
+      5.0,
+      5.5
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Maria Salgado",
+   "country": "POR",
+   "place": 3,
+   "total": 4.2,
+   "best_waves": [
+    3.23,
+    0.97
+   ],
+   "priority": null,
+   "waves": [
+    3.23,
+    0.97
+   ],
+   "wave_detail": [
+    {
+     "score": 3.23,
+     "judges": [
+      2.5,
+      3.5,
+      3.2,
+      3.0,
+      3.8
+     ]
+    },
+    {
+     "score": 0.97,
+     "judges": [
+      1.1,
+      1.0,
+      0.9,
+      1.0,
+      0.8
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyler Wright",
+   "country": "AUS",
+   "place": 4,
+   "total": 3.33,
+   "best_waves": [
+    3.33,
     0.0
    ],
    "priority": "P1",
    "waves": [
-    0.2
+    3.33
    ],
    "wave_detail": [
     {
-     "score": 0.2,
+     "score": 3.33,
      "judges": [
-      0.1,
-      0.2,
-      0.2,
-      0.2,
-      0.2
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      3.5
      ]
     }
    ]
   }
  ],
- "fetched_utc": "2026-11-13T14:29:07.905354Z"
+ "fetched_utc": "2026-11-13T15:14:03.758750Z"
 }

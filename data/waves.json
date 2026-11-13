@@ -331,5 +331,46 @@
     0.0
    ]
   }
+ },
+ "women|daniellarosas|lauraraupp|mariasalgado|tylerwright": {
+  "daniellarosas": {
+   "waves": [
+    6.17,
+    2.23
+   ],
+   "best_waves": [
+    6.17,
+    2.23
+   ]
+  },
+  "lauraraupp": {
+   "waves": [
+    2.17,
+    4.83
+   ],
+   "best_waves": [
+    4.83,
+    2.17
+   ]
+  },
+  "mariasalgado": {
+   "waves": [
+    3.23,
+    0.97
+   ],
+   "best_waves": [
+    3.23,
+    0.97
+   ]
+  },
+  "tylerwright": {
+   "waves": [
+    3.33
+   ],
+   "best_waves": [
+    3.33,
+    0.0
+   ]
+  }
  }
 }

@@ -1,26 +1,62 @@
 {
  "division": "women",
  "round": "REPECHAGE 6",
- "heat": 4,
- "heat_id": "134",
+ "heat": 6,
+ "heat_id": "136",
  "status": "RUNNING",
- "minleft": 14,
- "secleft": 46,
+ "minleft": 13,
+ "secleft": 59,
  "end": "",
  "surfers": [
   {
-   "name": "Yang Siqi",
-   "country": "CHN",
+   "name": "Rachael Aguero",
+   "country": "CRC",
    "place": 1,
-   "total": 4.87,
+   "total": 4.67,
    "best_waves": [
-    4.5,
-    0.37
+    4.17,
+    0.5
    ],
    "priority": null,
    "waves": [
+    4.17,
+    0.5
+   ],
+   "wave_detail": [
+    {
+     "score": 4.17,
+     "judges": [
+      4.0,
+      4.0,
+      4.0,
+      4.5,
+      4.5
+     ]
+    },
+    {
+     "score": 0.5,
+     "judges": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Candelaria Resano",
+   "country": "NCA",
+   "place": 2,
+   "total": 4.5,
+   "best_waves": [
     4.5,
-    0.37
+    0.0
+   ],
+   "priority": "P2",
+   "waves": [
+    4.5
    ],
    "wave_detail": [
     {
@@ -29,74 +65,51 @@
       4.5,
       4.5,
       4.5,
-      4.5,
-      4.0
-     ]
-    },
-    {
-     "score": 0.37,
-     "judges": [
-      0.3,
-      0.5,
-      0.2,
-      0.5,
-      0.3
+      5.0,
+      4.2
      ]
     }
    ]
   },
   {
-   "name": "Maria Salgado",
-   "country": "POR",
-   "place": 2,
-   "total": 0.57,
-   "best_waves": [
-    0.57,
-    0.0
-   ],
-   "priority": "P1",
-   "waves": [
-    0.57
-   ],
-   "wave_detail": [
-    {
-     "score": 0.57,
-     "judges": [
-      0.5,
-      0.8,
-      0.5,
-      0.7,
-      0.5
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Carissa Moore",
-   "country": "USA",
+   "name": "Vera Jarisz",
+   "country": "ARG",
    "place": 3,
-   "total": 0.0,
+   "total": 2.83,
    "best_waves": [
-    0.0,
+    2.83,
     0.0
    ],
    "priority": null,
-   "waves": [],
-   "wave_detail": []
+   "waves": [
+    2.83
+   ],
+   "wave_detail": [
+    {
+     "score": 2.83,
+     "judges": [
+      2.5,
+      3.0,
+      3.0,
+      3.5,
+      2.5
+     ]
+    }
+   ]
   },
   {
-   "name": "Stephanie Gilmore",
-   "country": "AUS",
+   "name": "Luana Silva",
+   "country": "BRA",
    "place": 4,
    "total": 0.0,
    "best_waves": [
     0.0,
     0.0
    ],
-   "priority": "P2",
+   "priority": "P1",
    "waves": [],
    "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T19:57:08.846929Z"
+ "fetched_utc": "2026-11-13T20:42:17.215707Z"
 }

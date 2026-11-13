@@ -593,5 +593,42 @@
     0.0
    ]
   }
+ },
+ "women|candelariaresano|luanasilva|rachaelaguero|verajarisz": {
+  "rachaelaguero": {
+   "waves": [
+    4.17,
+    0.5
+   ],
+   "best_waves": [
+    4.17,
+    0.5
+   ]
+  },
+  "candelariaresano": {
+   "waves": [
+    4.5
+   ],
+   "best_waves": [
+    4.5,
+    0.0
+   ]
+  },
+  "verajarisz": {
+   "waves": [
+    2.83
+   ],
+   "best_waves": [
+    2.83,
+    0.0
+   ]
+  },
+  "luanasilva": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

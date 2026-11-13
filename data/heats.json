@@ -8041,8 +8041,8 @@
    {
     "name": "Carissa Moore",
     "country": "USA",
-    "total": null,
-    "place": null,
+    "total": 12.5,
+    "place": 2,
     "waves": [],
     "best_waves": [
      0.0,
@@ -8052,8 +8052,8 @@
    {
     "name": "Maria Salgado",
     "country": "POR",
-    "total": null,
-    "place": null,
+    "total": 10.17,
+    "place": 4,
     "waves": [
      0.57
     ],
@@ -8065,8 +8065,8 @@
    {
     "name": "Stephanie Gilmore",
     "country": "AUS",
-    "total": null,
-    "place": null,
+    "total": 13.73,
+    "place": 1,
     "waves": [],
     "best_waves": [
      0.0,
@@ -8076,8 +8076,8 @@
    {
     "name": "Yang Siqi",
     "country": "CHN",
-    "total": null,
-    "place": null,
+    "total": 11.83,
+    "place": 3,
     "waves": [
      4.5,
      0.37
@@ -8088,7 +8088,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -8098,29 +8098,29 @@
    {
     "name": "Kana Nakashio",
     "country": "JPN",
-    "total": null,
-    "place": null
+    "total": 7.66,
+    "place": 3
    },
    {
     "name": "Francisca Veselko",
     "country": "POR",
-    "total": null,
-    "place": null
+    "total": 11.33,
+    "place": 2
    },
    {
     "name": "Jasmine Michelle Studer",
     "country": "INA",
-    "total": null,
-    "place": null
+    "total": 2.13,
+    "place": 4
    },
    {
     "name": "Isidora Bulto",
     "country": "CHI",
-    "total": null,
-    "place": null
+    "total": 14.33,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -8131,25 +8131,52 @@
     "name": "Luana Silva",
     "country": "BRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Vera Jarisz",
     "country": "ARG",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.83
+    ],
+    "best_waves": [
+     2.83,
+     0.0
+    ]
    },
    {
     "name": "Candelaria Resano",
     "country": "NCA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     4.5
+    ],
+    "best_waves": [
+     4.5,
+     0.0
+    ]
    },
    {
     "name": "Rachael Aguero",
     "country": "CRC",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     4.17,
+     0.5
+    ],
+    "best_waves": [
+     4.17,
+     0.5
+    ]
    }
   ],
   "complete": false
@@ -8272,6 +8299,12 @@
     "country": "CHI",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Carissa Moore",
+    "country": "USA",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -8281,6 +8314,12 @@
   "round": "B14",
   "heat": 2,
   "surfers": [
+   {
+    "name": "Isidora Bulto",
+    "country": "CHI",
+    "total": null,
+    "place": null
+   },
    {
     "name": "Naia Monte",
     "country": "FRA",
@@ -8302,8 +8341,20 @@
   "heat": 3,
   "surfers": [
    {
+    "name": "Stephanie Gilmore",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Laura Raupp",
     "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Francisca Veselko",
+    "country": "POR",
     "total": null,
     "place": null
    }

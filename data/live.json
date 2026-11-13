@@ -1,124 +1,65 @@
 {
- "division": "women",
- "round": "REPECHAGE 4",
- "heat": 12,
- "heat_id": "124",
- "status": "UNOFFICIAL",
- "minleft": 0,
- "secleft": 0,
- "end": "00:00",
+ "division": "men",
+ "round": "ROUND 4",
+ "heat": 2,
+ "heat_id": "62",
+ "status": "RUNNING",
+ "minleft": 19,
+ "secleft": 52,
+ "end": "",
  "surfers": [
   {
-   "name": "Faviola Alcalá",
-   "country": "PUR",
+   "name": "Marco Mignot",
+   "country": "FRA",
    "place": 1,
-   "total": 11.43,
+   "total": 0.0,
    "best_waves": [
-    7.33,
-    4.1
+    0.0,
+    0.0
    ],
    "priority": null,
-   "waves": [
-    4.1,
-    7.33
-   ],
-   "wave_detail": [
-    {
-     "score": 4.1,
-     "judges": [
-      4.0,
-      4.5,
-      3.7,
-      4.5,
-      3.8
-     ]
-    },
-    {
-     "score": 7.33,
-     "judges": [
-      7.0,
-      7.5,
-      7.0,
-      7.5,
-      7.5
-     ]
-    }
-   ]
+   "waves": [],
+   "wave_detail": []
   },
   {
-   "name": "Jasmine Michelle Studer",
-   "country": "INA",
+   "name": "Crosby Colapinto",
+   "country": "USA",
    "place": 2,
-   "total": 7.83,
+   "total": 0.0,
    "best_waves": [
-    4.9,
-    2.93
+    0.0,
+    0.0
    ],
    "priority": null,
-   "waves": [
-    2.93,
-    4.9
-   ],
-   "wave_detail": [
-    {
-     "score": 2.93,
-     "judges": [
-      2.5,
-      3.0,
-      2.8,
-      3.0,
-      3.0
-     ]
-    },
-    {
-     "score": 4.9,
-     "judges": [
-      4.3,
-      5.0,
-      5.0,
-      5.0,
-      4.7
-     ]
-    }
-   ]
+   "waves": [],
+   "wave_detail": []
   },
   {
-   "name": "Diana Giorgi",
-   "country": "ITA",
+   "name": "Romeo Chavez",
+   "country": "COL",
    "place": 3,
-   "total": 3.8,
+   "total": 0.0,
    "best_waves": [
-    2.13,
-    1.67
+    0.0,
+    0.0
    ],
    "priority": null,
-   "waves": [
-    2.13,
-    1.67
+   "waves": [],
+   "wave_detail": []
+  },
+  {
+   "name": "Jean Carlos González",
+   "country": "PAN",
+   "place": 4,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
    ],
-   "wave_detail": [
-    {
-     "score": 2.13,
-     "judges": [
-      1.7,
-      2.5,
-      2.2,
-      1.7,
-      2.5
-     ]
-    },
-    {
-     "score": 1.67,
-     "judges": [
-      1.9,
-      1.7,
-      1.8,
-      1.5,
-      1.5
-     ]
-    }
-   ]
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T11:28:32.328137Z"
+ "fetched_utc": "2026-11-13T12:21:16.093028Z"
 }

@@ -1813,29 +1813,29 @@
    {
     "name": "Tom Butland",
     "country": "NZL",
-    "total": null,
-    "place": null
+    "total": 8.5,
+    "place": 4
    },
    {
     "name": "Conor Donegan",
     "country": "ESP",
-    "total": null,
-    "place": null
+    "total": 13.46,
+    "place": 2
    },
    {
     "name": "Lucca Mesinas",
     "country": "PER",
-    "total": null,
-    "place": null
+    "total": 13.74,
+    "place": 1
    },
    {
     "name": "Francisco Ordonhas",
     "country": "POR",
-    "total": null,
-    "place": null
+    "total": 9.1,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -1846,25 +1846,45 @@
     "name": "Marco Mignot",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Crosby Colapinto",
     "country": "USA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Romeo Chavez",
     "country": "COL",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Jean Carlos González",
     "country": "PAN",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -7299,6 +7319,62 @@
    {
     "name": "Isidora Bulto",
     "country": "CHI",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B05",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Lucca Mesinas",
+    "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B05",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Conor Donegan",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B13",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Francisco Ordonhas",
+    "country": "POR",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B13",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Tom Butland",
+    "country": "NZL",
     "total": null,
     "place": null
    }

@@ -232,5 +232,35 @@
     1.67
    ]
   }
+ },
+ "men|crosbycolapinto|jeancarlosgonzalez|marcomignot|romeochavez": {
+  "marcomignot": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "crosbycolapinto": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "romeochavez": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "jeancarlosgonzalez": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

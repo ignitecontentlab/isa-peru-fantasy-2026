@@ -7730,8 +7730,8 @@
    {
     "name": "Kauli Vaast",
     "country": "FRA",
-    "total": null,
-    "place": null,
+    "total": 14.2,
+    "place": 1,
     "waves": [
      6.33,
      0.43
@@ -7744,8 +7744,8 @@
    {
     "name": "Frederico Morais",
     "country": "POR",
-    "total": null,
-    "place": null,
+    "total": 10.16,
+    "place": 4,
     "waves": [
      0.5,
      3.33
@@ -7758,8 +7758,8 @@
    {
     "name": "Jorgan Couzinet",
     "country": "FRA",
-    "total": null,
-    "place": null,
+    "total": 12.94,
+    "place": 2,
     "waves": [
      2.67,
      8.17
@@ -7772,8 +7772,8 @@
    {
     "name": "Luke van Wyk",
     "country": "RSA",
-    "total": null,
-    "place": null,
+    "total": 10.63,
+    "place": 3,
     "waves": [
      5.9
     ],
@@ -7783,7 +7783,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7793,29 +7793,29 @@
    {
     "name": "Bryan Pérez",
     "country": "ESA",
-    "total": null,
-    "place": null
+    "total": 9.17,
+    "place": 3
    },
    {
     "name": "Tim Elter",
     "country": "GER",
-    "total": null,
-    "place": null
+    "total": 11.53,
+    "place": 2
    },
    {
     "name": "Cole Houshmand",
     "country": "USA",
-    "total": null,
-    "place": null
+    "total": 15.43,
+    "place": 1
    },
    {
     "name": "Kai Gale Grani",
     "country": "PAN",
-    "total": null,
-    "place": null
+    "total": 8.74,
+    "place": 4
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -7889,29 +7889,29 @@
    {
     "name": "Sol Aguirre",
     "country": "PER",
-    "total": null,
-    "place": null
+    "total": 11.4,
+    "place": 2
    },
    {
     "name": "Ariane Ochoa",
     "country": "ESP",
-    "total": null,
-    "place": null
+    "total": 11.07,
+    "place": 3
    },
    {
     "name": "Leihani Zoric",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 11.67,
+    "place": 1
    },
    {
     "name": "Jin Shuhan",
     "country": "CHN",
-    "total": null,
-    "place": null
+    "total": 7.8,
+    "place": 4
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -7922,25 +7922,49 @@
     "name": "Aelan Vaast",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.5
+    ],
+    "best_waves": [
+     0.5,
+     0.0
+    ]
    },
    {
     "name": "Naia Monte",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Camilla Kemp",
     "country": "GER",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.5
+    ],
+    "best_waves": [
+     0.5,
+     0.0
+    ]
    },
    {
     "name": "Louise Lepront",
     "country": "RSA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -8143,6 +8167,18 @@
   "heat": 2,
   "surfers": [
    {
+    "name": "Kauli Vaast",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Tim Elter",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Connor O'Leary",
     "country": "JPN",
     "total": null,
@@ -8171,6 +8207,46 @@
    {
     "name": "Dhany Widianto",
     "country": "INA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Cole Houshmand",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Jorgan Couzinet",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B14",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Leihani Zoric",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B14",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Sol Aguirre",
+    "country": "PER",
     "total": null,
     "place": null
    }

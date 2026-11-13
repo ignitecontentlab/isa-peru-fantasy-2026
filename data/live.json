@@ -1,150 +1,91 @@
 {
- "division": "men",
+ "division": "women",
  "round": "REPECHAGE 6",
- "heat": 5,
- "heat_id": "135",
+ "heat": 2,
+ "heat_id": "132",
  "status": "RUNNING",
- "minleft": 5,
- "secleft": 47,
+ "minleft": 18,
+ "secleft": 7,
  "end": "",
  "surfers": [
   {
-   "name": "Jorgan Couzinet",
+   "name": "Aelan Vaast",
    "country": "FRA",
    "place": 1,
-   "total": 10.84,
+   "total": 0.5,
    "best_waves": [
-    8.17,
-    2.67
+    0.5,
+    0.0
    ],
    "priority": null,
    "waves": [
-    2.67,
-    8.17
-   ],
-   "wave_detail": [
-    {
-     "score": 2.67,
-     "judges": [
-      2.5,
-      2.5,
-      2.5,
-      3.0,
-      3.0
-     ]
-    },
-    {
-     "score": 8.17,
-     "judges": [
-      8.0,
-      8.5,
-      8.0,
-      8.0,
-      8.5
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Kauli Vaast",
-   "country": "FRA",
-   "place": 2,
-   "total": 6.76,
-   "best_waves": [
-    6.33,
-    0.43
-   ],
-   "priority": "P1",
-   "waves": [
-    6.33,
-    0.43
-   ],
-   "wave_detail": [
-    {
-     "score": 6.33,
-     "judges": [
-      6.5,
-      6.0,
-      6.5,
-      6.0,
-      6.5
-     ]
-    },
-    {
-     "score": 0.43,
-     "judges": [
-      0.5,
-      0.3,
-      0.5,
-      0.3,
-      0.5
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Luke van Wyk",
-   "country": "RSA",
-   "place": 3,
-   "total": 5.9,
-   "best_waves": [
-    5.9,
-    0.0
-   ],
-   "priority": "P3",
-   "waves": [
-    5.9
-   ],
-   "wave_detail": [
-    {
-     "score": 5.9,
-     "judges": [
-      7.0,
-      5.5,
-      6.0,
-      5.7,
-      6.0
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Frederico Morais",
-   "country": "POR",
-   "place": 4,
-   "total": 3.83,
-   "best_waves": [
-    3.33,
     0.5
-   ],
-   "priority": "P2",
-   "waves": [
-    0.5,
-    3.33
    ],
    "wave_detail": [
     {
      "score": 0.5,
      "judges": [
-      1.0,
       0.5,
       0.5,
-      0.3,
+      0.5,
+      0.5,
       0.5
-     ]
-    },
-    {
-     "score": 3.33,
-     "judges": [
-      4.0,
-      3.5,
-      3.5,
-      3.0,
-      3.0
      ]
     }
    ]
+  },
+  {
+   "name": "Camilla Kemp",
+   "country": "GER",
+   "place": 2,
+   "total": 0.5,
+   "best_waves": [
+    0.5,
+    0.0
+   ],
+   "priority": null,
+   "waves": [
+    0.5
+   ],
+   "wave_detail": [
+    {
+     "score": 0.5,
+     "judges": [
+      0.3,
+      0.7,
+      0.7,
+      0.3,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Naia Monte",
+   "country": "FRA",
+   "place": 3,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
+  },
+  {
+   "name": "Louise Lepront",
+   "country": "RSA",
+   "place": 4,
+   "total": 0.0,
+   "best_waves": [
+    0.0,
+    0.0
+   ],
+   "priority": null,
+   "waves": [],
+   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T18:16:34.170307Z"
+ "fetched_utc": "2026-11-13T19:09:36.179454Z"
 }

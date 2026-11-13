@@ -524,5 +524,39 @@
     0.5
    ]
   }
+ },
+ "women|aelanvaast|camillakemp|louiselepront|naiamonte": {
+  "aelanvaast": {
+   "waves": [
+    0.5
+   ],
+   "best_waves": [
+    0.5,
+    0.0
+   ]
+  },
+  "camillakemp": {
+   "waves": [
+    0.5
+   ],
+   "best_waves": [
+    0.5,
+    0.0
+   ]
+  },
+  "naiamonte": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "louiselepront": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

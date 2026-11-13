@@ -7517,8 +7517,8 @@
    {
     "name": "Francisco Ordonhas",
     "country": "POR",
-    "total": null,
-    "place": null,
+    "total": 9.33,
+    "place": 3,
     "waves": [
      2.5
     ],
@@ -7530,8 +7530,8 @@
    {
     "name": "Jean Carlos González",
     "country": "PAN",
-    "total": null,
-    "place": null,
+    "total": 8.47,
+    "place": 4,
     "waves": [],
     "best_waves": [
      0.0,
@@ -7541,8 +7541,8 @@
    {
     "name": "Griffin Colapinto",
     "country": "USA",
-    "total": null,
-    "place": null,
+    "total": 11.1,
+    "place": 2,
     "waves": [],
     "best_waves": [
      0.0,
@@ -7552,8 +7552,8 @@
    {
     "name": "Kai Odriozola",
     "country": "GER",
-    "total": null,
-    "place": null,
+    "total": 12.1,
+    "place": 1,
     "waves": [],
     "best_waves": [
      0.0,
@@ -7561,7 +7561,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7571,29 +7571,29 @@
    {
     "name": "Marco Mignot",
     "country": "FRA",
-    "total": null,
-    "place": null
+    "total": 11.44,
+    "place": 3
    },
    {
     "name": "Tom Butland",
     "country": "NZL",
-    "total": null,
-    "place": null
+    "total": 8.07,
+    "place": 4
    },
    {
     "name": "Thiago Passeri",
     "country": "ARG",
-    "total": null,
-    "place": null
+    "total": 13.8,
+    "place": 2
    },
    {
     "name": "Connor O'Leary",
     "country": "JPN",
-    "total": null,
-    "place": null
+    "total": 14.67,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7636,25 +7636,56 @@
     "name": "Ntokozo Maphumulo",
     "country": "RSA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     2.67,
+     5.5
+    ],
+    "best_waves": [
+     5.5,
+     2.67
+    ]
    },
    {
     "name": "Kanoa Igarashi",
     "country": "JPN",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     1.6,
+     8.33
+    ],
+    "best_waves": [
+     8.33,
+     1.6
+    ]
    },
    {
     "name": "George Pittar",
     "country": "AUS",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.5
+    ],
+    "best_waves": [
+     0.5,
+     0.0
+    ]
    },
    {
     "name": "Dhany Widianto",
     "country": "INA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     5.0,
+     6.67
+    ],
+    "best_waves": [
+     6.67,
+     5.0
+    ]
    }
   ],
   "complete": false
@@ -8037,6 +8068,46 @@
    {
     "name": "Rachael Aguero",
     "country": "CRC",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B14",
+  "heat": 1,
+  "surfers": [
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B14",
+  "heat": 2,
+  "surfers": [
+   {
+    "name": "Connor O'Leary",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Griffin Colapinto",
+    "country": "USA",
     "total": null,
     "place": null
    }

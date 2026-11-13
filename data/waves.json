@@ -442,5 +442,46 @@
     0.0
    ]
   }
+ },
+ "men|dhanywidianto|georgepittar|kanoaigarashi|ntokozomaphumulo": {
+  "dhanywidianto": {
+   "waves": [
+    5.0,
+    6.67
+   ],
+   "best_waves": [
+    6.67,
+    5.0
+   ]
+  },
+  "kanoaigarashi": {
+   "waves": [
+    1.6,
+    8.33
+   ],
+   "best_waves": [
+    8.33,
+    1.6
+   ]
+  },
+  "ntokozomaphumulo": {
+   "waves": [
+    2.67,
+    5.5
+   ],
+   "best_waves": [
+    5.5,
+    2.67
+   ]
+  },
+  "georgepittar": {
+   "waves": [
+    0.5
+   ],
+   "best_waves": [
+    0.5,
+    0.0
+   ]
+  }
  }
 }

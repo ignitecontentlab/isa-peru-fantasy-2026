@@ -1,78 +1,150 @@
 {
  "division": "men",
  "round": "REPECHAGE 6",
- "heat": 1,
- "heat_id": "131",
+ "heat": 3,
+ "heat_id": "133",
  "status": "RUNNING",
- "minleft": 12,
- "secleft": 55,
+ "minleft": 7,
+ "secleft": 26,
  "end": "",
  "surfers": [
   {
-   "name": "Francisco Ordonhas",
-   "country": "POR",
+   "name": "Dhany Widianto",
+   "country": "INA",
    "place": 1,
-   "total": 2.5,
+   "total": 11.67,
    "best_waves": [
-    2.5,
-    0.0
+    6.67,
+    5.0
    ],
-   "priority": "P3",
+   "priority": "P2",
    "waves": [
-    2.5
+    5.0,
+    6.67
    ],
    "wave_detail": [
     {
-     "score": 2.5,
+     "score": 5.0,
      "judges": [
-      2.5,
-      2.5,
-      2.0,
-      2.5,
-      3.0
+      5.0,
+      5.0,
+      5.0,
+      5.5,
+      5.0
+     ]
+    },
+    {
+     "score": 6.67,
+     "judges": [
+      6.5,
+      7.0,
+      6.5,
+      6.5,
+      7.0
      ]
     }
    ]
   },
   {
-   "name": "Jean Carlos González",
-   "country": "PAN",
+   "name": "Kanoa Igarashi",
+   "country": "JPN",
    "place": 2,
-   "total": 0.0,
+   "total": 9.93,
    "best_waves": [
-    0.0,
-    0.0
+    8.33,
+    1.6
    ],
    "priority": null,
-   "waves": [],
-   "wave_detail": []
+   "waves": [
+    1.6,
+    8.33
+   ],
+   "wave_detail": [
+    {
+     "score": 1.6,
+     "judges": [
+      1.5,
+      1.8,
+      1.5,
+      2.5,
+      1.5
+     ]
+    },
+    {
+     "score": 8.33,
+     "judges": [
+      8.5,
+      8.5,
+      7.5,
+      8.5,
+      8.0
+     ]
+    }
+   ]
   },
   {
-   "name": "Griffin Colapinto",
-   "country": "USA",
+   "name": "Ntokozo Maphumulo",
+   "country": "RSA",
    "place": 3,
-   "total": 0.0,
+   "total": 8.17,
    "best_waves": [
-    0.0,
-    0.0
+    5.5,
+    2.67
    ],
-   "priority": null,
-   "waves": [],
-   "wave_detail": []
+   "priority": "P1",
+   "waves": [
+    2.67,
+    5.5
+   ],
+   "wave_detail": [
+    {
+     "score": 2.67,
+     "judges": [
+      2.5,
+      2.5,
+      2.5,
+      3.0,
+      3.0
+     ]
+    },
+    {
+     "score": 5.5,
+     "judges": [
+      5.5,
+      5.5,
+      6.0,
+      5.0,
+      5.5
+     ]
+    }
+   ]
   },
   {
-   "name": "Kai Odriozola",
-   "country": "GER",
+   "name": "George Pittar",
+   "country": "AUS",
    "place": 4,
-   "total": 0.0,
+   "total": 0.5,
    "best_waves": [
-    0.0,
+    0.5,
     0.0
    ],
    "priority": null,
-   "waves": [],
-   "wave_detail": []
+   "waves": [
+    0.5
+   ],
+   "wave_detail": [
+    {
+     "score": 0.5,
+     "judges": [
+      0.5,
+      0.7,
+      0.3,
+      0.5,
+      0.5
+     ]
+    }
+   ]
   }
  ],
- "fetched_utc": "2026-11-13T16:40:59.590640Z"
+ "fetched_utc": "2026-11-13T17:30:32.834721Z"
 }

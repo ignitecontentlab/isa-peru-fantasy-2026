@@ -1845,8 +1845,8 @@
    {
     "name": "Marco Mignot",
     "country": "FRA",
-    "total": null,
-    "place": null,
+    "total": 11.7,
+    "place": 3,
     "waves": [],
     "best_waves": [
      0.0,
@@ -1856,8 +1856,8 @@
    {
     "name": "Crosby Colapinto",
     "country": "USA",
-    "total": null,
-    "place": null,
+    "total": 11.87,
+    "place": 2,
     "waves": [],
     "best_waves": [
      0.0,
@@ -1867,8 +1867,8 @@
    {
     "name": "Romeo Chavez",
     "country": "COL",
-    "total": null,
-    "place": null,
+    "total": 12.64,
+    "place": 1,
     "waves": [],
     "best_waves": [
      0.0,
@@ -1878,8 +1878,8 @@
    {
     "name": "Jean Carlos González",
     "country": "PAN",
-    "total": null,
-    "place": null,
+    "total": 7.84,
+    "place": 4,
     "waves": [],
     "best_waves": [
      0.0,
@@ -1887,7 +1887,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -1897,29 +1897,29 @@
    {
     "name": "Ethan Ewing",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 11.7,
+    "place": 1
    },
    {
     "name": "Miguel Tudela",
     "country": "PER",
-    "total": null,
-    "place": null
+    "total": 11.23,
+    "place": 2
    },
    {
     "name": "Jacobo Trigo",
     "country": "ESP",
-    "total": null,
-    "place": null
+    "total": 6.26,
+    "place": 4
    },
    {
     "name": "Ntokozo Maphumulo",
     "country": "RSA",
-    "total": null,
-    "place": null
+    "total": 8.76,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -1962,25 +1962,45 @@
     "name": "Liam O´Brien",
     "country": "AUS",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Kauli Vaast",
     "country": "FRA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Hans Odriozola",
     "country": "GER",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Tim Elter",
     "country": "GER",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    }
   ],
   "complete": false
@@ -3611,29 +3631,29 @@
    {
     "name": "Griffin Colapinto",
     "country": "USA",
-    "total": null,
-    "place": null
+    "total": 12.76,
+    "place": 1
    },
    {
     "name": "Connor O'Leary",
     "country": "JPN",
-    "total": null,
-    "place": null
+    "total": 10.07,
+    "place": 2
    },
    {
     "name": "Uriel Uziel",
     "country": "ISR",
-    "total": null,
-    "place": null
+    "total": 5.4,
+    "place": 4
    },
    {
     "name": "Rubén Vitoria",
     "country": "ESP",
-    "total": null,
-    "place": null
+    "total": 7.5,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3643,29 +3663,29 @@
    {
     "name": "Jose Joaquin Lopez",
     "country": "VEN",
-    "total": null,
-    "place": null
+    "total": 5.64,
+    "place": 4
    },
    {
     "name": "Teo Gale Grani",
     "country": "PAN",
-    "total": null,
-    "place": null
+    "total": 7.7,
+    "place": 3
    },
    {
     "name": "Kai Odriozola",
     "country": "GER",
-    "total": null,
-    "place": null
+    "total": 9.84,
+    "place": 2
    },
    {
     "name": "Thiago Passeri",
     "country": "ARG",
-    "total": null,
-    "place": null
+    "total": 10.24,
+    "place": 1
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -3675,29 +3695,29 @@
    {
     "name": "George Pittar",
     "country": "AUS",
-    "total": null,
-    "place": null
+    "total": 11.53,
+    "place": 1
    },
    {
     "name": "Joshua Burke",
     "country": "BAR",
-    "total": null,
-    "place": null
+    "total": 11.0,
+    "place": 2
    },
    {
     "name": "Rio Waida",
     "country": "INA",
-    "total": null,
-    "place": null
+    "total": 8.24,
+    "place": 3
    },
    {
     "name": "Noah Storhaug",
     "country": "NOR",
-    "total": null,
-    "place": null
+    "total": 2.9,
+    "place": 4
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -7335,6 +7355,18 @@
     "country": "PER",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Crosby Colapinto",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Ethan Ewing",
+    "country": "AUS",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7344,6 +7376,12 @@
   "round": "B05",
   "heat": 2,
   "surfers": [
+   {
+    "name": "Romeo Chavez",
+    "country": "COL",
+    "total": null,
+    "place": null
+   },
    {
     "name": "Conor Donegan",
     "country": "ESP",
@@ -7363,6 +7401,24 @@
     "country": "POR",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Jean Carlos González",
+    "country": "PAN",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Griffin Colapinto",
+    "country": "USA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Kai Odriozola",
+    "country": "GER",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -7373,8 +7429,80 @@
   "heat": 2,
   "surfers": [
    {
+    "name": "Marco Mignot",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Tom Butland",
     "country": "NZL",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Thiago Passeri",
+    "country": "ARG",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Connor O'Leary",
+    "country": "JPN",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B05",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Miguel Tudela",
+    "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B13",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Ntokozo Maphumulo",
+    "country": "RSA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "George Pittar",
+    "country": "AUS",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "men",
+  "round": "B13",
+  "heat": 4,
+  "surfers": [
+   {
+    "name": "Jacobo Trigo",
+    "country": "ESP",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Joshua Burke",
+    "country": "BAR",
     "total": null,
     "place": null
    }

@@ -262,5 +262,35 @@
     0.0
    ]
   }
+ },
+ "men|hansodriozola|kaulivaast|liamobrien|timelter": {
+  "liamobrien": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "kaulivaast": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "hansodriozola": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "timelter": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

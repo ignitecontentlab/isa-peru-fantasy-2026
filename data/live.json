@@ -1,16 +1,16 @@
 {
  "division": "men",
  "round": "ROUND 4",
- "heat": 2,
- "heat_id": "62",
+ "heat": 5,
+ "heat_id": "65",
  "status": "RUNNING",
  "minleft": 19,
- "secleft": 52,
+ "secleft": 33,
  "end": "",
  "surfers": [
   {
-   "name": "Marco Mignot",
-   "country": "FRA",
+   "name": "Liam O´Brien",
+   "country": "AUS",
    "place": 1,
    "total": 0.0,
    "best_waves": [
@@ -22,8 +22,8 @@
    "wave_detail": []
   },
   {
-   "name": "Crosby Colapinto",
-   "country": "USA",
+   "name": "Kauli Vaast",
+   "country": "FRA",
    "place": 2,
    "total": 0.0,
    "best_waves": [
@@ -35,8 +35,8 @@
    "wave_detail": []
   },
   {
-   "name": "Romeo Chavez",
-   "country": "COL",
+   "name": "Hans Odriozola",
+   "country": "GER",
    "place": 3,
    "total": 0.0,
    "best_waves": [
@@ -48,8 +48,8 @@
    "wave_detail": []
   },
   {
-   "name": "Jean Carlos González",
-   "country": "PAN",
+   "name": "Tim Elter",
+   "country": "GER",
    "place": 4,
    "total": 0.0,
    "best_waves": [
@@ -61,5 +61,5 @@
    "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T12:21:16.093028Z"
+ "fetched_utc": "2026-11-13T13:32:20.070672Z"
 }

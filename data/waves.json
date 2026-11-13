@@ -410,5 +410,37 @@
     0.0
    ]
   }
+ },
+ "men|franciscoordonhas|griffincolapinto|jeancarlosgonzalez|kaiodriozola": {
+  "franciscoordonhas": {
+   "waves": [
+    2.5
+   ],
+   "best_waves": [
+    2.5,
+    0.0
+   ]
+  },
+  "jeancarlosgonzalez": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "griffincolapinto": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "kaiodriozola": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }

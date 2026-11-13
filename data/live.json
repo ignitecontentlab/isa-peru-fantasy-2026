@@ -3,44 +3,81 @@
  "round": "REPECHAGE 6",
  "heat": 6,
  "heat_id": "136",
- "status": "RUNNING",
- "minleft": 13,
- "secleft": 59,
- "end": "",
+ "status": "UNOFFICIAL",
+ "minleft": 0,
+ "secleft": 0,
+ "end": "00:00",
  "surfers": [
   {
-   "name": "Rachael Aguero",
-   "country": "CRC",
+   "name": "Luana Silva",
+   "country": "BRA",
    "place": 1,
-   "total": 4.67,
+   "total": 11.7,
    "best_waves": [
-    4.17,
-    0.5
+    6.2,
+    5.5
    ],
    "priority": null,
    "waves": [
-    4.17,
-    0.5
+    5.5,
+    6.2
    ],
    "wave_detail": [
     {
-     "score": 4.17,
+     "score": 5.5,
      "judges": [
-      4.0,
-      4.0,
-      4.0,
-      4.5,
-      4.5
+      5.0,
+      5.7,
+      5.5,
+      5.8,
+      5.3
      ]
     },
     {
-     "score": 0.5,
+     "score": 6.2,
      "judges": [
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5
+      6.2,
+      6.2,
+      6.2,
+      7.0,
+      5.8
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rachael Aguero",
+   "country": "CRC",
+   "place": 2,
+   "total": 10.6,
+   "best_waves": [
+    5.7,
+    4.9
+   ],
+   "priority": null,
+   "waves": [
+    4.9,
+    5.7
+   ],
+   "wave_detail": [
+    {
+     "score": 4.9,
+     "judges": [
+      5.5,
+      4.7,
+      4.7,
+      5.0,
+      5.0
+     ]
+    },
+    {
+     "score": 5.7,
+     "judges": [
+      5.2,
+      5.8,
+      5.7,
+      5.7,
+      5.7
      ]
     }
    ]
@@ -48,15 +85,16 @@
   {
    "name": "Candelaria Resano",
    "country": "NCA",
-   "place": 2,
-   "total": 4.5,
+   "place": 3,
+   "total": 10.5,
    "best_waves": [
-    4.5,
-    0.0
-   ],
-   "priority": "P2",
-   "waves": [
+    6.0,
     4.5
+   ],
+   "priority": null,
+   "waves": [
+    4.5,
+    6.0
    ],
    "wave_detail": [
     {
@@ -68,21 +106,32 @@
       5.0,
       4.2
      ]
+    },
+    {
+     "score": 6.0,
+     "judges": [
+      6.5,
+      6.0,
+      6.0,
+      5.5,
+      6.0
+     ]
     }
    ]
   },
   {
    "name": "Vera Jarisz",
    "country": "ARG",
-   "place": 3,
-   "total": 2.83,
+   "place": 4,
+   "total": 8.36,
    "best_waves": [
-    2.83,
-    0.0
+    5.53,
+    2.83
    ],
    "priority": null,
    "waves": [
-    2.83
+    2.83,
+    5.53
    ],
    "wave_detail": [
     {
@@ -94,22 +143,19 @@
       3.5,
       2.5
      ]
+    },
+    {
+     "score": 5.53,
+     "judges": [
+      6.0,
+      5.0,
+      5.8,
+      5.3,
+      5.5
+     ]
     }
    ]
-  },
-  {
-   "name": "Luana Silva",
-   "country": "BRA",
-   "place": 4,
-   "total": 0.0,
-   "best_waves": [
-    0.0,
-    0.0
-   ],
-   "priority": "P1",
-   "waves": [],
-   "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T20:42:17.215707Z"
+ "fetched_utc": "2026-11-13T21:29:10.825846Z"
 }

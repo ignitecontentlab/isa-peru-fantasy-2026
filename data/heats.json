@@ -8130,56 +8130,61 @@
    {
     "name": "Luana Silva",
     "country": "BRA",
-    "total": null,
-    "place": null,
-    "waves": [],
+    "total": 11.7,
+    "place": 1,
+    "waves": [
+     5.5,
+     6.2
+    ],
     "best_waves": [
-     0.0,
-     0.0
+     6.2,
+     5.5
     ]
    },
    {
     "name": "Vera Jarisz",
     "country": "ARG",
-    "total": null,
-    "place": null,
+    "total": 8.36,
+    "place": 4,
     "waves": [
-     2.83
+     2.83,
+     5.53
     ],
     "best_waves": [
-     2.83,
-     0.0
+     5.53,
+     2.83
     ]
    },
    {
     "name": "Candelaria Resano",
     "country": "NCA",
-    "total": null,
-    "place": null,
+    "total": 10.5,
+    "place": 3,
     "waves": [
-     4.5
+     4.5,
+     6.0
     ],
     "best_waves": [
-     4.5,
-     0.0
+     6.0,
+     4.5
     ]
    },
    {
     "name": "Rachael Aguero",
     "country": "CRC",
-    "total": null,
-    "place": null,
+    "total": 10.6,
+    "place": 2,
     "waves": [
-     4.17,
-     0.5
+     4.9,
+     5.7
     ],
     "best_waves": [
-     4.17,
-     0.5
+     5.7,
+     4.9
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "men",
@@ -8321,6 +8326,12 @@
     "place": null
    },
    {
+    "name": "Rachael Aguero",
+    "country": "CRC",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Naia Monte",
     "country": "FRA",
     "total": null,
@@ -8348,6 +8359,12 @@
    },
    {
     "name": "Laura Raupp",
+    "country": "BRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Luana Silva",
     "country": "BRA",
     "total": null,
     "place": null

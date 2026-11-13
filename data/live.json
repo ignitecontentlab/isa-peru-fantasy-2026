@@ -1,68 +1,79 @@
 {
  "division": "women",
  "round": "REPECHAGE 6",
- "heat": 2,
- "heat_id": "132",
+ "heat": 4,
+ "heat_id": "134",
  "status": "RUNNING",
- "minleft": 18,
- "secleft": 7,
+ "minleft": 14,
+ "secleft": 46,
  "end": "",
  "surfers": [
   {
-   "name": "Aelan Vaast",
-   "country": "FRA",
+   "name": "Yang Siqi",
+   "country": "CHN",
    "place": 1,
-   "total": 0.5,
+   "total": 4.87,
    "best_waves": [
-    0.5,
-    0.0
+    4.5,
+    0.37
    ],
    "priority": null,
    "waves": [
-    0.5
+    4.5,
+    0.37
    ],
    "wave_detail": [
     {
-     "score": 0.5,
+     "score": 4.5,
      "judges": [
+      4.5,
+      4.5,
+      4.5,
+      4.5,
+      4.0
+     ]
+    },
+    {
+     "score": 0.37,
+     "judges": [
+      0.3,
       0.5,
+      0.2,
       0.5,
-      0.5,
-      0.5,
-      0.5
+      0.3
      ]
     }
    ]
   },
   {
-   "name": "Camilla Kemp",
-   "country": "GER",
+   "name": "Maria Salgado",
+   "country": "POR",
    "place": 2,
-   "total": 0.5,
+   "total": 0.57,
    "best_waves": [
-    0.5,
+    0.57,
     0.0
    ],
-   "priority": null,
+   "priority": "P1",
    "waves": [
-    0.5
+    0.57
    ],
    "wave_detail": [
     {
-     "score": 0.5,
+     "score": 0.57,
      "judges": [
-      0.3,
+      0.5,
+      0.8,
+      0.5,
       0.7,
-      0.7,
-      0.3,
       0.5
      ]
     }
    ]
   },
   {
-   "name": "Naia Monte",
-   "country": "FRA",
+   "name": "Carissa Moore",
+   "country": "USA",
    "place": 3,
    "total": 0.0,
    "best_waves": [
@@ -74,18 +85,18 @@
    "wave_detail": []
   },
   {
-   "name": "Louise Lepront",
-   "country": "RSA",
+   "name": "Stephanie Gilmore",
+   "country": "AUS",
    "place": 4,
    "total": 0.0,
    "best_waves": [
     0.0,
     0.0
    ],
-   "priority": null,
+   "priority": "P2",
    "waves": [],
    "wave_detail": []
   }
  ],
- "fetched_utc": "2026-11-13T19:09:36.179454Z"
+ "fetched_utc": "2026-11-13T19:57:08.846929Z"
 }

@@ -7921,8 +7921,8 @@
    {
     "name": "Aelan Vaast",
     "country": "FRA",
-    "total": null,
-    "place": null,
+    "total": 9.57,
+    "place": 2,
     "waves": [
      0.5
     ],
@@ -7934,8 +7934,8 @@
    {
     "name": "Naia Monte",
     "country": "FRA",
-    "total": null,
-    "place": null,
+    "total": 10.7,
+    "place": 1,
     "waves": [],
     "best_waves": [
      0.0,
@@ -7945,8 +7945,8 @@
    {
     "name": "Camilla Kemp",
     "country": "GER",
-    "total": null,
-    "place": null,
+    "total": 5.0,
+    "place": 3,
     "waves": [
      0.5
     ],
@@ -7958,8 +7958,8 @@
    {
     "name": "Louise Lepront",
     "country": "RSA",
-    "total": null,
-    "place": null,
+    "total": 4.2,
+    "place": 4,
     "waves": [],
     "best_waves": [
      0.0,
@@ -7967,7 +7967,7 @@
     ]
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -8009,29 +8009,29 @@
    {
     "name": "Laura Raupp",
     "country": "BRA",
-    "total": null,
-    "place": null
+    "total": 12.17,
+    "place": 2
    },
    {
     "name": "Estela López",
     "country": "CHI",
-    "total": null,
-    "place": null
+    "total": 12.9,
+    "place": 1
    },
    {
     "name": "Taina Hinckel",
     "country": "BRA",
-    "total": null,
-    "place": null
+    "total": 9.33,
+    "place": 4
    },
    {
     "name": "Genesis Borja",
     "country": "ECU",
-    "total": null,
-    "place": null
+    "total": 9.73,
+    "place": 3
    }
   ],
-  "complete": false
+  "complete": true
  },
  {
   "division": "women",
@@ -8042,25 +8042,50 @@
     "name": "Carissa Moore",
     "country": "USA",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Maria Salgado",
     "country": "POR",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     0.57
+    ],
+    "best_waves": [
+     0.57,
+     0.0
+    ]
    },
    {
     "name": "Stephanie Gilmore",
     "country": "AUS",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [],
+    "best_waves": [
+     0.0,
+     0.0
+    ]
    },
    {
     "name": "Yang Siqi",
     "country": "CHN",
     "total": null,
-    "place": null
+    "place": null,
+    "waves": [
+     4.5,
+     0.37
+    ],
+    "best_waves": [
+     4.5,
+     0.37
+    ]
    }
   ],
   "complete": false
@@ -8235,6 +8260,18 @@
     "country": "AUS",
     "total": null,
     "place": null
+   },
+   {
+    "name": "Aelan Vaast",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
+    "name": "Estela López",
+    "country": "CHI",
+    "total": null,
+    "place": null
    }
   ],
   "complete": false
@@ -8245,8 +8282,28 @@
   "heat": 2,
   "surfers": [
    {
+    "name": "Naia Monte",
+    "country": "FRA",
+    "total": null,
+    "place": null
+   },
+   {
     "name": "Sol Aguirre",
     "country": "PER",
+    "total": null,
+    "place": null
+   }
+  ],
+  "complete": false
+ },
+ {
+  "division": "women",
+  "round": "B14",
+  "heat": 3,
+  "surfers": [
+   {
+    "name": "Laura Raupp",
+    "country": "BRA",
     "total": null,
     "place": null
    }

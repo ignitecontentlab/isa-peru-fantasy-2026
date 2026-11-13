@@ -558,5 +558,40 @@
     0.0
    ]
   }
+ },
+ "women|carissamoore|mariasalgado|stephaniegilmore|yangsiqi": {
+  "yangsiqi": {
+   "waves": [
+    4.5,
+    0.37
+   ],
+   "best_waves": [
+    4.5,
+    0.37
+   ]
+  },
+  "mariasalgado": {
+   "waves": [
+    0.57
+   ],
+   "best_waves": [
+    0.57,
+    0.0
+   ]
+  },
+  "carissamoore": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  },
+  "stephaniegilmore": {
+   "waves": [],
+   "best_waves": [
+    0.0,
+    0.0
+   ]
+  }
  }
 }
